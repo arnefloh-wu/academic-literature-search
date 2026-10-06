@@ -1,0 +1,17 @@
+{
+  "topic": "Differentiated International Integration in International Alliances",
+  "years": [2010, 2026],
+  "concepts": [
+    {"name": "alliance form",
+     "terms": ["international alliance*", "strategic alliance*", "international joint venture*",
+               "cross-border alliance*", "cross-border partnership*", "alliance portfolio*",
+               "multi-partner alliance*", "multipartner alliance*", "alliance network*",
+               "airline alliance*", "internationale Allianz*", "Joint Venture*"]},
+    {"name": "integration and its differentiation",
+     "terms": ["integration", "\"differentiated integration\"", "\"partial integration\"",
+               "\"variable geometry\"", "multi-speed", "coordination", "control", "autonomy",
+               "interdependence", "governance", "\"alliance scope\"", "modular*",
+               "Integration", "Koordination", "Kontrolle", "Autonomie"]}
+  ],
+  "exclude": ["nursing", "school*", "military alliance*", "NATO", "biolog*", "protein"]
+}

@@ -1,0 +1,5 @@
+.claude/skills/academic-literature-search/.env
+__pycache__/
+*.pyc
+.DS_Store
+topics/*/files/*.zip
