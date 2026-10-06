@@ -10,10 +10,10 @@ re-runs only add what is new. The created item key is written back into each row
 into the item's Extra field.
 
 Credentials, read from the environment or from .env in the skill folder:
-    ZOTERO_API_KEY      required. zotero.org/settings/keys/new with read/write access
-                        to the group (and optionally the personal library)
-    ZOTERO_GROUP_ID     the group's numeric ID (from https://www.zotero.org/groups/<ID>/...)
-    ZOTERO_GROUP_NAME   alternative to the ID: the group name, resolved via the key
+    ZOTERO_KEY          required (alias: ZOTERO_API_KEY). zotero.org/settings/keys/new with
+                        read/write access to the group (and optionally the personal library)
+    ZOTERO_GROUP        the group: numeric ID, group URL (https://www.zotero.org/groups/<ID>/...)
+                        or group name (aliases: ZOTERO_GROUP_ID, ZOTERO_GROUP_NAME)
     ZOTERO_USER_ID      optional; detected from the key when missing
     ZOTERO_ROOT_COLLECTION  optional parent collection for all topics (default: none in a
                         group, "Academic Literature Search" in the personal library)
@@ -30,6 +30,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import time
@@ -47,6 +48,21 @@ USER_ROOT_COLLECTION = "Academic Literature Search"
 BATCH = 50
 
 
+def apply_aliases() -> None:
+    """Map the short variable names onto the ones the code reads:
+    ZOTERO_KEY -> ZOTERO_API_KEY; ZOTERO_GROUP -> ZOTERO_GROUP_ID when it is a number or a
+    group URL, else ZOTERO_GROUP_NAME. Explicitly set long names win."""
+    if env("ZOTERO_KEY") and not env("ZOTERO_API_KEY"):
+        os.environ["ZOTERO_API_KEY"] = env("ZOTERO_KEY")
+    group = env("ZOTERO_GROUP")
+    if group and not (env("ZOTERO_GROUP_ID") or env("ZOTERO_GROUP_NAME")):
+        m = re.fullmatch(r"\d+", group) or re.search(r"/groups/(\d+)", group)
+        if m:
+            os.environ["ZOTERO_GROUP_ID"] = m.group(1) if m.lastindex else m.group(0)
+        else:
+            os.environ["ZOTERO_GROUP_NAME"] = group
+
+
 def api_root() -> str:
     return (env("ZOTERO_API_BASE") or "https://api.zotero.org").rstrip("/")
 
@@ -62,7 +78,7 @@ def request(method: str, url: str, params: dict | None = None, data=None) -> tup
     body = json.dumps(data).encode() if data is not None else None
     key = env("ZOTERO_API_KEY")
     if not key:
-        raise ZoteroError("ZOTERO_API_KEY is not set (see .env.example and SKILL.md, "
+        raise ZoteroError("ZOTERO_KEY is not set (see .env.example and SKILL.md, "
                           "section 'Zotero group setup')")
     for attempt in range(4):
         req = urllib.request.Request(url, data=body, method=method)
@@ -296,6 +312,7 @@ def check() -> int:
 
 def main(argv: list[str] | None = None) -> int:
     load_env()
+    apply_aliases()
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("rows", nargs="?")

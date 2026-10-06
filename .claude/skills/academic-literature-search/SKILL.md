@@ -204,12 +204,14 @@ groups or keys, and keys must never be pasted into the chat.
    show it again.
 3. **Where the key lives.**
    - Local runs (Claude Code on a PC): `.env` in this skill folder (git-ignored), with
-     `ZOTERO_API_KEY=` and `ZOTERO_GROUP_ID=`.
+     `ZOTERO_KEY=` and `ZOTERO_GROUP=`.
    - Cloud sessions (claude.ai/code): environment settings (cloud environment menu in the
-     session title bar, then Edit): add the environment variables `ZOTERO_API_KEY` and
-     `ZOTERO_GROUP_ID`, and under *Network access* choose Custom and add `api.zotero.org`
-     to the allowed domains (keep the default package-manager list). New sessions pick
-     both up.
+     session title bar, then Edit): add the environment variables `ZOTERO_KEY` (the API
+     key) and `ZOTERO_GROUP` (group ID, group URL or group name), and under *Network
+     access* choose Custom and add `api.zotero.org` to the allowed domains (keep the
+     default package-manager list). Only sessions started after the change see the
+     variables and the new network rule; a running session must be restarted.
+   - The long names `ZOTERO_API_KEY`, `ZOTERO_GROUP_ID` and `ZOTERO_GROUP_NAME` work too.
 
 Then `python scripts/zotero_sync.py --check` prints the key owner, the groups with write
 permission and the target. Earlier topics are pushed with the normal sync command; re-runs

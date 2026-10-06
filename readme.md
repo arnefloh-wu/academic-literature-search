@@ -40,7 +40,7 @@ carried-over rows are marked `existing`, additions `new`.
 2. Connect the Notion and Dropbox connectors in Claude Code (page creation and text uploads).
    Binary uploads to Dropbox need a Dropbox app token in `.env`.
 3. Zotero: create a private group "Academic Literature Search" and an API key with
-   read/write access to it, then set `ZOTERO_API_KEY` and `ZOTERO_GROUP_ID` (steps in the
+   read/write access to it, then set `ZOTERO_KEY` and `ZOTERO_GROUP` (steps in the
    skill's SKILL.md, section "Zotero group setup"). In cloud sessions add both as environment
    variables and allow `api.zotero.org` under Network access. Test with
    `python .claude/skills/academic-literature-search/scripts/zotero_sync.py --check`.

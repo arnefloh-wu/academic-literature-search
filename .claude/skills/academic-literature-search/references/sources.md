@@ -71,8 +71,8 @@ supplementary materials (JIBS and SMJ require data availability statements).
 ## Zotero
 
 Target: a private Zotero group "Academic Literature Search", one top-level collection per
-topic. Needs `ZOTERO_API_KEY` (read/write for the group) and `ZOTERO_GROUP_ID` (or
-`ZOTERO_GROUP_NAME`); the user ID is detected from the key. Setup steps: SKILL.md, section
+topic. Needs `ZOTERO_KEY` (read/write for the group) and `ZOTERO_GROUP` (group ID, URL or
+name); the user ID is detected from the key. Setup steps: SKILL.md, section
 "Zotero group setup". `zotero_sync.py --check` verifies key, permissions and reachability.
 In cloud sessions `api.zotero.org` must be on the environment's allowed domains. Fallback
 without key or network: import `bibliography.ris` or `bibliography.json` (CSL-JSON) via
