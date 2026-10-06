@@ -168,7 +168,11 @@ Upload into `/Academic Literature Search/<topic>`: `README.md`, `rows.json`,
 `files/`. Two routes:
 
 - The Dropbox MCP connector (`create_folder`, `create_file`) handles folders and text files
-  (Markdown, JSON, BibTeX, RIS, CSV).
+  (Markdown, JSON, BibTeX, RIS, CSV) up to roughly 100 KB: each file must fit into a single
+  tool call, and `create_file` cannot append or overwrite. For larger files (the topic
+  `README.md` and `rows.json` are usually 150 to 300 KB) upload a short pointer `README.md`
+  instead: row counts, caveats, the file list, and links to the Notion page and the GitHub
+  topic folder that hold the full tables and `rows.json`.
 - Binary files (PDF, ZIP, XLSX) need `python scripts/dropbox_upload.py "topics/<topic>/" "/Academic Literature Search/<topic>"`
   with a Dropbox app token in `.env`. If no token is set, say so and list the files that
   stayed local.
