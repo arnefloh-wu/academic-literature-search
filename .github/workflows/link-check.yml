@@ -1,0 +1,73 @@
+name: Link check
+
+# Runs scripts/verify_links.py on the topic rows from a GitHub runner, which has the open
+# internet access that Claude Code cloud sessions lack. Updates the status labels and the
+# link_check field in rows.json and commits the result to the branch it ran on.
+# Start it from the Actions tab ("Run workflow") with an optional topic folder name;
+# it also runs when this file, verify_links.py or a rows.json changes (its own result
+# commit does not trigger a new run).
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Topic folder under topics/ (empty = all topics)"
+        required: false
+        default: ""
+  push:
+    paths:
+      - ".github/workflows/link-check.yml"
+      - ".claude/skills/academic-literature-search/scripts/verify_links.py"
+      - "topics/**/rows.json"
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify links
+        env:
+          TOPIC: ${{ github.event.inputs.topic }}
+        run: |
+          set -euo pipefail
+          script=.claude/skills/academic-literature-search/scripts/verify_links.py
+          if [ -n "${TOPIC:-}" ]; then
+            files=("topics/${TOPIC}/rows.json")
+          else
+            mapfile -t files < <(ls topics/*/rows.json)
+          fi
+          for f in "${files[@]}"; do
+            echo "::group::${f}"
+            python "$script" "$f" 2>&1 | tee -a link-check-summary.txt
+            python - "$f" <<'PY' | tee -a link-check-summary.txt
+          import collections, json, sys
+          rows = json.load(open(sys.argv[1]))
+          status = collections.Counter(r.get("status", "") for r in rows)
+          checks = collections.Counter((r.get("link_check") or "none").split(" ")[0] for r in rows)
+          print("status labels:", dict(status))
+          print("http results:", dict(checks.most_common()))
+          bad = [r for r in rows if (r.get("link_check") or "").startswith(("404", "410"))]
+          for r in bad:
+              print(f"BROKEN {r.get('link_check')}: {r.get('title')} -> {r.get('link')}")
+          PY
+            echo "::endgroup::"
+          done
+          cat link-check-summary.txt >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898099+github-actions[bot]@users.noreply.github.com"
+          git add topics/*/rows.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update link check results"
+            git push
+          fi

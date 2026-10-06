@@ -49,7 +49,7 @@ ALIASES.update({"book": "books", "book chapter": "books", "chapter": "books",
                 "researcher": "people", "researchers": "people", "experts": "people"})
 COLUMNS = ["Category", "Title", "Authors / Source / Year", "Outlet / Rank", "Link",
            "Key content", "Relevance for the research question", "Status"]
-URL_RE = re.compile(r"https?://[^\s)\]>]+")
+URL_RE = re.compile(r"https?://\S+")
 NOTION_SPECIAL = re.compile(r"([\\*~`$\[\]<>{}|^])")
 DEFAULT_STATUS = "new; link unverified"
 
@@ -68,27 +68,50 @@ def long_date(day: dt.date) -> str:
     return f"{day.day} {day.strftime('%B %Y')}"
 
 
+def trim_balanced(text: str) -> str:
+    """Strip trailing punctuation and closing brackets that are not part of the URL/DOI.
+    DOIs such as 10.1016/S0969-6997(01)00025-4 or SICI DOIs contain balanced brackets."""
+    text = text.rstrip(".,;:'\"")
+    changed = True
+    while changed:
+        changed = False
+        for opening, closing in ("()", "[]", "<>"):
+            if text.endswith(closing) and text.count(closing) > text.count(opening):
+                text = text[:-1].rstrip(".,;:'\"")
+                changed = True
+    return text
+
+
+def href(url: str) -> str:
+    """Link destination safe for Markdown: encode brackets that would end the link."""
+    return (url.replace("(", "%28").replace(")", "%29")
+               .replace("<", "%3C").replace(">", "%3E").replace(" ", "%20"))
+
+
 def notion_text(text: str | None) -> str:
     """Escape Notion specials and turn bare URLs into links."""
     text = " ".join(str(text or "").split())
     parts, pos = [], 0
     for m in URL_RE.finditer(text):
-        url = m.group(0).rstrip(".,;")
+        url = trim_balanced(m.group(0))
         parts.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:m.start()]))
-        parts.append(f"[{NOTION_SPECIAL.sub(r'\\\1', url)}]({url})")
+        parts.append(f"[{NOTION_SPECIAL.sub(r'\\\1', url)}]({href(url)})")
         pos = m.start() + len(url)
     parts.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:]))
     return "".join(parts)
 
 
 def notion_link(link: str | None) -> str:
-    url = (URL_RE.search(link or "") or [None])[0] if link else None
-    return notion_text(url) if url else notion_text(link)
+    m = URL_RE.search(link or "")
+    return notion_text(trim_balanced(m.group(0))) if m else notion_text(link)
 
 
 def gfm_text(text: str | None) -> str:
     text = " ".join(str(text or "").split()).replace("|", "\\|")
-    return URL_RE.sub(lambda m: f"<{m.group(0).rstrip('.,;')}>", text)
+    def autolink(m: re.Match) -> str:
+        url = trim_balanced(m.group(0))
+        return f"<{href(url)}>{m.group(0)[len(url):]}"
+    return URL_RE.sub(autolink, text)
 
 
 def group(rows: list[dict]) -> dict[str, list[dict]]:

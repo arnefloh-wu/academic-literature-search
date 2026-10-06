@@ -52,13 +52,13 @@ carried-over rows are marked `existing`, additions `new`.
 |---|---|
 | `search_sources.py` | query up to 22 APIs, normalised JSON, de-duplicated |
 | `search_strings.py` | concept file to EBSCO / WoS / Scopus / Primo / Scholar Boolean strings |
-| `verify_links.py` | HTTP-check each link, set status label |
+| `verify_links.py` | HTTP-check each link, set status label (runs on GitHub Actions via `.github/workflows/link-check.yml` whenever a `rows.json` changes) |
 | `fetch_assets.py` | download open files for Dropbox/GitHub |
 | `merge_rows.py` | merge previous and new rows (update runs) |
 | `parse_notion_rows.py` | existing Notion page to rows JSON |
 | `build_output.py` | rows JSON to Notion markdown + GitHub README |
 | `build_bibliography.py` | rows JSON to CSL-JSON, BibTeX, RIS, APA 7 |
-| `zotero_sync.py` | topic collections and items in the Zotero group; `--group` picks another group per search; `--check` tests key and access |
+| `zotero_sync.py` | topic collections and items in the Zotero group; `--group` picks another group per search; `--update` corrects items already synced; `--check` tests key and access |
 | `dropbox_upload.py` | upload a folder tree to Dropbox |
 
 ## Topics

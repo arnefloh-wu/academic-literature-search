@@ -19,22 +19,42 @@ import json
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/124.0 Safari/537.36")
-URL_RE = re.compile(r"https?://[^\s)\]>]+")
+URL_RE = re.compile(r"https?://\S+")
 VERIFIED = "link verified"
 UNVERIFIED = "link unverified"
 
 
+def trim_balanced(text: str) -> str:
+    """Strip trailing punctuation and closing brackets that are not part of the URL/DOI.
+    DOIs such as 10.1016/S0969-6997(01)00025-4 or SICI DOIs contain balanced brackets."""
+    text = text.rstrip(".,;:'\"")
+    changed = True
+    while changed:
+        changed = False
+        for opening, closing in ("()", "[]", "<>"):
+            if text.endswith(closing) and text.count(closing) > text.count(opening):
+                text = text[:-1].rstrip(".,;:'\"")
+                changed = True
+    return text
+
+
 def extract_url(link: str | None) -> str | None:
+    """First URL in the field, with brackets kept when balanced; characters that are not
+    allowed in a request line (spaces, < >) are percent-encoded."""
     if not link:
         return None
     match = URL_RE.search(link)
-    return match.group(0).rstrip(".,;") if match else None
+    if not match:
+        return None
+    url = trim_balanced(match.group(0))
+    return urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~")
 
 
 def check(url: str, timeout: int = 20) -> tuple[int | None, str]:
