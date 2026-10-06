@@ -1,5 +1,5 @@
 ## Sources on Differentiated International Integration in International Alliances (agent search, 6 October 2026)
-Research topic as pasted: "Differentiated International Integration in International Alliances". Agent search on 6 October 2026 with five parallel research agents (core alliance and IJV governance articles; adjacent literatures and methods; books, reports and working papers; data, websites, blogs and events; people), searching in English and German via web search and the Consensus paper index. 208 sources after de-duplication. Caveats: the cloud session's network policy blocked every publisher, DOI and repository host and the Consensus monthly quota was exhausted, so no link could be fetched: rows are labelled "confirmed in search results" (URL and metadata seen in a search-result record) or "link unverified" (standard reference written from memory; DOI and pages to be checked). Run scripts/verify_links.py from a PC before citing. Journal grades follow AJG 2024 / VHB-JOURQUAL 3 / FT50 and are marked (verify) where not confirmed. Files, rows.json and the bibliography (CSL-JSON, BibTeX, RIS, APA 7) are in the Dropbox folder Academic Literature Search/Differentiated International Integration in International Alliances and in GitHub arnefloh-wu/academic-literature-search under topics/.
+Research topic as pasted: "Differentiated International Integration in International Alliances". Agent search on 6 October 2026 with five parallel research agents (core alliance and IJV governance articles; adjacent literatures and methods; books, reports and working papers; data, websites, blogs and events; people), searching in English and German via web search and the Consensus paper index. 208 sources after de-duplication. Link check on 6 October 2026 (GitHub Actions, scripts/verify_links.py): 118 links verified (the page answered), 50 confirmed in search results and 40 unverified; most of the 90 not verified are publisher pages that refuse automated requests (HTTP 403) and usually open in a browser. No link is broken: three wrong links found by the check were corrected (two DOIs and the ECPR network page). Journal grades follow AJG 2024 / VHB-JOURQUAL 3 / FT50 and are marked (verify) where not confirmed. 173 references are in the Zotero group academic-literature-search (collection named after this topic). Files, rows.json and the bibliography (CSL-JSON, BibTeX, RIS, APA 7) are in the Dropbox folder Academic Literature Search/Differentiated International Integration in International Alliances and in GitHub arnefloh-wu/academic-literature-search under topics/.
 ### Synthesis
 **Where the question sits.** "Differentiated integration" is an established construct in EU studies, not in alliance research. In EU studies it describes members integrating to different depths, speeds and scopes (Stubb's multi-speed, variable geometry and à la carte; Schimmelfennig, Leuffen and Rittberger's "system of differentiated integration"; Kölliker's club-goods explanation; Koremenos, Lipson and Snidal's flexibility provisions). Alliance research studies the same phenomenon under other names: parent control and autonomy in international joint ventures, alliance scope and partial or modular integration, governance tiers in multi-partner alliances and portfolios, and "selective integration" in airline alliances (Albers, van den Oord, Koch and Mandt 2025 is the only source found that names it in those words). The search therefore returned two bodies of work that have not yet been joined: a mature alliance-governance literature with the mechanisms, and a political-science literature with the construct, the typology and the measurement logic.
 **Research streams found.**
@@ -90,7 +90,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.vu.nl/en/publications/strategic-alliance-management-4/](https://research.vu.nl/en/publications/strategic-alliance-management-4/)</td>
 <td>Textbook structured along the alliance life cycle (strategy, partner selection, negotiation, design, launch, management, evaluation, termination) with dedicated chapters on alliance governance and control, multipartner alliances, alliance portfolios, alliance networks, international alliances, and alliance capability; third edition adds ecosystems and digital platforms.</td>
 <td>Theory and teaching context: up-to-date synthesis with separate chapters on multipartner alliances, portfolios and international alliances, i.e. the three loci of differentiated integration; useful for construct definitions. Access: paperback approx. GBP 50; Taylor & Francis e-book via WU licence if subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -100,7 +100,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://link.springer.com/book/10.1007/978-3-030-76677-1](https://link.springer.com/book/10.1007/978-3-030-76677-1)</td>
 <td>The standard textbook on differentiated integration (DI). Defines integration along three dimensions (level of centralisation, functional scope, territorial extension) and differentiation as variation in membership and depth across policy areas; compares intergovernmentalist, supranationalist and constructivist explanations and applies them to the single market, EMU, Schengen, security and enlargement.</td>
 <td>Theory: the conceptual source for transferring 'level, scope and extension' of integration to alliances (which activities, which partners, how deep). Gives the typology (multi-speed, variable geometry, a la carte, vertical vs horizontal differentiation) and testable hypotheses (interdependence, politicisation, heterogeneity). Access: paid, hardback approx. EUR 60, paperback approx. EUR 40; e-book via WU licence if Springer EU politics collection is subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -110,7 +110,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.routledge.com/The-Routledge-Handbook-of-Differentiation-in-the-European-Union/Leruth-Ganzle-Trondal/p/book/9781032183824](https://www.routledge.com/The-Routledge-Handbook-of-Differentiation-in-the-European-Union/Leruth-Ganzle-Trondal/p/book/9781032183824)</td>
 <td>The most comprehensive reference work on differentiation in the EU: conceptual and theoretical chapters (intergovernmentalism, neofunctionalism, postfunctionalism, federalism, public-goods theory), methods and measurement chapters, policy-area chapters (EMU, Schengen, defence, single market), external differentiation and legitimacy. Several chapters are open access via OAPEN.</td>
 <td>Theory and method: one-stop source for DI theories and the measurement chapters that an IB paper can borrow for coding alliance differentiation; the public-goods (club goods) chapters connect to alliance economics. Access: hardback approx. GBP 190, paperback approx. GBP 50; some chapters open access on library.oapen.org.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -130,7 +130,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.routledge.com/Differentiated-Integration-and-Disintegration-in-a-Post-Brexit-Era/Ganzle-Leruth-Trondal/p/book/9781032083698](https://www.routledge.com/Differentiated-Integration-and-Disintegration-in-a-Post-Brexit-Era/Ganzle-Leruth-Trondal/p/book/9781032083698)</td>
 <td>Twelve chapters on differentiation, differentiated integration and differentiated disintegration after Brexit: conceptual chapter by the editors, chapters on exit and opt-outs, external differentiation (EEA, Switzerland), administrative differentiation and legitimacy. Introduces 'differentiated disintegration' as the mirror image of DI.</td>
 <td>Theory and gap: supplies the exit/partial-exit vocabulary (differentiated disintegration) useful for alliance member withdrawals, downgrades to lower tiers, or carve-outs of activities from a JV. Access: paid, hardback approx. GBP 130, paperback approx. GBP 40; Taylor & Francis e-book via WU licence if subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -140,7 +140,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://global.oup.com/academic/product/cooperative-strategy-9780198814634](https://global.oup.com/academic/product/cooperative-strategy-9780198814634)</td>
 <td>Comprehensive treatment of cooperative strategy: motives and theories (TCE, RBV, game theory, trust), alliance forms (JVs, collaborations, consortia, networks, multi-partner alliances), partner selection, control and governance, learning, culture, evolution and termination, with chapters on networks and international alliances. The 2019 edition adds platforms and ecosystems. (Note: 3rd, not 2nd, edition.)</td>
 <td>Theory and context: the chapters on control and governance of IJVs and on multi-partner alliances/constellations frame how deep each partner integrates; good source for defining degrees of integration (contractual to equity to merger). Access: paid, hardback approx. GBP 95, paperback approx. GBP 50; Oxford e-book may be in WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -150,7 +150,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[http://www.infoagepub.com/products/Managing-Alliance-Portfolios-and-Networks](http://www.infoagepub.com/products/Managing-Alliance-Portfolios-and-Networks)</td>
 <td>Nine chapters on alliance portfolios and networks: portfolio perspective on alliance constellations, alliance management capability, competition dynamics of alliance networks, value creation in alliance ecosystems, internationalisation of an SME's alliance portfolio, structural embeddedness during industry convergence.</td>
 <td>Theory: portfolio configuration (partner, functional and governance diversity) is the firm-level counterpart of differentiated integration; the internationalisation chapter links portfolios to cross-border scope. Access: paperback approx. USD 50; chapters on Emerald Insight (WU licence if subscribed).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -160,7 +160,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://bookstore.emerald.com/managing-multipartner-strategic-alliances-hb-9781681230795.html](https://bookstore.emerald.com/managing-multipartner-strategic-alliances-hb-9781681230795.html)</td>
 <td>Ten chapters on alliances with more than two members: formation choice, complexity and coordination, power and roles of members, governance of multipartner alliances, value creation and appropriation, and performance; includes conceptual and empirical work (e.g. 'The choice and formation of multipartner alliances: underpinning factors').</td>
 <td>Theory and gap: multipartner alliances (airline groupings, R&D consortia) are where differentiated integration is most visible, yet the volume shows that member heterogeneity in integration depth is rarely modelled explicitly. Access: paperback approx. USD 50, hardback approx. USD 95.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -170,7 +170,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://link.springer.com/book/10.1057/9780230289529](https://link.springer.com/book/10.1057/9780230289529)</td>
 <td>Edited volume that first systematised the forms of differentiated integration (multi-speed, variable geometry, a la carte, concentric circles, core Europe) and traced them across policy fields (EMU, Schengen, defence, enlargement) and member-state 'pioneers' and 'laggards'; the introduction by Dyson and Sepos offers a typology by time, space and matter.</td>
 <td>Theory/context: the time-space-matter typology maps directly onto alliance questions (differentiation over time = phased integration; over space = regional sub-alliances; over matter = selective functional integration). Access: paid, hardback approx. GBP 100; chapters on SpringerLink via WU licence if subscribed. Link is the SpringerLink book page constructed from the e-ISBN and has not been checked.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -180,7 +180,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://books.google.com/books/about/The_Oxford_Handbook_of_International_Bus.html?id=gZNX61GjyhAC](https://books.google.com/books/about/The_Oxford_Handbook_of_International_Bus.html?id=gZNX61GjyhAC)</td>
 <td>Handbook chapter reviewing international strategic alliance research: definitions and forms (equity JVs vs non-equity), rationales (TCE, RBV, learning), alliance governance and control, performance measurement, instability and the alliance-learning debate; identifies open research questions.</td>
 <td>Theory: authoritative IB review that positions control and governance as the main lever for 'how much' to integrate with a partner; good for the literature review framing. Access: paperback approx. GBP 40; Oxford Handbooks Online via WU licence if subscribed. Page range beyond the start page (389) not confirmed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -190,7 +190,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://global.oup.com/academic/product/the-oxford-handbook-of-inter-organizational-relations-9780199282944](https://global.oup.com/academic/product/the-oxford-handbook-of-inter-organizational-relations-9780199282944)</td>
 <td>Chapter on alliances and JVs in the 808-page handbook of inter-organisational relations: reviews alliance and JV research with a focus on partner selection and embeddedness (relational, structural, institutional), and how prior ties shape governance choice and depth of cooperation.</td>
 <td>Theory: embeddedness explains why some partners within the same alliance are integrated more deeply (prior ties, trust) than others, an explanation for differentiated integration across partners. Access: handbook paperback approx. GBP 45; Oxford Handbooks Online via WU licence if subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -200,7 +200,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://sk.sagepub.com/reference/handbook-of-strategic-alliances](https://sk.sagepub.com/reference/handbook-of-strategic-alliances)</td>
 <td>Handbook with chapters on theoretical foundations (Casson and Mol on entrepreneurship; Gomes-Casseres 'How alliances reshape competition'; Luo on opportunism; Kale and Zollo on evolutionary theory; real options; alliance networks), alliance management ('Structuring and restructuring alliances', 'Alliance contractual design', 'Interorganizational trust'), research methods, and 'Alliances and international business theory'.</td>
 <td>Theory and method: chapters on structuring/restructuring, contractual design and networks give the governance vocabulary for differentiated integration; the methods chapter is useful for a quantitative design. Access: paid, approx. USD 150; Sage Knowledge e-book under WU licence if subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -230,7 +230,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.routledge.com/Managing-Strategic-Airline-Alliances/Kleymann-Seristo/p/book/9781138263758](https://www.routledge.com/Managing-Strategic-Airline-Alliances/Kleymann-Seristo/p/book/9781138263758)</td>
 <td>Monograph on the management of global airline alliances: motives, evolution from bilateral code-shares to multilateral groupings, alliance governance and the problem of member heterogeneity, levels of commitment (membership tiers, equity stakes, joint ventures), and the tension between alliance-level integration and member autonomy.</td>
 <td>Context and theory: documents how airline alliances institutionalise differentiated membership (full members, affiliates, JV partners) and the governance problems this creates; pre-dates metal-neutral JVs but frames the integration dilemma. Access: paperback approx. GBP 45; Routledge e-book via WU licence if subscribed.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -240,7 +240,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://books.google.com/books/about/Cooperative_Strategies_and_Alliances.html?id=M6XYQFgWR0cC](https://books.google.com/books/about/Cooperative_Strategies_and_Alliances.html?id=M6XYQFgWR0cC)</td>
 <td>Successor to the 1988 Lexington volume: 36 papers from an IMD conference covering alliance theory (TCE, real options, learning), governance and control, IJV instability and performance, alliance networks and portfolios, and sector studies; includes the editors' chapter 'The growth of alliances in the knowledge-based economy'.</td>
 <td>Theory and gap: a broad map of alliance research streams in which 'how much to integrate' appears as governance choice; useful for positioning differentiated integration as an under-theorised structural feature. Access: paid, approx. GBP 150 new; chapters not individually digitised.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -250,7 +250,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://books.google.com/books?vid=ISBN0875846165](https://books.google.com/books?vid=ISBN0875846165)</td>
 <td>Classic practitioner-academic book on alliance value creation: co-option, co-specialisation and learning as alliance logics; design of scope, governance and interface; management of multi-partner 'alliance networks' and alliance evolution; evidence from cases such as airline, telecom and automotive alliances.</td>
 <td>Theory: the co-specialisation and 'scope of cooperation' arguments explain why partners integrate selectively (only where complementary) and why integration depth varies across activities; cited 5,000+ times. Access: out of print in hardback, used copies approx. EUR 15-30; Google Books link constructed from ISBN and not checked.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -260,7 +260,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://catalogue.nla.gov.au/catalog/1440250](https://catalogue.nla.gov.au/catalog/1440250)</td>
 <td>Three regional volumes from the 1996 Cooperative Strategies conferences: empirical and conceptual chapters on IJV control and performance, learning, trust, partner selection, alliance networks and cross-regional comparisons (North America, Europe, Asia-Pacific).</td>
 <td>Context and theory: the regional structure itself illustrates differentiated integration across regions; several chapters examine split, dominant and shared control in IJVs. Access: out of print, library copies; used sets approx. EUR 50-100.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -270,7 +270,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.hup.harvard.edu/catalog.php?isbn=9780674016484](https://www.hup.harvard.edu/catalog.php?isbn=9780674016484)</td>
 <td>Introduces 'constellations' (groups of allied firms competing against other groups) using RISC computing and PDA alliances; analyses how constellations are structured, how members' roles and depth of involvement differ (core vs peripheral members), and how group-based competition changes rivalry.</td>
 <td>Theory: the constellation concept is the closest alliance analogue to variable geometry, with core/periphery tiers and different depths of commitment; foundation for multi-partner and airline-alliance research. Access: paperback approx. USD 35; WU library likely holds.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -280,7 +280,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://books.google.com/books/about/Strategic_Alliances.html?id=QPm5OnFvrE4C](https://books.google.com/books/about/Strategic_Alliances.html?id=QPm5OnFvrE4C)</td>
 <td>Defines strategic alliances (independent firms, shared control, continuing contributions) and proposes a typology by conflict potential and extent of interaction (pro-competitive, non-competitive, competitive, pre-competitive); discusses managing alliance scope, interfaces and the 'alliance manager' role with cases such as Ford-Mazda and Whirlpool-Philips.</td>
 <td>Theory: the 'extent of organizational interaction' axis is an early operationalisation of integration depth and shows that firms deliberately calibrate it by alliance type. Access: out of print, used copies approx. EUR 10-25.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -290,7 +290,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.goodreads.com/book/show/8739436](https://www.goodreads.com/book/show/8739436)</td>
 <td>Analyses over 30 alliances in the US, Japan and Europe; proposes an archetype typology (ad hoc pool, consortium, project-based JV, full-blown JV) by degree of resource input and retrieval, and a process model of formation, implementation and evolution with nine case histories.</td>
 <td>Theory: the four-archetype model explicitly orders alliances by depth of integration of resources, a direct precursor to differentiated integration in alliances. Access: out of print, used copies approx. EUR 15-40.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -300,7 +300,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://books.google.com/books/about/Cooperative_Strategies_and_Alliances_in.html?id=BwfRrH5jEKgC](https://books.google.com/books/about/Cooperative_Strategies_and_Alliances_in.html?id=BwfRrH5jEKgC)</td>
 <td>Foundational edited volume of IB alliance research: the editors' framework of the costs and benefits of cooperative arrangements along a continuum from licensing to equity JVs; chapters by Kogut (JV stability), Harrigan, Hennart and others on control, ownership and partner contributions.</td>
 <td>Theory: the 'continuum of cooperative arrangements' is the earliest IB conceptualisation of differentiated depth of integration; historical anchor for the literature review. Access: out of print, used copies approx. EUR 20-40; the Google Books record found appears to be a later reissue, check edition.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Book / Chapter</td>
@@ -310,7 +310,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://archive.org/details/strategiesforjoi0000kill_t8v6](https://archive.org/details/strategiesforjoi0000kill_t8v6)</td>
 <td>Classic study of 37 JVs that introduced the dominant-parent versus shared-management versus independent JV typology and found dominant-parent ventures easier to manage and better performing; chapters 'Dominant and shared ventures' and 'How to design a shared management joint venture'.</td>
 <td>Theory: the dominant/shared/independent control typology is the earliest empirical treatment of asymmetric partner integration into a venture. Access: free to borrow on Internet Archive; Routledge reissue approx. GBP 30.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Journal Articles (81)
@@ -333,7 +333,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/s41267-019-00212-0](https://doi.org/10.1057/s41267-019-00212-0)</td>
 <td>Comprehensive review of IJV research across formation motives, partner selection, governance and control, management, performance and termination. Diagnoses stagnation in some streams and sets a research agenda including IJV governance as a bundle of mechanisms, dynamics after formation, and multi-partner and emerging-market ventures.</td>
 <td>Review and gap: the agenda explicitly calls for studying IJV governance as a configuration of multiple mechanisms and the evolution of control after formation, which is where differentiated integration across functions and partners fits; prime source for positioning a JIBS-style contribution. Paywalled; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -343,7 +343,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1007/s11151-018-9636-x](https://doi.org/10.1007/s11151-018-9636-x)</td>
 <td>Survey of empirical research on airline partnerships from code-sharing to immunised joint ventures; summarises price, output and welfare evidence by cooperation level and lists open questions.</td>
 <td>Context/gap: most recent synthesis of integration tiers in airline alliances; DOI from memory, check; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -403,7 +403,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/scholar?q=Zou+Chen+2017+code-sharing+alliances+airline+profitability+Journal+of+Air+Transport+Management](https://scholar.google.com/scholar?q=Zou+Chen+2017+code-sharing+alliances+airline+profitability+Journal+of+Air+Transport+Management)</td>
 <td>Panel of airlines; code-sharing alliance intensity affects profitability, with effects depending on alliance type and carrier characteristics.</td>
 <td>Context: links a shallow integration mode (code-share) to performance; DOI and pages not confirmed; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -453,7 +453,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1111/1475-6765.12152](https://doi.org/10.1111/1475-6765.12152)</td>
 <td>Analyses organisational differentiation: states refuse or are refused full membership but settle for in-between grades (EEA, association, neighbourhood). The position of a country in the graded-membership system is explained by its governance quality relative to the core and by its own preferences; integration is a continuum rather than in/out.</td>
 <td>Theory: 'graded membership' is the closest EU analogue to tiered partner status in alliance networks, platform partner programmes and consortia (core partner, associate, affiliate); the good-governance screening logic parallels partner selection on capability and reliability. Paywalled; SSOAR open copy exists.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -463,7 +463,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1016/j.ibusrev.2014.03.005](https://doi.org/10.1016/j.ibusrev.2014.03.005)</td>
 <td>Reviews strategic alliance articles published 1991-2012 in leading management and IB journals, organised along the alliance life cycle (formation, partner selection, governance and control, implementation and management, performance) and by theoretical lens; documents the dominance of transaction cost, RBV and social exchange perspectives.</td>
 <td>Review: a life-cycle map of alliance research that shows integration decisions studied mostly as a single governance choice at formation, leaving the differentiation of integration across activities and partners over time as a gap. Paywalled; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -590,9 +590,9 @@ international alliance strategic alliance integration differentiated integration
 <td>Antitrust Immunity for Airline Alliances</td>
 <td>Bilotkach and Hüschelrath, Journal of Competition Law & Economics 7(2), 335-380, 2011, article</td>
 <td>Journal of Competition Law & Economics; AJG 2 (verify)</td>
-<td>[https://doi.org/10.1093/joclec/nhr003](https://doi.org/10.1093/joclec/nhr003)</td>
+<td>[https://doi.org/10.1093/joclec/nhq029](https://doi.org/10.1093/joclec/nhq029)</td>
 <td>Reviews the economics and policy of antitrust-immunised airline alliances and metal-neutral joint ventures, the deepest integration tier within global alliances.</td>
-<td>Context: defines the immunised-JV tier inside Star/oneworld/SkyTeam; DOI from memory, check; WU licence.</td>
+<td>Context: defines the immunised-JV tier inside Star/oneworld/SkyTeam; DOI corrected after link check; WU licence.</td>
 <td>new; link unverified</td>
 </tr>
 <tr>
@@ -643,17 +643,17 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/jibs.2008.56](https://doi.org/10.1057/jibs.2008.56)</td>
 <td>Survey of foreign firms in China; experience, declining need for local knowledge and institutional change explain the move from JV to wholly owned subsidiary, i.e. the deepening of integration after entry.</td>
 <td>Dynamics: integration depth is not fixed at formation; WU (Vienna) authors, useful network; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
 <td>Meta-analyses of International Joint Venture Performance Determinants: Evidence for Theory, Methodological Artifacts and the Unique Context of China</td>
 <td>Reus and Rottig, Management International Review 49(5), 607-640, 2009, article</td>
 <td>Management International Review; AJG 3; VHB B</td>
-<td>[https://doi.org/10.1007/s11575-009-0009-9](https://doi.org/10.1007/s11575-009-0009-9)</td>
+<td>[https://doi.org/10.1007/s11575-009-0009-4](https://doi.org/10.1007/s11575-009-0009-4)</td>
 <td>Meta-analysis of IJV performance determinants including control, equity share, trust, cultural distance; effects of control and trust are positive but heterogeneous across contexts and measurement artefacts.</td>
 <td>Evidence base: effect sizes for control-performance and trust-performance links; the requested Lee/Yang/Lee meta-analysis could not be located under that name, this is the closest substitute; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -773,7 +773,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1016/j.jairtraman.2005.11.009](https://doi.org/10.1016/j.jairtraman.2005.11.009)</td>
 <td>Conceptual; multilateral airline alliances constrain members' bilateral partnering while offering network benefits; member heterogeneity and governance explain divergent commitment.</td>
 <td>Context: constellation governance with tiered members; DOI from memory, check; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -783,7 +783,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8400078](https://doi.org/10.1057/palgrave.jibs.8400078)</td>
 <td>Korean IJV sample; four control configurations (split, shared, MNE-dominant, local-dominant); split control, where each parent controls the activities matching its firm-specific advantages, outperforms the others.</td>
 <td>Theory/evidence: the clearest empirical case that activity-wise differentiated control (not uniform integration) pays off; DOI taken from search-result URL, check against 8400076; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -803,7 +803,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8400073](https://doi.org/10.1057/palgrave.jibs.8400073)</td>
 <td>Using sales distribution of the Fortune Global 500, shows that most large MNEs are home-region oriented rather than global; only nine firms qualify as truly global. Argues that firm-specific advantages are often region-bound, so MNEs integrate operations at the regional rather than global level.</td>
 <td>Context and theory: regional strategy is differentiated integration at the firm level (deep integration within the home region, shallow outside) and suggests that cross-border alliances will also be integrated to different degrees by region of the partner. Paywalled; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -813,7 +813,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8400013](https://doi.org/10.1057/palgrave.jibs.8400013)</td>
 <td>Reviews evidence on cross-border integration of product, capital, labour and knowledge markets and concludes that integration is substantial but incomplete (semiglobalization). Argues that incomplete integration is what makes international business strategy distinctive and that location-specificity must be built into strategy models.</td>
 <td>Theory and context: provides the IB counterpart to partial integration: markets and firms integrate to intermediate and varying degrees, so alliances that integrate some activities or regions fully and others not at all are the expected rather than deviant case. Paywalled; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -853,7 +853,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.5465/amr.2002.7389937](https://doi.org/10.5465/amr.2002.7389937)</td>
 <td>Conceptual; alliance constellations (multi-firm groupings such as airline alliances) differ from dyadic alliances in size, membership heterogeneity and governance, which social exchange theory explains.</td>
 <td>Theory: constellation-level unit of analysis where member tiers and heterogeneous commitment arise; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -863,7 +863,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8490937](https://doi.org/10.1057/palgrave.jibs.8490937)</td>
 <td>Matched data from both parents of Sino-foreign IJVs; overall and specific control have different performance effects for the foreign and the local parent, so the same control arrangement is evaluated differently by each side.</td>
 <td>Method/data: dyadic (both-parent) design, a template for alliance-level data on asymmetric integration; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -880,10 +880,10 @@ international alliance strategic alliance integration differentiated integration
 <td>Levels of Airline Alliance Membership: Balancing Risks and Benefits</td>
 <td>Kleymann and Seristö, Journal of Air Transport Management 7(5), 303-310, 2001, article</td>
 <td>Journal of Air Transport Management; AJG 2 (verify); VHB C (verify)</td>
-<td>[https://doi.org/10.1016/S0969-6997(01](https://doi.org/10.1016/S0969-6997(01)</td>
+<td>[https://doi.org/10.1016/S0969-6997(01)00025-4](https://doi.org/10.1016/S0969-6997%2801%2900025-4)</td>
 <td>Conceptual; relates the tightness of a carrier's integration into an alliance group (from code-share to equity) to the risk it bears, and argues that airlines deliberately choose graded membership levels.</td>
 <td>Context: the explicit airline-industry statement of membership tiers as differentiated integration; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -903,7 +903,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1162/002081801317193592](https://doi.org/10.1162/002081801317193592)</td>
 <td>Framework article of the Rational Design project: explains variation in five design dimensions of international institutions (membership, scope, centralization, control, flexibility) by cooperation problems (distribution, enforcement, number of actors, uncertainty about behaviour, state of the world and preferences). Sixteen conjectures, e.g. restrictive membership increases with enforcement problems, flexibility increases with uncertainty.</td>
 <td>Theory: the membership/scope/centralization/control/flexibility dimensions are a ready-made design space for differentiated integration in alliances, and the conjectures (restrictive membership and limited scope under enforcement and distribution problems) can be reformulated as hypotheses on alliance tiers and scope. Paywalled; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -913,7 +913,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1162/002081801317193619](https://doi.org/10.1162/002081801317193619)</td>
 <td>Formal model of repeated trade cooperation with domestic political uncertainty: an escape clause that lets a member temporarily deviate at a pre-negotiated cost makes the cooperative regime more durable than a rigid agreement; the optimal cost of escape is positive but finite.</td>
 <td>Theory: escape clauses and temporary opt-outs are a form of differentiated commitment; the model gives a rationale for alliance contracts that let partners suspend participation in some activities without terminating the whole relationship, and predicts when such flexibility stabilises rather than erodes cooperation. Paywalled; SSRN preprint free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -930,7 +930,7 @@ international alliance strategic alliance integration differentiated integration
 <td>Arcs of Integration: An International Study of Supply Chain Strategies</td>
 <td>Frohlich and Westbrook, Journal of Operations Management 19(2), 185-200, 2001, article</td>
 <td>Journal of Operations Management; AJG 4\*; VHB A</td>
-<td>[https://doi.org/10.1016/S0272-6963(00](https://doi.org/10.1016/S0272-6963(00)</td>
+<td>[https://doi.org/10.1016/S0272-6963(00)00055-3](https://doi.org/10.1016/S0272-6963%2800%2900055-3)</td>
 <td>International survey of 322 manufacturers: identifies five 'arcs of integration' (inward-facing, periphery-facing, supplier-facing, customer-facing, outward-facing) that describe how far and in which direction firms integrate with suppliers and customers; the widest arcs show the strongest performance improvements.</td>
 <td>Theory and measurement: the arc metaphor is itself a measure of differentiated integration (direction and breadth of integration with different partner types) and the cluster-analytic approach is directly reusable for classifying alliance integration profiles. Paywalled; WU licence.</td>
 <td>new; link unverified</td>
@@ -963,14 +963,14 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1162/002081898753162820](https://doi.org/10.1162/002081898753162820)</td>
 <td>Explains the breadth-depth trade-off in multilateral cooperation and shows that admitting members sequentially, starting with those with the strongest preference for deep cooperation, creates a structure-induced equilibrium that preserves depth while expanding membership. Evidence from the history of EU enlargement and twenty environmental multilaterals.</td>
 <td>Theory: the sequential-club logic (deep core first, later entrants accept the acquis) is a model for multi-partner alliances and consortia that start with a tightly integrated core and add peripheral partners under differentiated terms; links directly to the breadth-depth trade-off in alliance portfolios. Paywalled; WU licence. DOI from memory, verify.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
 <td>Alliances and Networks</td>
 <td>Rowley, Behrens and Krackhardt, Strategic Management Journal 21(3), 369-386, 2000, article</td>
 <td>Strategic Management Journal; AJG 4\*; VHB A; FT50</td>
-<td>[https://doi.org/10.1002/(SICI](https://doi.org/10.1002/(SICI)</td>
+<td>[https://doi.org/10.1002/(SICI)1097-0266(199804)19:4\<293::AID-SMJ982\>3.0.CO;2-M](https://doi.org/10.1002/%28SICI%291097-0266%28199804%2919:4%3C293::AID-SMJ982%3E3.0.CO;2-M)</td>
 <td>Tests strong vs. weak ties (relational embeddedness) and dense vs. sparse networks (structural embeddedness) as alternative governance mechanisms in the steel and semiconductor industries; strong ties pay off in exploitation-oriented (steel) and weak ties in exploration-oriented (semiconductor) environments, and dense networks with strong ties are redundant.</td>
 <td>Theory: the one allowed network classic; frames alliance governance and evolution as functions of position in a network of heterogeneous ties, which supports the view that a firm integrates differently with different partners according to embeddedness. Paywalled; WU licence.</td>
 <td>new; link unverified</td>
@@ -993,7 +993,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.5465/amr.1997.9707180263](https://doi.org/10.5465/amr.1997.9707180263)</td>
 <td>Classic conceptual paper: as the foreign parent acquires local knowledge its dependence on the local partner falls, shifting bargaining power and making the IJV unstable (renegotiation, buy-out, termination).</td>
 <td>Theory: dynamic explanation for why depth of integration is renegotiated over time, the alliance analogue to multi-speed integration; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -1043,7 +1043,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8490154](https://doi.org/10.1057/palgrave.jibs.8490154)</td>
 <td>Internalisation-theory model of the choice between international joint venture, licensing and merger using eight factors (market size, pace of technological change, economies of scope, protection of technology, cultural distance, etc.). Treats the IJV as an intermediate form that internalises some flows between partners while keeping others at arm's length.</td>
 <td>Theory: the model explains which activities partners internalise jointly and which they leave outside the venture, i.e. the degree of integration is chosen activity by activity; a direct internalisation-theory foundation for differentiated integration within IJVs. Paywalled; WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -1063,7 +1063,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8490818](https://doi.org/10.1057/palgrave.jibs.8490818)</td>
 <td>Survey of subsidiaries; local implementer, specialised contributor and world mandate roles differ systematically in autonomy, integration and control.</td>
 <td>Theory: differentiated subsidiary roles as analogy for differentiated partner roles; WU licence.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -1103,7 +1103,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.1057/palgrave.jibs.8490359](https://doi.org/10.1057/palgrave.jibs.8490359)</td>
 <td>Classic (still the standard citation). Conceptualises IJV control along three dimensions: focus (which activities are controlled), extent (degree) and mechanisms; argues parents control selectively rather than uniformly and links control configurations to performance.</td>
 <td>Theory: the focus/extent/mechanism triad is the natural operationalisation of 'differentiated' (activity-selective) integration at the IJV level; paywalled, WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Journal Article</td>
@@ -1133,7 +1133,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.2307/2552442](https://doi.org/10.2307/2552442)</td>
 <td>Founding article of club theory: goods between private and pure public goods are shared by an excludable group; derives optimal club size from the trade-off between cost sharing and congestion and states the provision, utilisation and membership conditions.</td>
 <td>Theory: the micro-foundation behind variable geometry and tiered membership (Kölliker, Holzinger and Schimmelfennig rely on it); for alliances it frames why a sub-set of partners may form a deeper inner club for a specific activity and how optimal club size limits the number of fully integrated partners. Paywalled (JSTOR); WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Working Papers & Unpublished Materials (14)
@@ -1166,7 +1166,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://osnadocs.ub.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-2018032816746/4/thesis_jiang.pdf](https://osnadocs.ub.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-2018032816746/4/thesis_jiang.pdf)</td>
 <td>Doctoral thesis on soft success factors (trust, culture, communication, commitment) in the management of Chinese-German joint ventures, with empirical evidence from JV managers; discusses how partners divide and share management functions.</td>
 <td>Context: recent German-language empirical work on IJV management between culturally distant partners; relevant for the partner-level differentiation of roles. Access: open access (university repository).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1176,7 +1176,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.mcgill.ca/iasl/files/iasl/alliances2017.pdf](https://www.mcgill.ca/iasl/files/iasl/alliances2017.pdf)</td>
 <td>Extended manuscript on airline alliances by a leading air-law scholar: history and typology of alliances (interline, code-share, franchise, equity, global alliances, immunised JVs), the economics of alliances, US antitrust immunity and EU competition decisions, and the 2010 EC-DOT transatlantic report.</td>
 <td>Context: detailed institutional typology of alliance integration levels and the regulatory decisions that create tiered membership; useful background for case construction. Access: free PDF.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1186,7 +1186,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.econstor.eu/bitstream/10419/202391/1/eag-dp201101.pdf](https://www.econstor.eu/bitstream/10419/202391/1/eag-dp201101.pdf)</td>
 <td>DOJ economists' empirical analysis of fares on transatlantic routes comparing immunised alliance partners, non-immunised alliance partners and code-share-only cooperation; finds that alliance cooperation without immunity already achieves most of the fare benefits, questioning the incremental value of antitrust immunity for metal-neutral JVs.</td>
 <td>Method and data: directly compares outcomes across integration tiers within the same alliances, i.e. an empirical test of whether deeper (differentiated) integration pays; author names recorded from recollection of the EAG series and should be checked against the PDF. Access: open access via EconStor.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1196,7 +1196,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://cris.maastrichtuniversity.nl/ws/files/1117895/guid-0ae89415-5b21-48fa-978a-c5647cd5a9c7-ASSET1.0](https://cris.maastrichtuniversity.nl/ws/files/1117895/guid-0ae89415-5b21-48fa-978a-c5647cd5a9c7-ASSET1.0)</td>
 <td>Doctoral thesis on alliance portfolio management from an alliance-capability view: conceptualises portfolio-level capabilities (configuration, coordination, learning), studies how firms balance exploration and exploitation alliances and manage interdependencies among partners, with survey and case evidence.</td>
 <td>Theory and method: portfolio configuration and coordination capabilities explain how a focal firm manages partners integrated to different depths; survey instrument reusable. Access: open access PDF.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1246,7 +1246,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://ideas.repec.org/p/wiw/wiwrsa/ersa03p238.html](https://ideas.repec.org/p/wiw/wiwrsa/ersa03p238.html)</td>
 <td>Firm-level analysis of cross-border cooperation (JVs, subcontracting, distribution and R&D partnerships) of Austrian firms with Central and Eastern European partners: firm size, previous cooperation experience and depth of integration with the most important partner matter more than distance to the nearest potential partner.</td>
 <td>Data and Austrian context: rare firm-level evidence on how Austrian companies differentiate depth of integration across CEE partners; a possible template for a WU survey. Author names not captured in the search snippets, see the RePEc record and Regional Studies 37(9). Access: open access (RePEc/ERSA PDF); journal version via WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1256,7 +1256,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.nber.org/papers/w8645](https://www.nber.org/papers/w8645)</td>
 <td>Models an international union as heterogeneous countries jointly providing public goods with spillovers; the trade-off between coordination benefits and loss of policy independence endogenously determines union size, composition and scope; shows a trade-off between enlargement and deepening and a political bias towards excessive centralisation and small size, with a section on flexible or 'variable geometry' unions.</td>
 <td>Theory: formal economics of heterogeneous members choosing depth and scope of integration, transferable to alliance members choosing which activities to pool; provides the enlargement-vs-deepening trade-off as a hypothesis for alliance growth. Access: NBER PDF free for most academic users; AER version via WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1266,7 +1266,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.econbiz.de/Record/steuerung-und-kontrolle-internationaler-joint-venture-eine-transaktionskostentheoretisch-fundierte-empirische-analyse-kabst-r%C3%BCdiger/10004821832](https://www.econbiz.de/Record/steuerung-und-kontrolle-internationaler-joint-venture-eine-transaktionskostentheoretisch-fundierte-empirische-analyse-kabst-r%C3%BCdiger/10004821832)</td>
 <td>German doctoral thesis applying transaction cost theory to the steering and control of international joint ventures: derives hypotheses on when parents use formal (ownership, board, contracts) versus informal (personnel, socialisation) control and tests them with survey data from German parent firms.</td>
 <td>Theory and method: quantitative TCE-based model of partner control intensity in IJVs from a German-speaking context; useful template for hypotheses on control differentiation across activities. Access: print via library; ISBN not captured.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1276,7 +1276,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://ir.lib.uwo.ca/digitizedtheses/](https://ir.lib.uwo.ca/digitizedtheses/)</td>
 <td>Foundational unpublished dissertation on IJV control: distinguishes positive and negative control and the mechanisms parents use (board, staffing, planning, reporting) to control specific activities rather than the whole venture, based on Mexican JVs; the basis of the 'focus of control' idea that parents control selectively.</td>
 <td>Theory: the earliest statement that parents control only selected activities of a JV ('focus' and 'extent' of control), which is differentiated integration at the activity level; widely cited via Geringer and Hebert (1989). Link is the UWO digitised-theses collection, not the record itself. Access: library/ProQuest.</td>
-<td>new; link unverified</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Unpublished</td>
@@ -1286,7 +1286,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://escholarship.mcgill.ca/downloads/sj139495b?locale=en](https://escholarship.mcgill.ca/downloads/sj139495b?locale=en)</td>
 <td>Graduate thesis on the introduction of metal neutrality in transatlantic airline joint ventures: traces the move from code-sharing and alliance membership to revenue-sharing immunised JVs under the EU-US Open Skies agreement and assesses the legal and competitive consequences.</td>
 <td>Context: legal-institutional account of the deepest integration tier in airline alliances and of which members are inside or outside it. Author and year were not visible in search results, verify on the record page. Access: open access PDF.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Reports (12)
@@ -1309,17 +1309,17 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://openknowledge.worldbank.org/handle/10986/34055](https://openknowledge.worldbank.org/handle/10986/34055)</td>
 <td>Presents the World Bank Deep Trade Agreements database covering 18 policy areas in preferential trade agreements (border measures, services, investment, competition, IPR, environment, labour) with coded data on objectives, substantive commitments, transparency, procedures and enforcement; companion CEPR eBook 'The Economics of Deep Trade Agreements' (2021).</td>
 <td>Method and data: the coding of agreement 'depth' by policy area is a ready-made template for measuring differentiated integration across activities in inter-organisational agreements; open data. Access: open access (CC BY 3.0 IGO).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
 <td>The Implementation of Enhanced Cooperation in the European Union</td>
 <td>European Parliament Policy Department, study PE 604.987, 2018, report</td>
 <td>European Parliament, Directorate-General for Internal Policies, study for the AFCO Committee</td>
-<td>[https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604987/IPOL_STU(2018](https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604987/IPOL_STU(2018)</td>
+<td>[https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604987/IPOL_STU(2018)604987_EN.pdf](https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604987/IPOL_STU%282018%29604987_EN.pdf)</td>
 <td>Study commissioned by the AFCO Committee examining the Treaty provisions on enhanced cooperation (the EU's 'standardised and generalised framework' for differentiated integration), its use (patents, divorce law, FTT, EPPO, PESCO), and ideas to improve efficacy, efficiency and legitimacy; accompanied the 2019 EP report on enhanced cooperation.</td>
 <td>Institutional analogue: enhanced cooperation is the formal rule by which a sub-group integrates more deeply within a wider organisation, comparable to a JV sub-group inside a multi-partner alliance; gives design principles (minimum participants, openness, last resort). Author names not captured. Access: open access.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1329,7 +1329,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://eda.europa.eu/docs/default-source/Defence-Procurement-Gateway/white-paper-on-the-future-of-europe.pdf](https://eda.europa.eu/docs/default-source/Defence-Procurement-Gateway/white-paper-on-the-future-of-europe.pdf)</td>
 <td>Presents five scenarios for the EU27 by 2025 (carrying on; nothing but the single market; those who want more do more; doing less more efficiently; doing much more together). Scenario 3 enshrines differentiated integration: coalitions of the willing deepen cooperation in defence, security, taxation or social policy while others abstain.</td>
 <td>Context: official articulation of differentiated integration as a strategic option, useful as the policy framing that an alliance analogue ('those members who want more do more') can borrow. Access: open access.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1339,17 +1339,17 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://centreforaviation.com/analysis/reports/north-atlantic-airline-market-closed-jvs-to-have-78-of-asks-in-2016-weighing-the-benefits-272815](https://centreforaviation.com/analysis/reports/north-atlantic-airline-market-closed-jvs-to-have-78-of-asks-in-2016-weighing-the-benefits-272815)</td>
 <td>Industry analysis showing that the three closed (immunised) transatlantic joint ventures controlled about 72 percent of North Atlantic ASKs in summer 2016 and were set to reach 78 percent; distinguishes JV members from alliance members outside the JVs and weighs consumer benefits against reduced competition.</td>
 <td>Data and context: quantifies the inner tier (JV) versus outer tier (alliance membership only) of differentiated integration on one market; CAPA also publishes an 'Airlines in Transition' series on the natural history of alliances. Access: CAPA membership required for full text (login); summary free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
 <td>Differentiated integration in the European Union (EPRS At a Glance)</td>
 <td>EPRS, At a Glance briefing, 2016, report</td>
 <td>European Parliamentary Research Service (EPRS)</td>
-<td>[https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2016](https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2016)</td>
+<td>[https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2016)573961](https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA%282016%29573961)</td>
 <td>Two-page briefing summarising forms of differentiated integration in the EU (opt-outs, enhanced cooperation, permanent structured cooperation, intergovernmental arrangements outside the Treaties) and the debate on multi-speed Europe as membership and competences widened.</td>
 <td>Context: concise official taxonomy of DI instruments for a non-EU-studies audience; handy for the conceptual transfer section. Access: open access.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1359,7 +1359,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://institutdelors.eu/content/uploads/2025/04/differenciatedintegrationjdibjuli2015-3.pdf](https://institutdelors.eu/content/uploads/2025/04/differenciatedintegrationjdibjuli2015-3.pdf)</td>
 <td>Policy paper clarifying the conceptual and empirical boundaries of differentiated integration: overview of models (multi-speed, variable geometry, a la carte) and modes (inside/outside the Treaties, temporary/permanent), review of the political debate and the core dilemmas (flexibility vs fragmentation, legitimacy, institutional coherence).</td>
 <td>Theory transfer: compact statement of the DI dilemmas (fragmentation, free-riding, decision-making complexity) that have direct analogues in multi-tier alliances. Related Delors Centre papers: Bertoncini 2017 on legitimacy, Nguyen on accountability, Eisl 2020 on external differentiation. Access: open access.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1369,7 +1369,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/air-service-agreement-liberalisation-and-airline-alliances_g17a2800/5jlwvzf1vg41-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/air-service-agreement-liberalisation-and-airline-alliances_g17a2800/5jlwvzf1vg41-en.pdf)</td>
 <td>ITF policy analysis of air service agreement liberalisation and airline alliances: explains the levels of alliance integration from code-sharing to antitrust-immunised metal-neutral joint ventures, notes that by 2010 the highest integration had been reached by Air Canada-Lufthansa-United, Air France-KLM-Alitalia-Delta and American-BA-Iberia, and assesses effects on capacity, frequency coordination and service quality convergence.</td>
 <td>Context: documents the tiered integration within alliances and the regulatory conditions (open skies) that permit the deepest tier; useful for case selection and institutional variables. Author names not captured in search results. Access: free PDF.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1389,7 +1389,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.iata.org/en/iata-repository/publications/economic-reports/benefits-of-alliances-and-jointventures/](https://www.iata.org/en/iata-repository/publications/economic-reports/benefits-of-alliances-and-jointventures/)</td>
 <td>Explains why alliances and antitrust-immunised joint ventures dominate international markets (demand for anywhere-to-anywhere service, economies of density), distinguishes levels of cooperation from interlining and code-sharing to immunised metal-neutral JVs, and summarises evidence that immunity lowers interline fares (up to 27 percent) while over 80 percent of transatlantic and transpacific capacity sat in three alliances in 2011.</td>
 <td>Context and data: industry statement of the integration ladder (interline, code-share, alliance, immunised JV) that defines differentiated integration in airline alliances, with figures usable for motivation. Year inferred from 2011 data, verify. Access: free download.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1409,7 +1409,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[http://europa.eu/rapid/press-release_IP-10-1511_en.htm](http://europa.eu/rapid/press-release_IP-10-1511_en.htm)</td>
 <td>Joint EC-DOT research report on the role of alliances in transatlantic air services: compares the competitive structure of the EU and US airline industries, the legal regimes (Article 101 TFEU commitments vs US antitrust immunity) and analytical frameworks, and finds scope for compatible regulatory approaches; documents the three immunised JVs (Star, SkyTeam, oneworld).</td>
 <td>Context and institutional data: the regulatory source for why the deepest integration (immunised, metal-neutral JVs) exists only on some routes and among some members of each alliance, i.e. regulation as a driver of differentiated integration. Access: free; the link is the Commission press release which links to the PDF.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Report</td>
@@ -1442,7 +1442,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/wrds](https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/wrds)</td>
 <td>WU's WRDS access page: scientific staff, guest researchers, external lecturers and regular students can request personal WRDS accounts. Compustat Global offers fundamentals and market data for 40,000+ non-North-American listed firms from 1979 onwards (daily updates); Orbis data are also available through WRDS. The exact list of WU-licensed WRDS modules (e.g. whether SDC JV&A is included) must be checked on the page.</td>
 <td>Firm-level control and performance variables (size, R&D intensity, segment data, international sales) for alliance partners identified in SDC/Zephyr; needed for firm-level moderators in models of partner-specific integration depth. Access: WU licence (personal WRDS account).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1452,7 +1452,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/zephyr-bureau-van-dijk-moodys-analytics](https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/zephyr-bureau-van-dijk-moodys-analytics)</td>
 <td>Around one million completed or announced transactions (M&A, IPOs, joint ventures, private equity, MBI/MBO) with integrated BvD company financials; worldwide coverage for the last ten years, deals with European or American participation back to 1997; hourly updates; English interface. At WU accessible on campus, remote access for WU employees and (until further notice) regular students. Now branded Orbis M&A at some institutions.</td>
 <td>Second alliance/JV deal source to triangulate SDC coverage (JV deal type with partner ownership percentages and BvD IDs that link to Orbis ownership trees), allowing measurement of equity differentiation among JV partners and partner-level country attributes. Access: WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1462,7 +1462,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbis-bureau-van-dijk-moodys-analytics](https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbis-bureau-van-dijk-moodys-analytics)</td>
 <td>Information on about 580 million companies worldwide, 48 million with detailed financials; standardised consolidated and unconsolidated statements, ratios, managers, stock prices, detailed shareholder/subsidiary links (ownership trees), industry reports, Zephyr M&A deals and patents. Accessible on the WU campus; Orbis data also via WRDS for WU staff and students with WRDS accounts. Related WU products: Orbis Europe (143 million European firms), Orbis Bank Focus.</td>
 <td>Identifies jointly owned subsidiaries (JVs) and their ownership splits across countries, building a partner-by-country matrix of equity integration; also provides partner-level controls. Access: WU licence (campus / WRDS).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1472,7 +1472,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbiscrossborderinvestment](https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbiscrossborderinvestment)</td>
 <td>Covers foreign direct investment projects (greenfield and expansion), cross-border deals and information on the participating companies, with source and destination countries, sector, investment value and job estimates; coverage years to check on the WU page.</td>
 <td>Lets the researcher contrast alliance-based entry (SDC/Zephyr) with wholly owned FDI in the same country pairs, i.e. whether firms differentiate integration mode by destination; project-level location data support country-pair fixed effects. Access: WU licence.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1482,7 +1482,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://data.crunchbase.com/docs/license-agreement](https://data.crunchbase.com/docs/license-agreement)</td>
 <td>Company, investor, funding-round, acquisition and partnership records for start-ups and tech firms worldwide; the licence allows internal research and publication of aggregate statistics; free or subsidised access for graduate-level academic research on application (case-by-case). The OECD STI working paper 2017/08 'Using Crunchbase for economic and managerial research' documents coverage and biases. Not confirmed as a WU library subscription.</td>
 <td>Source for technology and platform partnerships of younger firms not captured by SDC; useful for alliance portfolios in tech/pharma ecosystems and for identifying regional partner clusters. Access: free for approved academic research, otherwise paid.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1492,7 +1492,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.worldbank.org/en/publication/worldwide-governance-indicators](https://www.worldbank.org/en/publication/worldwide-governance-indicators)</td>
 <td>Six composite governance dimensions (voice and accountability, political stability, government effectiveness, regulatory quality, rule of law, control of corruption) for 200+ economies, 1996-2025; the 2025 methodological review (WGI 2.0) revised source screening and aggregation; Excel/Stata downloads, WGI calculator and a reproducibility package on the World Bank Reproducible Research Repository.</td>
 <td>Standard institutional-quality measures for computing institutional distance between alliance partners' countries (Kogut-Singh-type index on WGI) and for host-country risk; a typical regressor for partner-specific integration depth. Access: free (CC BY 4.0).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1502,7 +1502,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.transtats.bts.gov/Tables.asp?QO_VQ=EEE&QO_anzr=Nv4%EF%BF%BDPn44vr4%EF%BF%BDf6n6v56vp5%EF%BF%BD%25FLS14z%EF%BF%BDHE%EF%BF%BDg4nssvp%25FM-%EF%BF%BDNyy%EF%BF%BDPn44vr45&QO_fu146_anzr=Nv4%EF%BF%BDPn44vr45](https://www.transtats.bts.gov/Tables.asp?QO_VQ=EEE&QO_anzr=Nv4%EF%BF%BDPn44vr4%EF%BF%BDf6n6v56vp5%EF%BF%BD%25FLS14z%EF%BF%BDHE%EF%BF%BDg4nssvp%25FM-%EF%BF%BDNyy%EF%BF%BDPn44vr45&QO_fu146_anzr=Nv4%EF%BF%BDPn44vr45)</td>
 <td>Monthly nonstop segment data for all flights with at least one US endpoint, reported by US and foreign carriers: operating carrier, origin, destination, aircraft type, service class, passengers, freight, mail, seats, departures scheduled/performed, load factor; international data released about three months after domestic; free download via TranStats (table 'T-100 International Segment (All Carriers)').</td>
 <td>Objective route-level outcome data for transatlantic and transpacific JVs: capacity coordination and route rationalisation can be measured before and after a partner joins an immunized JV, giving a behavioural measure of integration depth per partner pair. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1512,7 +1512,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.oag.com/historical-flight-data](https://www.oag.com/historical-flight-data)</td>
 <td>OAG: 20+ years (2004-present) of scheduled and actual flight records configurable by airline and airport, including codeshare information, aircraft type, delays; delivered via API or flight-leg reports; OAG master data support codeshare matching across alliance networks. Cirium Diio: 97% of worldwide scheduled flights, 20 years back and 11 months forward, with capacity, fares and traffic flows. Both commercial; academic pricing on request; not known to be in the WU library catalogue.</td>
 <td>Codeshare and schedule-coordination intensity between every pair of alliance members over time, i.e. the actual (not formal) degree of network integration, which can differ sharply within one alliance (core JV partners vs. peripheral members). Access: paid.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1522,7 +1522,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.designoftradeagreements.org/downloads/](https://www.designoftradeagreements.org/downloads/)</td>
 <td>Systematic coding of about 846 preferential trade agreements signed since 1945: list of treaties (CSV/XLSX), dyadic treaty list, content coding of 100+ design items (depth, flexibility, dispute settlement, non-trade issues, IPR, environment) with codebook. Best New Dataset Award (IPES 2017). Free download.</td>
 <td>Country-pair 'formal economic integration' control: whether and how deeply two partners' home countries are tied by a PTA, which conditions cross-border alliance scope; the depth-flexibility coding (Baccini, Dür and Elsig, ISQ 2015) is also a design template for coding alliance contracts. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1552,7 +1552,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://doi.org/10.7910/DVN/UJD7LW](https://doi.org/10.7910/DVN/UJD7LW)</td>
 <td>About 1,400 inter-state strategic partnership agreements announced 1990-2020 across 137 countries, coded by mutual recognition, formal documentation and issue scope, distinguishing partnerships from formal alliances and alignments; the introducing article shows the US trades and transfers arms more with non-allied partners than with allies.</td>
 <td>Country-pair measure of political alignment and 'differentiated' inter-state integration below full alliance, usable as a geopolitical covariate for cross-border firm alliances (does firm-level integration follow state-level partnership tiers?). Access: free (open replication data).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1562,7 +1562,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.lseg.com/en/data-analytics/financial-data/deals-data/joint-venture-deals](https://www.lseg.com/en/data-analytics/financial-data/deals-data/joint-venture-deals)</td>
 <td>Standard alliance database in IB and strategy: roughly 77,700 formal joint ventures and 216,000 strategic alliances worldwide (SDC marketing figures), deal-level records with participant names, nations, SIC codes, alliance type flags (JV, R&D, licensing, marketing, manufacturing, supply), equity stakes, announcement/termination dates, deal synopsis. Since 2024 delivered through the LSEG Workspace Excel add-in (unlimited downloads) and via WRDS as the SDC JV&A component. Known under-coverage of announced alliances (Schilling 2009, SMJ 30(3)); coverage years to check (historically from mid-1980s/1990).</td>
 <td>Core alliance-level and dyad-level data: partner nationality and activity-type flags allow coding of which functions partners integrate (scope) and how deeply (equity vs. non-equity), i.e. a direct operationalisation of differentiated integration across partners and activities; can be merged with country-level distance measures. Access: WU licence via WRDS/LSEG Workspace (check whether the WU WRDS subscription includes the SDC JV&A component).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1582,7 +1582,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://professorheatherberry.weebly.com/data.html](https://professorheatherberry.weebly.com/data.html)</td>
 <td>Longitudinal dyadic distance data for nine dimensions (economic, financial, political, administrative, cultural, demographic, knowledge, global connectedness, geographic) for a large set of country pairs; December 2017 and 2023 updates (the 2023 version covers most dimensions to 2021); download instructions on the Wharton management department site; users must cite Berry, Guillén and Zhou (2010). Complementary tools: NYU Stern Globalization Explorer CAGE Comparator (Ghemawat; 163 countries, 65 industries, 16 distance types) at globalization.stern.nyu.edu/cage.</td>
 <td>The standard set of country-pair distance covariates for alliance research; lets the study test whether partners differentiate integration depth by dyadic distance (e.g. deeper integration with institutionally close partners), matching the EU 'distance to core' logic. Access: free with citation.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1592,7 +1592,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://indiveu.eui.eu/](https://indiveu.eui.eu/)</td>
 <td>The H2020 InDivEU project (14 partners, coordinated by the EUI's European Governance and Politics Programme) published two databases on the uses of differentiated integration and two datasets on public opinion and flexible implementation, plus an integrated database on preferences of citizens, parties, governments and stakeholders towards DI, and explainer pages ('What is differentiated integration?', 'When and how to use DI?').</td>
 <td>Country-level preference and usage measures for DI among EU states; the explainer material offers a concise typology (multi-speed, variable geometry, à la carte, external differentiation) transferable to alliance tiers (full member, connecting partner, metal-neutral JV). Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1602,7 +1602,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://thomaswinzen.com/datasets/didata/](https://thomaswinzen.com/datasets/didata/)</td>
 <td>EUDIFF1 starts from every EU treaty article in force in each year 1952-2020 and codes whether each member state is legally exempted or excluded (opt-outs, enhanced cooperation, accession transition periods). EUDIFF2 codes differentiation in EU secondary legislation 1958-2018 (member-state-year-act level). Funded by SNSF/DFG (DACH 'Differentiated Integration in Europe') and H2020 InDivEU. Dataset page notes that the full datasets had not yet been publicly released; an earlier EUDIFF2 version (1958-2012, Duttle et al. 2017 JEPP) is on the ETH Research Collection. Contact the authors for access.</td>
 <td>The reference measurement model for differentiated integration: country-year counts of exemptions by policy area are the template for coding partner-specific exemptions, opt-outs and tiers within multi-partner alliances; also usable directly as a country-level 'integration-depth' covariate for EU-based alliance partners. Access: free on request / to check.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1612,7 +1612,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://globeproject.com/results.html](https://globeproject.com/results.html)</td>
 <td>Country and country-cluster scores on nine culture dimensions, each as practices ('as is') and values ('should be'), based on 17,300 middle managers in 951 organisations across 62 societies (2004); 2014 CEO study; GLOBE 2020 (culture, trust, leadership in about 150 countries) still being finalised, with country data returned to co-investigators first. Results browsable by country online; dimension definitions and scale items downloadable.</td>
 <td>Alternative culture distance basis to Hofstede and the only source that separates practices from values, useful for robustness of cultural-distance effects on integration depth between alliance partners. Access: free (online browsing; full GLOBE 2020 data not yet released).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1622,7 +1622,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://eup.ethz.ch/research/dataset.html](https://eup.ethz.ch/research/dataset.html)</td>
 <td>Dataset page of the Schimmelfennig group listing downloadable datasets, including the EUDIFF2 data and codebook used in Duttle et al. (2017) 'Opting out from European Union legislation: the differentiation of secondary law' (all exemptions granted to member states in secondary law 1958-2012, by act, member state and policy area). The Konstanz partner project page (Holzinger) documents the DACH project 'Differentiated Integration in Europe'.</td>
 <td>Provides the publicly released version of the secondary-law differentiation data plus codebook, i.e. a worked example of how to code 'who is exempted from what, for how long' that can be adapted to alliance agreements (e.g. partner-specific carve-outs in airline JVs). Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Data</td>
@@ -1632,7 +1632,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://geerthofstede.com/research-and-vsm/dimension-data-matrix/](https://geerthofstede.com/research-and-vsm/dimension-data-matrix/)</td>
 <td>Country scores (0-100) on power distance, individualism, masculinity, uncertainty avoidance, long-term orientation and indulgence for roughly 100 countries and regions; downloadable in .xls, .csv, .doc and .sav; free for research without permission, commercial use on request. Alternative culture scores: GLOBE 2004 practices/values for 62 societies at globeproject.com/results.html; ESS/EVS-based European cultural distance indices (Kaasa, Vadi and Varblane 2016) at lepo.it.da.ut.ee/\~akaasa/culturaldistances/.</td>
 <td>Input for the Kogut-Singh (1988) cultural distance index between alliance partners; the most used cultural covariate in alliance governance studies and hence a natural moderator of partner-specific integration. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Websites (12)
@@ -1675,17 +1675,17 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.strategic-alliances.org/](https://www.strategic-alliances.org/)</td>
 <td>Global non-profit for alliance and partnership managers: ASAP Handbook of Alliance Management (5th edition announced for autumn 2026 with ecosystems, governance and value realisation), Research Package with the 4th-6th 'State of Alliance Management' studies and a metrics report, biopharma and IT partnering supplements, Strategic Alliance Quarterly/Monthly, certification (CA-AM, CSAP) and an AI knowledge hub ('Ally').</td>
 <td>Practitioner benchmark data on alliance governance structures (tiered partner programmes, portfolio segmentation) that document differentiated treatment of partners in practice; potential survey partner for primary data. Access: paid membership for most reports.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Website</td>
 <td>ECPR Research Network on Differentiated Integration in the EU (RNDI)</td>
 <td>ECPR RNDI, research network page, 2026</td>
 <td>standinggroups.ecpr.eu</td>
-<td>[https://standinggroups.ecpr.eu/rndi/](https://standinggroups.ecpr.eu/rndi/)</td>
-<td>Network of about 166 scholars (steering committee chaired by Sandra Kröger, Exeter; with Cristina Fasone, Dirk Leuffen, Christopher Lord) covering empirical, legal and historical mapping of DI, public and party support, normative trade-offs and effects on states, citizens and the constitutional order; runs a seminar series and panels at ECPR General Conferences; methodologically plural and open beyond political science.</td>
+<td>[https://ecpr.eu/Group/differentiated-integration-eu](https://ecpr.eu/Group/differentiated-integration-eu)</td>
+<td>Network of about 166 scholars (steering committee chaired by Sandra Kröger, Exeter; with Cristina Fasone, Dirk Leuffen, Christopher Lord) covering empirical, legal and historical mapping of DI, public and party support, normative trade-offs and effects on states, citizens and the constitutional order; runs a seminar series and panels at ECPR General Conferences; methodologically plural and open beyond political science. The former network site (standinggroups.ecpr.eu/rndi) returned 404 in October 2026; link now points to the ECPR standing group page.</td>
 <td>Where the DI concept community meets; a management scholar presenting an alliance application would find discussants and the ECPR 2027 Barcelona panels. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Website</td>
@@ -1715,7 +1715,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://eur-lex.europa.eu/summary/glossary/enhanced_cooperation.html](https://eur-lex.europa.eu/summary/glossary/enhanced_cooperation.html)</td>
 <td>Official definition: at least nine member states may establish advanced integration in a field when the EU as a whole cannot achieve it within a reasonable period; last-resort authorisation by the Council on Commission proposal with Parliament consent; open to all member states at any time; no extension of Union competences. Related: European Parliament resolution of 17 January 2019 on differentiated integration and the 2018 EP study on implementing enhanced cooperation.</td>
 <td>Authoritative legal description of the EU's 'opt-in core group' mechanism, the closest institutional analogue to sub-alliance JVs open to other members (e.g. oneworld's transatlantic JV open to Aer Lingus); useful for definitions in the paper. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Website</td>
@@ -1745,7 +1745,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.eu3d.uio.no/](https://www.eu3d.uio.no/)</td>
 <td>About 50 researchers in 10 countries (coordinator John Erik Fossum) specifying when differentiation is politically acceptable, institutionally sustainable and democratically legitimate, with an explicit focus on dominance (asymmetric power among members); research paper and report series downloadable.</td>
 <td>The dominance lens maps onto alliance asymmetry (anchor carriers vs. junior members; lead firms in multi-partner JVs) and offers hypotheses on how power asymmetry drives differentiated integration. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Website</td>
@@ -1765,7 +1765,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.oneworld.com/news/2020-05-04-oneworld-20-facts](https://www.oneworld.com/news/2020-05-04-oneworld-20-facts)</td>
 <td>Founded 1 February 1999; now 15 members (Alaska, American, British Airways, Cathay Pacific, Finnair, Iberia, Japan Airlines, Malaysia, Qantas, Qatar, Royal Air Maroc, Royal Jordanian, SriLankan, Fiji Airways, Oman Air); 'oneworld Connect' introduced 2018 as a reduced-benefit platform for regionally focused carriers (Fiji Airways joined as Connect partner 2018 and became a full member in 2025); about 1,000 destinations in 170 countries.</td>
 <td>Documents an explicit two-tier membership model and a partner's upgrade path from partial to full integration, a clean case of multi-speed integration inside a multi-partner alliance. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Blogs (10)
@@ -1788,7 +1788,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://alliancestrategy.com/managerial-articles/](https://alliancestrategy.com/managerial-articles/)</td>
 <td>Collected HBR and other managerial pieces by the author of 'The Alliance Revolution' (1996), 'Mastering Alliance Strategy' (2003) and 'Remix Strategy' (2015), including 'How to Manage Multiple Partnerships', 'Managing High-Stakes Partners', 'Strategy Must Lie at the Heart of Alliances' and the Star Alliance 2000 teaching case, which analyses governance of a multi-partner constellation.</td>
 <td>Constellation theory is the strategy literature's closest counterpart to differentiated integration (uneven ties among members of a group); the Star Alliance case and 'remix' laws give concepts for how much to integrate with which partner. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1798,7 +1798,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://verfassungsblog.de/european-defence-union-intergovernmental/](https://verfassungsblog.de/european-defence-union-intergovernmental/)</td>
 <td>Compares three legal pathways for a core group of 'able, willing and trustworthy' states: enhanced cooperation (Art. 20 TEU), a PESCO 2.0 permanent structured cooperation, and Schengen-style intergovernmental agreements later incorporated into the Treaties; notes the Lisbon Treaty removed the Nice-era exclusion of defence from enhanced cooperation. Related Verfassungsblog pieces cover 'reinforced cooperation' for NextGenEU without Poland and Hungary and the pitfalls of enhanced cooperation in the EPPO.</td>
 <td>Legal-institutional menu of ways to form a deeper sub-group inside a larger club, directly analogous to alliance members forming a JV inside Star Alliance or oneworld; good for theorising 'pathways to differentiated integration' in alliances. Access: free (open access).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1808,7 +1808,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://hbr.org/podcast/2025/10/how-better-contracts-can-strengthen-strategic-partnerships](https://hbr.org/podcast/2025/10/how-better-contracts-can-strengthen-strategic-partnerships)</td>
 <td>Nobel laureate Oliver Hart and co-authors argue for relational, principle-based contracts (fairness, reciprocity, loyalty) rather than exhaustive transactional contracts for long-term strategic partnerships; discusses how partners design governance that adapts to unforeseen contingencies. Related HBR pieces: 'How Partners Shape Strategy' (Greve, Rowley, Shipilov 2013) on tailoring alliance networks; 'How to Choose the Right Ecosystem Partners' (2022).</td>
 <td>Contract-design perspective on why partners agree different depths of commitment with different counterparts; relational contracting is one explanation of differentiated integration within portfolios. Access: free (HBR registration limits).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1818,7 +1818,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://simpleflying.com/transatlantic-airline-joint-ventures-guide/](https://simpleflying.com/transatlantic-airline-joint-ventures-guide/)</td>
 <td>Explains the three transatlantic JV blocs: Delta-Air France-KLM-Virgin Atlantic (341 daily flights, about 23% of transatlantic capacity), American-British Airways-Iberia-Finnair (with Aer Lingus joining), United-Lufthansa-Swiss-Austrian-Brussels-Air Canada (A++); describes revenue sharing, joint pricing, schedule coordination and the rationale on fiercely competitive North Atlantic routes. Simple Flying's 'joint venture' tag page tracks new JVs and expansions (e.g. the 2026 Southwest-Turkish partnership).</td>
 <td>Accessible map of which alliance members belong to the deepest integration tier and which do not (e.g. Star Alliance members outside A++), i.e. the raw material for coding within-alliance differentiation. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1828,7 +1828,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.bdo.com/insights/advisory/the-state-of-alliance-management](https://www.bdo.com/insights/advisory/the-state-of-alliance-management)</td>
 <td>Survey-based practitioner report: alliances drove about one third of company revenue over the past five years; 62% of respondents say most or a great deal of their innovation comes from third-party collaboration; discusses governance maturity, metrics and portfolio segmentation of partners.</td>
 <td>Current practitioner evidence that firms formally segment alliance portfolios into tiers with different governance intensity, i.e. differentiated integration as a managed design choice; useful for motivation and practical relevance sections. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1838,7 +1838,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://blogs.lse.ac.uk/europpblog/2023/10/17/why-differentiation-is-now-at-the-heart-of-europes-political-system/](https://blogs.lse.ac.uk/europpblog/2023/10/17/why-differentiation-is-now-at-the-heart-of-europes-political-system/)</td>
 <td>Argues that differentiation, an established cornerstone of the EU's architecture since the 1990s, has become bi-directional (more and less integration at once) and now structures the whole political system, including external differentiation with non-members (EEA, Switzerland, UK) and candidate countries.</td>
 <td>Short, citable statement of the current DI debate; its 'bi-directional differentiation' idea parallels alliances where some members deepen into JVs while others loosen to codeshare-only ties. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1848,7 +1848,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://skift.com/2023/04/13/star-alliance-26-brands-explained/](https://skift.com/2023/04/13/star-alliance-26-brands-explained/)</td>
 <td>Member-by-member profile of Star Alliance carriers, their ownership groups (Lufthansa Group's multiple members), hub roles and partnership depth; Skift also covered the EU's 2013 approval of the Lufthansa-United transatlantic venture and reports on alliance exits and entries.</td>
 <td>Shows heterogeneity among members of the same alliance (group-owned clusters vs. stand-alone carriers), supporting a within-alliance measure of integration tiers. Access: free (some Skift Pro content paid).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1858,7 +1858,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://researchonline.lse.ac.uk/id/eprint/113996/1/europpblog_2022_02_11_flexible_europe_differentiated_integration.pdf](https://researchonline.lse.ac.uk/id/eprint/113996/1/europpblog_2022_02_11_flexible_europe_differentiated_integration.pdf)</td>
 <td>Defines DI as letting some member states pursue closer integration in specified areas without all participating, and sets out normative criteria (fair terms of cooperation, non-domination, democratic authorisation) that differentiation must meet to count as fair and democratic.</td>
 <td>Provides the fairness criteria that can be turned into governance hypotheses for alliances: differentiated integration is stable when non-participating partners are not dominated and retain voice; useful for discussion sections. Access: free (LSE Research Online copy).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1868,7 +1868,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.accesseurope.org/events/photos-videos/item/458-podcast-the-eu-in-crisis-frank-schimmelfennig](https://www.accesseurope.org/events/photos-videos/item/458-podcast-the-eu-in-crisis-frank-schimmelfennig)</td>
 <td>Lecture/podcast series by the leading DI scholar: 'The EU in crisis. Comparing integration in the euro and refugee crisis' (27 Oct 2016) and a companion podcast on differentiated integration; Schimmelfennig also teaches a College of Europe course 'Differentiated European Integration: Patterns, Causes and Institutional Design' (2025-26) and a YouTube lecture 'Development and Patterns of Differentiated Integration'.</td>
 <td>Audio introduction to the causal theory of DI (interdependence, politicisation, heterogeneity of preferences and capacities) whose variables map onto alliance partner heterogeneity. Access: free.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Blog</td>
@@ -1878,7 +1878,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://centreforaviation.com/analysis/reports/capa-airlines-in-transition-report-part-1-the-natural-history-of-airline-alliances-105278](https://centreforaviation.com/analysis/reports/capa-airlines-in-transition-report-part-1-the-natural-history-of-airline-alliances-105278)</td>
 <td>Industry analysis of the evolution of global alliances from codeshares to multilateral groupings and then to metal-neutral, antitrust-immunised joint ventures that bypass or sit on top of alliance structures; argues alliances persist but in combination with deeper bilateral JVs. CAPA's 2026 Berlin Airline Leader Summit session and 'Aviation in 2026' outlook revisit the partnership-versus-independence divide amid geopolitical realignment.</td>
 <td>Industry narrative of the layering of integration tiers in airline alliances, the empirical setting most suited to a differentiated-integration study; CAPA's analysis archive also documents JV formation dates. Access: paid (CAPA membership; some articles free).</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>
 ### Events & Calls (10)
@@ -1911,7 +1911,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.aom.org/events/annual-meeting/future-and-past-annual-meetings/](https://www.aom.org/events/annual-meeting/future-and-past-annual-meetings/)</td>
 <td>AOM moved its 2027 meeting from the US to Vienna (Austria Center Vienna and WU campus), expecting 14,000+ attendees and 4,000+ sessions; submission deadline expected in the second week of January 2027 (the 2026 deadline was 13 January); IM and STR divisions host alliance and inter-organisational relations papers and PDWs; the AOM Annals Idea Development Workshop is also scheduled in Vienna.</td>
 <td>Home-turf conference for a WU researcher; IM division symposium on 'differentiated integration in alliances' bridging EU studies and IB would be timely; also an occasion to host EU-studies scholars at WU. Access: AOM membership and registration.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Event / Call</td>
@@ -1921,7 +1921,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://conferences.euram.academy/2027conference/](https://conferences.euram.academy/2027conference/)</td>
 <td>Theme 'Rising Above: Embracing Resilience, Reimagining History, and Rethinking Management for a Sustainable Future'; submissions open late November 2026, deadline 12 January 2027 (14:00 CET), notification 11 March 2027; doctoral colloquium 21-22 June 2027 (deadline 19 January 2027); SIG tracks include International Management and Strategic Management with inter-organisational topics.</td>
 <td>Second European outlet for an early version; EURAM's SIG structure allows a topic proposal on alliances and partnerships in geopolitically fragmented markets. Access: registration fee.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Event / Call</td>
@@ -1931,7 +1931,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.egos.org/2027_Liverpool/CALL_for_short_papers](https://www.egos.org/2027_Liverpool/CALL_for_short_papers)</td>
 <td>Overall theme 'The Games We Play: Re-Writing the Rules of Organization?'; short-paper window early October 2026 to 15 January 2027 (12:00 CET); relevant sub-themes: ST57 'Where Networks Meet' (Stefan Breet, Stefano Tasselli) and ST41 'Intra- and inter-organizational networks and relationships in non-Western contexts' (Julia Brennecke, Christiana Weber, Jane Khayesi); also a sub-theme on meta-organizations.</td>
 <td>Network and meta-organisation sub-themes are natural homes for a paper treating alliances as meta-organisations with differentiated member integration. Access: registration fee.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Event / Call</td>
@@ -1941,7 +1941,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://ecpr.eu/generalconference](https://ecpr.eu/generalconference)</td>
 <td>Largest European political science meeting; call for Section proposals opens late October 2026, then Panel and Paper calls in early 2027; the Research Network on Differentiated Integration regularly runs Sections/Panels on DI (e.g. 'Differentiated Integration in Europe', 'Public Opinion and differentiated integration').</td>
 <td>Venue to present the alliance application to the originators of the DI concept and recruit a political-science co-author; UACES 2027 (host still to be announced) is the alternative. Access: registration fee.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Event / Call</td>
@@ -1961,7 +1961,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.eiba2026.aau.dk/submissions/call-for-submissions](https://www.eiba2026.aau.dk/submissions/call-for-submissions)</td>
 <td>Competitive papers (up to 10,000 words) and interactive papers (up to 6,000 words) in all IB areas; paper and panel deadline was 15 July 2026, posters, doctoral events and PDWs 1 September 2026 (passed); conference attendance and the EIBA 2027 call (location on eiba.org 'Future Conferences') remain relevant.</td>
 <td>European IB venue with strong alliance and JV tradition (JIBS/JWB editors present); attending Aalborg 2026 to scout the 2027 call and PDWs for an early-stage differentiated-integration paper. Access: registration fee.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Event / Call</td>
@@ -2014,7 +2014,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.wu.ac.at/en/persons/werner-h-hoffmann-3/](https://research.wu.ac.at/en/persons/werner-h-hoffmann-3/)</td>
 <td>Alliance-portfolio pioneer: 'Strategies for managing a portfolio of alliances' (SMJ 2007, ranked among the ten most influential alliance-management articles) and 'How to manage a portfolio of alliances' (LRP 2005); co-author of the SMJ special-issue introduction 'The interplay of competition and cooperation' (2018, with Lavie, Reuer, Shipilov) on coopetition. Methods: configurational and case-based portfolio research; Austrian and German corporate alliance data from WU projects. Also President of the Supervisory Board of the Austrian Controller Institute (practice bridge).</td>
 <td>First-choice WU co-author or senior discussant: his portfolio-configuration logic is the firm-level counterpart to 'differentiated integration' (different depth per partner/activity). Same campus, German or English, in-person paper-development discussion. Contact via institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2024,7 +2024,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.wu.ac.at/en/persons/alexander-mohr-3/](https://research.wu.ac.at/en/persons/alexander-mohr-3/)</td>
 <td>IJV governance and performance scholar: trust-performance link in strategic alliances and control and trust as organising principles of IJVs (with Puck, MIR and LRP, 2000s-2013); 'The contingent effect of state participation on the dissolution of international joint ventures' (JIBS 2016, with Wang and Fastoso, large-N survival analysis); work on partner diversity in multiparty IJVs (IBR 2016, with Wang and Goerzen). Quantitative, archival IJV samples (China, emerging markets).</td>
 <td>Closest WU match on the governance side: multiparty IJVs with heterogeneous partner commitment is exactly the differentiated-integration phenomenon at venture level. Co-author or internal reviewer; German or English; contact via institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2034,7 +2034,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.wu.ac.at/en/persons/jonas-puck-4/](https://research.wu.ac.at/en/persons/jonas-puck-4/)</td>
 <td>IJV and political-risk research: co-author with Mohr on trust, control and functional diversity in IJVs (MIR, LRP); conversion of IJVs to wholly owned subsidiaries in China (JIBS 2009, with Holtbrügge and Mohr); recent work on political risk, firm responses and headquarters decisions. Quantitative survey and archival designs; editorial board member of several IB journals; EIBA leadership gives access to the EIBA conference track and PDW network.</td>
 <td>Senior WU sponsor for the project: can host an EIBA panel or PDW on alliances, act as co-author or discussant, and connects to the IB editorial community. German or English; contact via institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2044,7 +2044,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.wu.ac.at/en/persons/phillip-c-nell-4/](https://research.wu.ac.at/en/persons/phillip-c-nell-4/)</td>
 <td>Organisation of the MNC: headquarters value added, subsidiary autonomy and attention, selective headquarters involvement (JIBS, SMJ, JWB 2011-2024); 2024 AOM best-paper recognition and City of Vienna research scholarship. Mostly large-N survey and panel designs.</td>
 <td>Discussant and WU internal reviewer: his 'selective involvement' and HQ-subsidiary differentiation logic transfers to how alliance partners integrate some activities deeply and others loosely. Hosts the IIB research seminar where the paper could be presented. Contact via institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2054,7 +2054,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://research.wu.ac.at/en/persons/desislava-dikova-3](https://research.wu.ac.at/en/persons/desislava-dikova-3)</td>
 <td>Entry-mode and establishment-mode research in transition economies (JIBS 2007 with van Witteloostuijn; data on West-European FDI into ten CEE countries 1992-2002), SME entry modes in CEE, M&A completion and subsidiary performance. Quantitative, archival and survey-based.</td>
 <td>Editor fit: Senior Editor at JIM and EMR, two natural outlets for a paper on differentiated integration in cross-border alliances; also a WU colleague for a quick desk-reject check and for CEE alliance samples. Contact via institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2064,7 +2064,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://wiiw.ac.at/robert-stehrer-s-16.html](https://wiiw.ac.at/robert-stehrer-s-16.html)</td>
 <td>International economic integration, global value chains and value-added trade; recent 'The future of the EU's competitive position: the role of CEE countries' (wiiw Policy Notes 93, 2025) and 'The EU27 energy-renewables ecosystem: competitiveness, dependencies and policy aspects' (2025). wiiw maintains CEE FDI and trade databases and runs the Seminars in International Economics series.</td>
 <td>Economics counterpart on 'integration depth': his dependency and value-chain indicators could operationalise regional integration intensity as a context variable for alliance portfolios in CEE. Discussant or wiiw seminar presentation; German or English; contact via wiiw page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2084,7 +2084,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=hzNIzzgAAAAJ&hl=en](https://scholar.google.com/citations?user=hzNIzzgAAAAJ&hl=en)</td>
 <td>Trust, control and cooperation among SMEs: 'Cooperation, trust and performance - empirical results from three countries' (BJM 2010), 'Cooperative internationalization of SMEs: self-commitment as a success factor' (EMJ 2008), 'Trust, control and knowledge transfer in small business networks' (RMS 2017), cross-country surveys in Austria, Slovenia and other European countries.</td>
 <td>Only Austrian scholar outside WU with a sustained inter-firm cooperation programme; brings the trust/control substitution lens and multi-country SME survey experience. Discussant or co-author on the governance mechanism side; German or English; contact via JKU institute page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2094,7 +2094,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=tV3B3C8AAAAJ](https://scholar.google.com/citations?user=tV3B3C8AAAAJ)</td>
 <td>Alliance governance and dynamics: 'Alliance governance' SMJ virtual special issue (2016, with Reuer, Poppo, Zenger); 'Time in international strategic alliances' (JWB 2023, with Oliveira and Lumineau); contractual complexity and renegotiation in alliances (SMJ 2007, with Reuer); 2024 EURAM SIG best paper on stakeholder governance of PPPs. Mix of large-N contract data and process studies.</td>
 <td>Ideal senior co-author or special-issue editor: she has edited alliance-governance collections and the temporal lens in the 2023 JWB paper fits 'different speeds of integration'. English or Spanish; contact via IESE faculty page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2114,7 +2114,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://faculty.unibocconi.eu/dovevlavie/](https://faculty.unibocconi.eu/dovevlavie/)</td>
 <td>Alliance-portfolio theory: 'Alliance portfolios and firm performance' (SMJ 2007), 'The evolution of alliance portfolios: the case of Unisys' (ICC 2007), exploration-exploitation balance across alliances; 'Does the predator become the prey? Knowledge spillover and protection in alliances' (JOM 2025, with Friedmann and Rademaker); book The Cooperative Economy (Routledge 2023); co-editor of the 2018 SMJ coopetition special issue with Hoffmann. Panel data on US software and telecom alliance portfolios.</td>
 <td>Co-author or discussant for the portfolio-level version of the question (which partners get deep vs shallow ties and why); existing tie to Hoffmann (WU) makes a joint project plausible. English; contact via Bocconi faculty page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2124,7 +2124,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.uantwerpen.be/en/staff/sascha-albers/](https://www.uantwerpen.be/en/staff/sascha-albers/)</td>
 <td>The airline-alliance governance specialist: chapter 'Strategic airline alliances: governance, selective integration, and networks of networks' in the Research Handbook on Air Transport Leadership and Governance (Elgar, 2024), 'Strategic alliances between airlines and airports' (JATM 2005), European airlines' strategic responses to COVID-19 (JATM 2020), 'Managing one brand, multiple operators: multi-AOC strategies in European airline groups' (2025). Qualitative-comparative and network methods; deep knowledge of Star Alliance, oneworld, SkyTeam and metal-neutral JVs.</td>
 <td>Highest-fit external co-author: 'selective integration' in his 2024 chapter is the alliance-side twin of differentiated integration. Also an editor at EMR (possible special issue) and gatekeeper for JATM. German or English; contact via university page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2134,7 +2134,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=LxGrsusAAAAJ&hl=en](https://scholar.google.com/citations?user=LxGrsusAAAAJ&hl=en)</td>
 <td>IJV boards and governance: 'Veto rights in international joint ventures' (JIBS 2024), 'Antecedents of independent directors on joint venture boards' (Org Sci 2024), 'Renegotiation of joint venture contracts: boards of directors and prior ties as alternative governance mechanisms' (LRP 2019), board cohesiveness in IJVs (with Olie). Owns, with Olie and Reuer, a unique survey dataset on Dutch-partnered IJV boards.</td>
 <td>Data-owner and co-author candidate: his IJV board data measure partner-level control rights, the micro-foundation of differentiated integration. Dutch/English; contact via ODU directory.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2144,7 +2144,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.rug.nl/staff/m.hanisch/cv?lang=en](https://www.rug.nl/staff/m.hanisch/cv?lang=en)</td>
 <td>Contract-based alliance governance with text-as-data: 'Strategic alliance governance through termination provisions' (JOM 2025), 'Kindred spirits: cognitive frame similarity and good faith provisions in strategic alliance contracts' (SMJ 2025), 'Hybrid administrative interfaces' (Org Sci 2024, with Reuer, Devarakonda, Haeussler), digital governance research agenda (JBR 2023). Built a large coded corpus of biopharma alliance contracts (SEC filings) and uses machine-learning text analysis.</td>
 <td>Rising co-author with the method the question needs: contract clauses as measures of integration depth and flexibility per partner. Groningen also hosts Leruth (EU differentiation), enabling an interdisciplinary team. German or English; contact via RUG staff page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2154,7 +2154,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://faculty.essec.edu/en/cv/jandhyala-srividya/](https://faculty.essec.edu/en/cv/jandhyala-srividya/)</td>
 <td>Geopolitics and global strategy: book The Great Disruption: How Geopolitics is Changing Companies, Managers, and Work (Cambridge University Press, 2025; Axiom award 2026), 'Geopolitics and global strategy: making money under anarchy' (2025), 'Leviathan as foreign investor: geopolitics and sovereign wealth funds' (JIBS 2021), earlier work on international institutions and firm-government alliances. Quantitative, archival.</td>
 <td>Co-author or discussant for the geopolitical driver of differentiation (partners from rival blocs integrated less deeply); she is active in AIB and SMS global-strategy tracks. English; contact via ESSEC faculty page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2164,7 +2164,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://people.miami.edu/_assets-profiles/acad-bus/pdf/mhbs-management/luo-cv.pdf](https://people.miami.edu/_assets-profiles/acad-bus/pdf/mhbs-management/luo-cv.pdf)</td>
 <td>Bridges IJV control and geopolitics: classic IJV control, trust and contract studies in China (JIBS, AMJ, SMJ 1998-2010), 'Paradigm shift and theoretical implications for the era of global disorder' (JIBS 2024), 'The rise of techno-geopolitical uncertainty: implications of the US CHIPS and Science Act' (JIBS 2023), 'A multipolar geo-strategy for international business' (JIBS 2025), concept of fragmented globalization. 2025 APJM tribute issue on his geopolitics work.</td>
 <td>Theory discussant and potential special-issue editor: his 'loosely coupled multipolar geo-strategy' is a firm-level analogue of differentiated integration across geopolitically polarised regions. English; contact via Miami faculty page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2174,7 +2174,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=wXhzVMUAAAAJ&hl=en](https://scholar.google.com/citations?user=wXhzVMUAAAAJ&hl=en)</td>
 <td>Founder of the Ivey IJV research stream (over 200 publications by Ivey PhDs): IJV survival and ownership structures (Makino and Beamish, JIBS 1998), 'Cooperative strategies in IB and management: reflections on 50 years' (JWB 2016, with Lupton), 'MNE parent-subsidiary governance and survival' (JWB 2022, with Farah, Chakravarty, Dau), 'Natural disasters and MNE internalization: reoptimizing subsidiary governance' (JWB 2023). Long-standing use of the Toyo Keizai Japanese overseas investment panel for IJV survival models.</td>
 <td>Data and legitimacy: the Japanese-subsidiary panel is a proven base for ownership-share and survival analyses of IJVs with varying equity integration; also a generous reviewer and keynote speaker. English; contact via Ivey directory.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2184,7 +2184,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[http://faculty.baruch.cuny.edu/tkdas/publications.html](http://faculty.baruch.cuny.edu/tkdas/publications.html)</td>
 <td>Trust-control-risk framework for alliances (Das and Teng, Org Studies 2001; AMR 1998), alliance instability and tensions (Org Sci 2000); edits the Research in Strategic Alliances series with volumes directly on the question: Managing Multipartner Strategic Alliances (2015), Managing Alliance Portfolios and Networks (2017), Managing the Partners in Strategic Alliances (2021), Researching Strategic Alliances. Conceptual and process-oriented.</td>
 <td>Book-chapter outlet and editor: a conceptual chapter on differentiated integration in multipartner alliances fits his series; his control-trust lens is the standard measure of 'how much integration'. English; contact via Baruch page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2194,7 +2194,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=hG19y3YAAAAJ&hl=en](https://scholar.google.com/citations?user=hG19y3YAAAAJ&hl=en)</td>
 <td>Equity and board structure of IJVs: 'A study of equity shares in international joint ventures' (JIBS 2010, with Martin), 'Board representation in international joint ventures' (with Ertug and Reuer; foreign-partner board seats as a function of equity contribution, moderated by IJV and host-country characteristics), real-options and uncertainty in JV ownership, cultural distance research. Quantitative, SDC-based large-N samples.</td>
 <td>Editor fit at GSJ (the natural outlet for a global-strategy paper on integration depth in alliances) and author of the ownership-share measures the study would use. English; contact via SMU faculty page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2214,7 +2214,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.sozwiss.hhu.de/institut/abteilungen/politikwissenschaft/politik-iii/prof-dr-thomas-winzen](https://www.sozwiss.hhu.de/institut/abteilungen/politikwissenschaft/politik-iii/prof-dr-thomas-winzen)</td>
 <td>Builder of the EUDIFF datasets (EUDIFF1 primary law, EUDIFF2 secondary law: year-by-year coding of which member state is bound by which treaty article and legislative act since 1958); Ever Looser Union? (OUP 2020, with Schimmelfennig; UACES best book prize); 'Government Euroscepticism and differentiated integration' (JCMS); 'Eastern enlargement and differentiated integration: towards normalization' (JEPP 2017). Quantitative panel designs.</td>
 <td>Methodological role model and data owner: EUDIFF's member-by-rule-by-year structure is the blueprint for a partner-by-activity-by-year integration matrix for alliances; as JEPP associate editor he could also judge an interdisciplinary piece. German or English; contact via HHU page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2224,7 +2224,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://scholar.google.com/citations?user=a9LCJGcAAAAJ&hl=de](https://scholar.google.com/citations?user=a9LCJGcAAAAJ&hl=de)</td>
 <td>Co-author of both differentiated-integration textbooks (Palgrave 2013, 2022); leads the public-opinion strand: 'Mapping public support for the varieties of differentiated integration' (EUP 2023, with Schuessler, Heermann, De Blok, De Vries), 'All on board? The role of institutional design for public support for differentiated integration' (EUP 2024), 'Differentiated integration in the EU: institutional effects, public opinion and alternative flexibility arrangements' (EUP 2023). Survey experiments and panel data.</td>
 <td>Interdisciplinary co-author for the 'legitimacy of differentiation' angle (how members and stakeholders accept unequal integration), and for survey-experimental designs. Konstanz is close to Austria; German or English; contact via Konstanz department page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2234,7 +2234,7 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.benjaminleruth.com/publication/](https://www.benjaminleruth.com/publication/)</td>
 <td>Lead editor of The Routledge Handbook of Differentiation in the European Union (2022, with Gänzle and Trondal; 770 pages, partly open access), the encyclopaedic reference on causes and consequences of differentiation incl. Brexit; co-editor of JEPP and JEI special issues on differentiated integration and disintegration (2019); EU3D project member. Qualitative and comparative.</td>
 <td>Special-issue and handbook editor who has organised the differentiation research community; natural partner for an interdisciplinary call or a chapter transferring the concept to business alliances. Same university as Marvin Hanisch. English or French; contact via Groningen staff page.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 <tr>
 <td>Person</td>
@@ -2254,6 +2254,6 @@ international alliance strategic alliance integration differentiated integration
 <td>[https://www.strategic-alliances.org/products/asap-research-package](https://www.strategic-alliances.org/products/asap-research-package)</td>
 <td>Commissions the recurring State of Alliance Management studies (alliance capability, governance practices, portfolio size, success rates across industries), publishes the ASAP Handbook of Alliance Management and the CA-AM/CSAP certification body of knowledge; 2024 BioPharma conference material on using alliance data to drive outcomes. Member survey data available via the research package (paid).</td>
 <td>Practitioner data and respondent access: the only membership organisation whose members manage multi-partner alliance portfolios day-to-day; possible survey distribution partner, source of practitioner interviewees and of benchmark data on governance practices. English; contact via ASAP website.</td>
-<td>new; confirmed in search results</td>
+<td>new; link verified</td>
 </tr>
 </table>

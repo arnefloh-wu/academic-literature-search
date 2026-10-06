@@ -38,7 +38,7 @@ Berry, H., Guillén, M. F., & Zhou, N. (2023). *Berry, Guillén and Zhou cross-n
 
 Bilotkach, V., & Hüschelrath, K. (2010). *Airline Alliances, Antitrust Immunity and Market Foreclosure* [ZEW Discussion Paper No. 10-083 (revised April 2012)]. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1727393
 
-Bilotkach, V., & Hüschelrath, K. (2011). Antitrust Immunity for Airline Alliances. *Journal of Competition Law & Economics*, *7*(2), 335-380. https://doi.org/10.1093/joclec/nhr003
+Bilotkach, V., & Hüschelrath, K. (2011). Antitrust Immunity for Airline Alliances. *Journal of Competition Law & Economics*, *7*(2), 335-380. https://doi.org/10.1093/joclec/nhq029
 
 Bilotkach, V. (2019). Airline Partnerships, Antitrust Immunity, and Joint Ventures: What We Know and What I Think We Would Like to Know. *Review of Industrial Organization*, *54*(1), 37-60. https://doi.org/10.1007/s11151-018-9636-x
 
@@ -122,7 +122,7 @@ Flynn, B. B., Huo, B., & Zhao, X. (2010). The Impact of Supply Chain Integration
 
 Fonti, F., Maoret, M., & Whitbred, R. (2017). Free-Riding in Multi-Party Alliances: The Role of Perceived Alliance Effectiveness and Peers' Collaboration in a Research Consortium. *Strategic Management Journal*, *38*(2), 363-383. https://doi.org/10.1002/smj.2470
 
-Frohlich, M. T., & Westbrook, R. (2001). Arcs of Integration: An International Study of Supply Chain Strategies. *Journal of Operations Management*, *19*(2), 185-200. https://doi.org/10.1016/S0272-6963(00
+Frohlich, M. T., & Westbrook, R. (2001). Arcs of Integration: An International Study of Supply Chain Strategies. *Journal of Operations Management*, *19*(2), 185-200. https://doi.org/10.1016/S0272-6963(00)00055-3
 
 Geringer, J. M., & Hebert, L. (1989). Control and Performance of International Joint Ventures. *Journal of International Business Studies*, *20*(2), 235-254. https://doi.org/10.1057/palgrave.jibs.8490359
 
@@ -144,7 +144,7 @@ group), E. Z. E. P. (., Duttle, T., Holzinger, K., Malang, T., Schäubli, T., Sc
 
 Gudmundsson, S. V., & Lechner, C. (2006). Multilateral Airline Alliances: Balancing Strategic Constraints and Opportunities. *Journal of Air Transport Management*, *12*(3), 153-158. https://doi.org/10.1016/j.jairtraman.2005.11.009
 
-Gulati, R. (1998). Alliances and Networks. *Strategic Management Journal*, *19*(4), 293-317. https://doi.org/10.1002/(SICI
+Gulati, R. (1998). Alliances and Networks. *Strategic Management Journal*, *19*(4), 293-317. https://doi.org/10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M
 
 Gulati, R., Lavie, D., & Singh, H. (2009). The Nature of Partnering Experience and the Gains from Alliances. *Strategic Management Journal*, *30*(11), 1213-1233. https://doi.org/10.1002/smj.786
 
@@ -190,7 +190,7 @@ Kapoor, R., & Lee, J. M. (2013). Coordinating and Competing in Ecosystems: How O
 
 Killing, J. P. (1983). *Strategies for Joint Venture Success*. Praeger. https://archive.org/details/strategiesforjoi0000kill_t8v6
 
-Kleymann, B., & Seristö, H. (2001). Levels of Airline Alliance Membership: Balancing Risks and Benefits. *Journal of Air Transport Management*, *7*(5), 303-310. https://doi.org/10.1016/S0969-6997(01
+Kleymann, B., & Seristö, H. (2001). Levels of Airline Alliance Membership: Balancing Risks and Benefits. *Journal of Air Transport Management*, *7*(5), 303-310. https://doi.org/10.1016/S0969-6997(01)00025-4
 
 Kleymann, B., & Seristö, H. (2004). *Managing Strategic Airline Alliances*. Ashgate. https://www.routledge.com/Managing-Strategic-Airline-Alliances/Kleymann-Seristo/p/book/9781138263758
 
@@ -256,7 +256,7 @@ Professionals, A. o. S. A. (2026). *ASAP - Association of Strategic Alliance Pro
 
 Puck, J. F., Holtbrügge, D., & Mohr, A. T. (2009). Beyond Entry Mode Choice: Explaining the Conversion of Joint Ventures into Wholly Owned Subsidiaries in the PRC. *Journal of International Business Studies*, *40*(3), 388-404. https://doi.org/10.1057/jibs.2008.56
 
-Research, E. C. f. P. (2026). *ECPR Research Network on Differentiated Integration in the EU (RNDI)*. standinggroups.ecpr.eu. https://standinggroups.ecpr.eu/rndi/
+Research, E. C. f. P. (2026). *ECPR Research Network on Differentiated Integration in the EU (RNDI)*. standinggroups.ecpr.eu. https://ecpr.eu/Group/differentiated-integration-eu
 
 Reuer, J. J., Zollo, M., & Singh, H. (2002). Post-Formation Dynamics in Strategic Alliances. *Strategic Management Journal*, *23*(2), 135-151. https://doi.org/10.1002/smj.214
 
@@ -268,7 +268,7 @@ Reuer, J. J., Klijn, E., & Lioukas, C. S. (2014). Board Involvement in Internati
 
 Reuer, J. J., & Devarakonda, S. V. (2016). Mechanisms of Hybrid Governance: Administrative Committees in Non-Equity Alliances. *Academy of Management Journal*, *59*(2), 510-533. https://doi.org/10.5465/amj.2012.0098
 
-Reus, T. H., & Rottig, D. (2009). Meta-analyses of International Joint Venture Performance Determinants: Evidence for Theory, Methodological Artifacts and the Unique Context of China. *Management International Review*, *49*(5), 607-640. https://doi.org/10.1007/s11575-009-0009-9
+Reus, T. H., & Rottig, D. (2009). Meta-analyses of International Joint Venture Performance Determinants: Evidence for Theory, Methodological Artifacts and the Unique Context of China. *Management International Review*, *49*(5), 607-640. https://doi.org/10.1007/s11575-009-0009-4
 
 Review, H. B., Hart, O., Vitasek, K., & Frydlinger, D. (2025). *How Better Contracts Can Strengthen Strategic Partnerships (HBR IdeaCast with Oliver Hart, Kate Vitasek and David Frydlinger)*. HBR IdeaCast (podcast). https://hbr.org/podcast/2025/10/how-better-contracts-can-strengthen-strategic-partnerships
 

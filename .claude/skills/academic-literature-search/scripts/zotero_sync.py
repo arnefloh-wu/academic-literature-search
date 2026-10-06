@@ -27,6 +27,7 @@ Usage:
     python zotero_sync.py --check                       # key, permissions, groups, target
     python zotero_sync.py --check --group "Coauthor project X"
     python zotero_sync.py topics/<topic>/rows.json --topic "<topic>" --group 1234567
+    python zotero_sync.py topics/<topic>/rows.json --topic "<topic>" --update   # fix changed rows
     python zotero_sync.py topics/<topic>/rows.json --topic "<topic>" --dry-run
     python zotero_sync.py topics/<topic>/rows.json --topic "<topic>"
 """
@@ -220,17 +221,35 @@ def ensure_collection(lib: Library, name: str, parent: str | None, dry: bool) ->
     return key
 
 
-def existing_identifiers(lib: Library, collection: str) -> dict[str, str]:
+def existing_items(lib: Library, collection: str) -> tuple[dict[str, str], dict[str, dict]]:
+    """Items already in the collection: identifier (DOI/URL) -> key, and key -> item data."""
     ids: dict[str, str] = {}
+    by_key: dict[str, dict] = {}
     for it in lib.paged(f"/collections/{collection}/items", {"format": "json"}):
         d = it.get("data", {})
+        by_key[it["key"]] = d
         for value in (d.get("DOI"), d.get("url")):
             if value:
                 ids[norm(value)] = it["key"]
         m = re.search(r"DOI:\s*(\S+)", d.get("extra") or "")
         if m:
             ids[norm(m.group(1))] = it["key"]
-    return ids
+    return ids, by_key
+
+
+UPDATE_SKIP = {"collections", "tags", "itemType", "key", "version", "relations",
+               "dateAdded", "dateModified"}
+
+
+def changed_fields(current: dict, desired: dict) -> dict:
+    """Fields of the freshly built item that differ from the item in Zotero."""
+    out = {}
+    for k, v in desired.items():
+        if k in UPDATE_SKIP:
+            continue
+        if (current.get(k) or ("" if not isinstance(v, list) else [])) != v:
+            out[k] = v
+    return out
 
 
 def norm(value: str) -> str:
@@ -338,6 +357,9 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--group", help="target group for this run: ID, group URL or name "
                                    "(overrides ZOTERO_GROUP)")
     p.add_argument("--check", action="store_true", help="verify key, permissions and target")
+    p.add_argument("--update", action="store_true",
+                   help="also correct items already in Zotero whose data changed in rows.json "
+                        "(DOI, URL, title, notes ...); collections and tags are kept")
     p.add_argument("--dry-run", action="store_true", help="print the items, write nothing")
     args = p.parse_args(argv)
     apply_aliases(args.group)
@@ -366,25 +388,51 @@ def main(argv: list[str] | None = None) -> int:
         root_name = args.root if args.root is not None else lib.default_root()
         root = ensure_collection(lib, root_name, None, args.dry_run) if root_name else None
         coll = ensure_collection(lib, topic, root, args.dry_run)
-        known = existing_identifiers(lib, coll) if not coll.startswith("<") else {}
+        known, by_key = existing_items(lib, coll) if not coll.startswith("<") else ({}, {})
         where = f"{lib.name} / {(root_name + ' / ') if root_name else ''}{topic}"
 
-        todo, skipped = [], 0
+        todo, skipped, updates = [], 0, []
         for r in refs:
-            ids = [norm(x) for x in (doi_of(r), r.get("link")) if x]
-            hit = next((known[i] for i in ids if i in known), None)
+            # an item synced earlier keeps its key even if its DOI or link was corrected since
+            hit = r.get("zotero_key") if r.get("zotero_key") in by_key else None
+            if not hit:
+                ids = [norm(x) for x in (doi_of(r), r.get("link")) if x]
+                hit = next((known[i] for i in ids if i in known), None)
             if hit:
                 r["zotero_key"] = hit
                 skipped += 1
+                if args.update:
+                    current = by_key[hit]
+                    changes = changed_fields(current, to_item(r, args.topic, coll))
+                    if changes:
+                        # full current data with the changes merged in: correct whether the
+                        # server treats the batch as full or as partial updates
+                        updates.append((r, {**current, **changes, "key": hit,
+                                            "version": current.get("version", 0)}, changes))
                 continue
             todo.append(r)
 
         if args.dry_run:
             print(json.dumps([to_item(r, args.topic, coll) for r in todo],
                              ensure_ascii=False, indent=2))
-            print(f"dry run: {len(todo)} items would be created in {where}; "
-                  f"{skipped} already present", file=sys.stderr)
+            for r, _, changes in updates:
+                print(f"would update {r['zotero_key']} {r.get('title', '')[:60]!r}: "
+                      f"{', '.join(sorted(changes))}", file=sys.stderr)
+            print(f"dry run: {len(todo)} items would be created and {len(updates)} updated in "
+                  f"{where}; {skipped} already present", file=sys.stderr)
             return 0
+
+        updated = 0
+        for i in range(0, len(updates), BATCH):
+            chunk = updates[i:i + BATCH]
+            res, _ = lib.call("POST", "/items", data=[payload for _, payload, _ in chunk])
+            for idx in (res.get("successful") or {}):
+                r, _, changes = chunk[int(idx)]
+                updated += 1
+                print(f"updated {r['zotero_key']}: {', '.join(sorted(changes))}", file=sys.stderr)
+            for idx, err in (res.get("failed") or {}).items():
+                print(f"update failed: {chunk[int(idx)][0].get('title')!r}: {err.get('message')}",
+                      file=sys.stderr)
 
         created = failed = 0
         for i in range(0, len(todo), BATCH):
@@ -400,8 +448,8 @@ def main(argv: list[str] | None = None) -> int:
                       file=sys.stderr)
             rows_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
         rows_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-        print(f"Zotero: {created} created, {skipped} already present, {failed} failed -> {where}",
-              file=sys.stderr)
+        print(f"Zotero: {created} created, {updated} updated, {skipped - updated} unchanged, "
+              f"{failed} failed -> {where}", file=sys.stderr)
         return 1 if failed else 0
     except ZoteroError as e:
         print(f"error: {e}", file=sys.stderr)

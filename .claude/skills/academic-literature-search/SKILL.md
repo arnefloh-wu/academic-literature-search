@@ -119,7 +119,11 @@ number of agents, blocks covered, caveats) and draft the synthesis skeleton.
 2. `python scripts/verify_links.py topics/<topic>/rows_raw.json -o topics/<topic>/rows.json`
    fetches every link and upgrades or downgrades the status label. Publisher sites that
    answer 403 keep the agent's label; the HTTP result lands in `link_check`. In cloud
-   sessions most hosts fail with network errors and keep their labels: say so in the report.
+   sessions the publisher and DOI hosts are blocked, so the check runs on GitHub instead:
+   the workflow `.github/workflows/link-check.yml` starts whenever a `rows.json` is pushed,
+   runs `verify_links.py` and commits the updated labels back to the branch (pull before
+   building the outputs). Its job summary lists 404/410 links: look up the correct DOI or
+   page, fix the row, push again.
 3. `python scripts/fetch_assets.py topics/<topic>/rows.json -d topics/<topic>/files/`
    downloads what may legally be stored: open-access PDFs, datasets, replication code and
    permissively licensed material. It skips paywalled publisher URLs. Store nothing that
@@ -161,7 +165,10 @@ if it is not already in context.
 writes into the private group "Academic Literature Search": one top-level collection per
 topic, one item per reference row (DOI, abstract, tags; key content, relevance and journal
 rank in the Extra field), skipping items already there, and writes `zotero_key` back into
-the rows (commit the updated `rows.json`). If `--check` failed in Step 1, say so in the
+the rows (commit the updated `rows.json`). After rows were corrected (a fixed DOI or
+link, a better note), add `--update`: items already in Zotero are matched by their
+`zotero_key` and their changed fields are rewritten, so no duplicates are created; a
+`--dry-run` first lists what would change. If `--check` failed in Step 1, say so in the
 report, name the missing piece (key, group ID, network) and point to
 `bibliography.ris` / `bibliography.json` for a manual import (File > Import in Zotero).
 
@@ -245,7 +252,8 @@ Prefer fewer, better-annotated rows over padding, but do not stop early when a b
 - `scripts/parse_notion_rows.py`: Notion page markdown to rows JSON
 - `scripts/build_output.py`: rows JSON to Notion markdown and GitHub README
 - `scripts/build_bibliography.py`: rows JSON to CSL-JSON, BibTeX, RIS and APA 7
-- `scripts/zotero_sync.py`: topic collections and items in the Zotero group (`--check` tests the setup)
+- `scripts/zotero_sync.py`: topic collections and items in the Zotero group (`--check` tests the setup, `--group` picks a group, `--update` corrects synced items)
+- `.github/workflows/link-check.yml` (repo root): runs `verify_links.py` on GitHub when `rows.json` changes
 - `scripts/dropbox_upload.py`: upload a folder tree to Dropbox via API token
 - `references/sources.md`: source catalogue, WU licences, data sources, how to get each key
 - `references/output-format.md`: row schema, categories, status labels, table layout
