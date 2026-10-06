@@ -1,0 +1,4627 @@
+[
+  {
+    "id": "VU2016podcast",
+    "type": "post-weblog",
+    "title": "Podcast: Differentiated integration in the European Union - Frank Schimmelfennig (ACCESS EUROPE)",
+    "author": [
+      {
+        "literal": "ACCESS EUROPE (University of Amsterdam / VU)"
+      },
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "ACCESS EUROPE podcast",
+    "URL": "https://www.accesseurope.org/events/photos-videos/item/458-podcast-the-eu-in-crisis-frank-schimmelfennig"
+  },
+  {
+    "id": "Ahuja2000collaboration",
+    "type": "article-journal",
+    "title": "Collaboration Networks, Structural Holes, and Innovation: A Longitudinal Study",
+    "author": [
+      {
+        "family": "Ahuja",
+        "given": "Gautam"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "container-title": "Administrative Science Quarterly",
+    "volume": "45",
+    "issue": "3",
+    "page": "425-455",
+    "DOI": "10.2307/2667105",
+    "URL": "https://doi.org/10.2307/2667105"
+  },
+  {
+    "id": "Albers2016strategic",
+    "type": "article-journal",
+    "title": "Strategic Alliance Structures: An Organization Design Perspective",
+    "author": [
+      {
+        "family": "Albers",
+        "given": "Sascha"
+      },
+      {
+        "family": "Wohlgezogen",
+        "given": "Franz"
+      },
+      {
+        "family": "Zajac",
+        "given": "Edward J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Journal of Management",
+    "volume": "42",
+    "issue": "3",
+    "page": "582-614",
+    "DOI": "10.1177/0149206313488209",
+    "URL": "https://doi.org/10.1177/0149206313488209"
+  },
+  {
+    "id": "Albers2025strategic",
+    "type": "chapter",
+    "title": "Strategic airline alliances: governance, selective integration, and networks of networks",
+    "author": [
+      {
+        "family": "Albers",
+        "given": "Sascha"
+      },
+      {
+        "family": "van den Oord",
+        "given": "Steven"
+      },
+      {
+        "family": "Koch",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Mandt",
+        "given": "Tobias"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Research Handbook on Air Transport Leadership and Governance",
+    "publisher": "Edward Elgar",
+    "page": "323-338",
+    "ISBN": "9781803926971 (print); 9781803926988 (ebook)",
+    "URL": "https://www.elgaronline.com/edcollchap/book/9781803926988/chapter20.xml"
+  },
+  {
+    "id": "Alesina2001political",
+    "type": "article",
+    "title": "The Political Economy of International Unions",
+    "author": [
+      {
+        "family": "Alesina",
+        "given": "Alberto"
+      },
+      {
+        "family": "Angeloni",
+        "given": "Ignazio"
+      },
+      {
+        "family": "Etro",
+        "given": "Federico"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "NBER Working Paper 8645",
+    "number": "NBER Working Paper 8645",
+    "URL": "https://www.nber.org/papers/w8645",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Analytics2024lseg",
+    "type": "dataset",
+    "title": "LSEG (Refinitiv) SDC Platinum: Joint Ventures & Alliances (JV&A) module",
+    "author": [
+      {
+        "family": "Analytics",
+        "given": "LSEG Data &"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "LSEG Workspace / WRDS",
+    "publisher": "LSEG",
+    "URL": "https://www.lseg.com/en/data-analytics/financial-data/deals-data/joint-venture-deals"
+  },
+  {
+    "id": "Analytics2026orbis",
+    "type": "dataset",
+    "title": "Orbis (Bureau van Dijk - Moody's): company, ownership and subsidiary data worldwide",
+    "author": [
+      {
+        "family": "Analytics",
+        "given": "Bureau van Dijk - Moody's"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "WU Bibliothek Datenbanken-Info",
+    "publisher": "Moody's / Bureau van Dijk",
+    "URL": "https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbis-bureau-van-dijk-moodys-analytics"
+  },
+  {
+    "id": "Analytics2026orbis2",
+    "type": "dataset",
+    "title": "Orbis Crossborder Investment (Bureau van Dijk): greenfield FDI projects and cross-border deals",
+    "author": [
+      {
+        "family": "Analytics",
+        "given": "Bureau van Dijk - Moody's"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "WU Bibliothek Datenbanken-Info",
+    "publisher": "Moody's / Bureau van Dijk",
+    "URL": "https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/orbiscrossborderinvestment"
+  },
+  {
+    "id": "Analytics2026zephyr",
+    "type": "dataset",
+    "title": "Zephyr / Orbis M&A (Bureau van Dijk - Moody's): M&A, IPO and joint-venture deals",
+    "author": [
+      {
+        "family": "Analytics",
+        "given": "Bureau van Dijk - Moody's"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "WU Bibliothek Datenbanken-Info",
+    "publisher": "Moody's / Bureau van Dijk",
+    "URL": "https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/zephyr-bureau-van-dijk-moodys-analytics"
+  },
+  {
+    "id": "Ario1998learning",
+    "type": "article-journal",
+    "title": "Learning from Failure: Towards an Evolutionary Model of Collaborative Ventures",
+    "author": [
+      {
+        "family": "Ariño",
+        "given": "Africa"
+      },
+      {
+        "family": "de la Torre",
+        "given": "José"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "container-title": "Organization Science",
+    "volume": "9",
+    "issue": "3",
+    "page": "306-325",
+    "DOI": "10.1287/orsc.9.3.306",
+    "URL": "https://doi.org/10.1287/orsc.9.3.306"
+  },
+  {
+    "id": "Arregle2013regions",
+    "type": "article-journal",
+    "title": "Do Regions Matter? An Integrated Institutional and Semiglobalization Perspective on the Internationalization of MNEs",
+    "author": [
+      {
+        "family": "Arregle",
+        "given": "Jean-Luc"
+      },
+      {
+        "family": "Miller",
+        "given": "Toyah L."
+      },
+      {
+        "family": "Hitt",
+        "given": "Michael A."
+      },
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "34",
+    "issue": "8",
+    "page": "910-934",
+    "DOI": "10.1002/smj.2051",
+    "URL": "https://doi.org/10.1002/smj.2051"
+  },
+  {
+    "id": "Aviation2013capa",
+    "type": "post-weblog",
+    "title": "CAPA Airlines in Transition report, Part 1: The natural history of airline alliances",
+    "author": [
+      {
+        "family": "Aviation",
+        "given": "CAPA - Centre for"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "CAPA - Centre for Aviation analysis",
+    "URL": "https://centreforaviation.com/analysis/reports/capa-airlines-in-transition-report-part-1-the-natural-history-of-airline-alliances-105278"
+  },
+  {
+    "id": "Aviation2016north",
+    "type": "report",
+    "title": "North Atlantic airline market: closed JVs to have 78% of ASKs in 2016. Weighing the benefits",
+    "author": [
+      {
+        "family": "Aviation",
+        "given": "CAPA - Centre for"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "CAPA",
+    "URL": "https://centreforaviation.com/analysis/reports/north-atlantic-airline-market-closed-jvs-to-have-78-of-asks-in-2016-weighing-the-benefits-272815"
+  },
+  {
+    "id": "Beamish1997cooperative",
+    "type": "book",
+    "title": "Cooperative Strategies (3 vols.: North American Perspectives; European Perspectives; Asian Pacific Perspectives)",
+    "author": [
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      },
+      {
+        "family": "Killing",
+        "given": "J. Peter"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      },
+      {
+        "family": "Killing",
+        "given": "J. Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "publisher": "New Lexington Press",
+    "ISBN": "0787908126; 0787908142; 0787908169 (three volumes)",
+    "URL": "https://catalogue.nla.gov.au/catalog/1440250"
+  },
+  {
+    "id": "Bellamy2022flexible",
+    "type": "post-weblog",
+    "title": "Flexible Europe: Differentiated integration, fairness, and democracy",
+    "author": [
+      {
+        "family": "Bellamy",
+        "given": "Richard"
+      },
+      {
+        "family": "Kröger",
+        "given": "Sandra"
+      },
+      {
+        "family": "Lorimer",
+        "given": "Marta"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "EUROPP (LSE blog)",
+    "URL": "https://researchonline.lse.ac.uk/id/eprint/113996/1/europpblog_2022_02_11_flexible_europe_differentiated_integration.pdf"
+  },
+  {
+    "id": "Berglf2008widening",
+    "type": "article",
+    "title": "Widening and Deepening: Reforming the European Union",
+    "author": [
+      {
+        "family": "Berglöf",
+        "given": "Erik"
+      },
+      {
+        "family": "Burkart",
+        "given": "Mike"
+      },
+      {
+        "family": "Friebel",
+        "given": "Guido"
+      },
+      {
+        "family": "Paltseva",
+        "given": "Elena"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "CEPR Discussion Paper 6672",
+    "number": "CEPR DP 6672",
+    "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1140954",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Berry2023berry",
+    "type": "dataset",
+    "title": "Berry, Guillén and Zhou cross-national distance data (nine dimensions; 2023 update to 2021)",
+    "author": [
+      {
+        "family": "Berry",
+        "given": "Heather"
+      },
+      {
+        "family": "Guillén",
+        "given": "Mauro F."
+      },
+      {
+        "family": "Zhou",
+        "given": "Nan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "Wharton Lauder Institute / Heather Berry data page",
+    "publisher": "University of Pennsylvania",
+    "URL": "https://professorheatherberry.weebly.com/data.html"
+  },
+  {
+    "id": "Bilotkach2010airline",
+    "type": "article",
+    "title": "Airline Alliances, Antitrust Immunity and Market Foreclosure",
+    "author": [
+      {
+        "family": "Bilotkach",
+        "given": "Volodymyr"
+      },
+      {
+        "family": "Hüschelrath",
+        "given": "Kai"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "ZEW Discussion Paper No. 10-083 (revised April 2012)",
+    "number": "ZEW Discussion Paper 10-083",
+    "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1727393",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Bilotkach2011antitrust",
+    "type": "article-journal",
+    "title": "Antitrust Immunity for Airline Alliances",
+    "author": [
+      {
+        "family": "Bilotkach",
+        "given": "Volodymyr"
+      },
+      {
+        "family": "Hüschelrath",
+        "given": "Kai"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "Journal of Competition Law & Economics",
+    "volume": "7",
+    "issue": "2",
+    "page": "335-380",
+    "DOI": "10.1093/joclec/nhr003",
+    "URL": "https://doi.org/10.1093/joclec/nhr003"
+  },
+  {
+    "id": "Bilotkach2019airline",
+    "type": "article-journal",
+    "title": "Airline Partnerships, Antitrust Immunity, and Joint Ventures: What We Know and What I Think We Would Like to Know",
+    "author": [
+      {
+        "family": "Bilotkach",
+        "given": "Volodymyr"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Review of Industrial Organization",
+    "volume": "54",
+    "issue": "1",
+    "page": "37-60",
+    "DOI": "10.1007/s11151-018-9636-x",
+    "URL": "https://doi.org/10.1007/s11151-018-9636-x"
+  },
+  {
+    "id": "Birkinshaw1995configurations",
+    "type": "article-journal",
+    "title": "Configurations of Strategy and Structure in Subsidiaries of Multinational Corporations",
+    "author": [
+      {
+        "family": "Birkinshaw",
+        "given": "Julian M."
+      },
+      {
+        "family": "Morrison",
+        "given": "Allen J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "26",
+    "issue": "4",
+    "page": "729-753",
+    "DOI": "10.1057/palgrave.jibs.8490818",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8490818"
+  },
+  {
+    "id": "blog2023differentiation",
+    "type": "post-weblog",
+    "title": "Why differentiation is now at the heart of Europe's political system",
+    "author": [
+      {
+        "family": "blog",
+        "given": "EUROPP - LSE European Politics and Policy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "EUROPP (LSE blog)",
+    "URL": "https://blogs.lse.ac.uk/europpblog/2023/10/17/why-differentiation-is-now-at-the-heart-of-europes-political-system/"
+  },
+  {
+    "id": "Buchanan1965economic",
+    "type": "article-journal",
+    "title": "An Economic Theory of Clubs",
+    "author": [
+      {
+        "family": "Buchanan",
+        "given": "James M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1965
+        ]
+      ]
+    },
+    "container-title": "Economica",
+    "volume": "32",
+    "issue": "125",
+    "page": "1-14",
+    "DOI": "10.2307/2552442",
+    "URL": "https://doi.org/10.2307/2552442"
+  },
+  {
+    "id": "Buckley1996economic",
+    "type": "article-journal",
+    "title": "An Economic Model of International Joint Venture Strategy",
+    "author": [
+      {
+        "family": "Buckley",
+        "given": "Peter J."
+      },
+      {
+        "family": "Casson",
+        "given": "Mark C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "27",
+    "issue": "5",
+    "page": "849-876",
+    "DOI": "10.1057/palgrave.jibs.8490154",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8490154"
+  },
+  {
+    "id": "Bucklin1993organizing",
+    "type": "article-journal",
+    "title": "Organizing Successful Co-Marketing Alliances",
+    "author": [
+      {
+        "family": "Bucklin",
+        "given": "Louis P."
+      },
+      {
+        "family": "Sengupta",
+        "given": "Sanjit"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "container-title": "Journal of Marketing",
+    "volume": "57",
+    "issue": "2",
+    "page": "32-46",
+    "DOI": "10.1177/002224299305700203",
+    "URL": "https://doi.org/10.1177/002224299305700203"
+  },
+  {
+    "id": "Business2026academy",
+    "type": "webpage",
+    "title": "Academy of International Business (AIB): calls for papers, JIBS/JIBP, AIB Insights, chapters",
+    "author": [
+      {
+        "family": "Business",
+        "given": "Academy of International"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "aib.world",
+    "URL": "https://www.aib.world/"
+  },
+  {
+    "id": "Centre2021indiveu",
+    "type": "dataset",
+    "title": "InDivEU integrated database and datasets on differentiated integration (uses of DI, public opinion, flexible implementation)",
+    "author": [
+      {
+        "family": "Centre)",
+        "given": "InDivEU consortium (EUI Robert Schuman"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2021
+        ]
+      ]
+    },
+    "container-title": "Integrating Diversity in the European Union (H2020)",
+    "publisher": "European University Institute",
+    "URL": "https://indiveu.eui.eu/"
+  },
+  {
+    "id": "ChangLiao2025global",
+    "type": "dataset",
+    "title": "Global Strategic Partnership (GSP) dataset, 1990-2020 (state-level strategic partnerships; Harvard Dataverse)",
+    "author": [
+      {
+        "family": "Chang-Liao",
+        "given": "Nien-chung"
+      },
+      {
+        "family": "Fu",
+        "given": "Ronan Tse-min"
+      },
+      {
+        "family": "Lin",
+        "given": "Shane Hsuan-Yu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Harvard Dataverse / Conflict Management and Peace Science",
+    "publisher": "Harvard Dataverse",
+    "DOI": "10.7910/DVN/UJD7LW",
+    "URL": "https://doi.org/10.7910/DVN/UJD7LW"
+  },
+  {
+    "id": "Chao2014avoiding",
+    "type": "report",
+    "title": "Avoiding blind spots in your next joint venture",
+    "author": [
+      {
+        "family": "Chao",
+        "given": "John"
+      },
+      {
+        "family": "Rinaudo",
+        "given": "Eileen Kelly"
+      },
+      {
+        "family": "Uhlaner",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "McKinsey & Company",
+    "URL": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/avoiding-blind-spots-in-your-next-joint-venture"
+  },
+  {
+    "id": "Chemmanur2023unlocking",
+    "type": "article",
+    "title": "Unlocking Strategic Alliances: The Role of Common Institutional Blockholders in Promoting Collaboration and Trust",
+    "author": [
+      {
+        "family": "Chemmanur",
+        "given": "Thomas J."
+      },
+      {
+        "family": "Shen",
+        "given": "Yao"
+      },
+      {
+        "family": "Xie",
+        "given": "Jing"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "SSRN Working Paper, abstract 4509164",
+    "number": "SSRN 4509164",
+    "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4509164",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Chen2009parent",
+    "type": "article-journal",
+    "title": "Parent Contribution and Organizational Control in International Joint Ventures",
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Dong"
+      },
+      {
+        "family": "Park",
+        "given": "Seung Ho"
+      },
+      {
+        "family": "Newburry",
+        "given": "William"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "30",
+    "issue": "11",
+    "page": "1133-1156",
+    "DOI": "10.1002/smj.784",
+    "URL": "https://doi.org/10.1002/smj.784"
+  },
+  {
+    "id": "Child2019cooperative",
+    "type": "book",
+    "title": "Cooperative Strategy: Managing Alliances and Networks",
+    "author": [
+      {
+        "family": "Child",
+        "given": "John"
+      },
+      {
+        "family": "Faulkner",
+        "given": "David"
+      },
+      {
+        "family": "Tallman",
+        "given": "Stephen"
+      },
+      {
+        "family": "Hsieh",
+        "given": "Linda"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "ISBN": "9780198814634 (hbk); 9780198814641 (pbk)",
+    "URL": "https://global.oup.com/academic/product/cooperative-strategy-9780198814634"
+  },
+  {
+    "id": "Choi2004split",
+    "type": "article-journal",
+    "title": "Split Management Control and International Joint Venture Performance",
+    "author": [
+      {
+        "family": "Choi",
+        "given": "Chang-Bum"
+      },
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "35",
+    "issue": "3",
+    "page": "201-215",
+    "DOI": "10.1057/palgrave.jibs.8400078",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8400078"
+  },
+  {
+    "id": "Christoffersen2013review",
+    "type": "article-journal",
+    "title": "A Review of Antecedents of International Strategic Alliance Performance: Synthesized Evidence and New Directions for Core Constructs",
+    "author": [
+      {
+        "family": "Christoffersen",
+        "given": "Jeppe"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "International Journal of Management Reviews",
+    "volume": "15",
+    "issue": "1",
+    "page": "66-85",
+    "DOI": "10.1111/j.1468-2370.2012.00335.x",
+    "URL": "https://doi.org/10.1111/j.1468-2370.2012.00335.x"
+  },
+  {
+    "id": "Contractor1988cooperative",
+    "type": "book",
+    "title": "Cooperative Strategies in International Business: Joint Ventures and Technology Partnerships between Firms",
+    "author": [
+      {
+        "family": "Contractor",
+        "given": "Farok J."
+      },
+      {
+        "family": "Lorange",
+        "given": "Peter"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Contractor",
+        "given": "Farok J."
+      },
+      {
+        "family": "Lorange",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "publisher": "Lexington Books",
+    "URL": "https://books.google.com/books/about/Cooperative_Strategies_and_Alliances_in.html?id=BwfRrH5jEKgC"
+  },
+  {
+    "id": "Contractor2002cooperative",
+    "type": "book",
+    "title": "Cooperative Strategies and Alliances",
+    "author": [
+      {
+        "family": "Contractor",
+        "given": "Farok J."
+      },
+      {
+        "family": "Lorange",
+        "given": "Peter"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Contractor",
+        "given": "Farok J."
+      },
+      {
+        "family": "Lorange",
+        "given": "Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "publisher": "Pergamon",
+    "page": "964",
+    "ISBN": "9780080440217",
+    "URL": "https://books.google.com/books/about/Cooperative_Strategies_and_Alliances.html?id=M6XYQFgWR0cC"
+  },
+  {
+    "id": "Inc2026crunchbase",
+    "type": "dataset",
+    "title": "Crunchbase (academic research access programme and data licence)",
+    "author": [
+      {
+        "literal": "Crunchbase Inc."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "Crunchbase Data",
+    "publisher": "Crunchbase",
+    "URL": "https://data.crunchbase.com/docs/license-agreement"
+  },
+  {
+    "id": "Dacin2008alliances",
+    "type": "chapter",
+    "title": "Alliances and Joint Ventures: The Role of Partner Selection from an Embeddedness Perspective",
+    "author": [
+      {
+        "family": "Dacin",
+        "given": "M. Tina"
+      },
+      {
+        "family": "Reid",
+        "given": "Douglas"
+      },
+      {
+        "family": "Ring",
+        "given": "Peter Smith"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Cropper",
+        "given": "Steve"
+      },
+      {
+        "family": "Ebers",
+        "given": "Mark"
+      },
+      {
+        "family": "Huxham",
+        "given": "Chris"
+      },
+      {
+        "family": "Ring",
+        "given": "Peter Smith"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "The Oxford Handbook of Inter-Organizational Relations",
+    "publisher": "Oxford University Press",
+    "ISBN": "9780199282944",
+    "URL": "https://global.oup.com/academic/product/the-oxford-handbook-of-inter-organizational-relations-9780199282944"
+  },
+  {
+    "id": "Das2001trust",
+    "type": "article-journal",
+    "title": "Trust, Control, and Risk in Strategic Alliances: An Integrated Framework",
+    "author": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      },
+      {
+        "family": "Teng",
+        "given": "Bing-Sheng"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Organization Studies",
+    "volume": "22",
+    "issue": "2",
+    "page": "251-283",
+    "DOI": "10.1177/0170840601222004",
+    "URL": "https://doi.org/10.1177/0170840601222004"
+  },
+  {
+    "id": "Das2002alliance",
+    "type": "article-journal",
+    "title": "Alliance Constellations: A Social Exchange Perspective",
+    "author": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      },
+      {
+        "family": "Teng",
+        "given": "Bing-Sheng"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Review",
+    "volume": "27",
+    "issue": "3",
+    "page": "445-456",
+    "DOI": "10.5465/amr.2002.7389937",
+    "URL": "https://doi.org/10.5465/amr.2002.7389937"
+  },
+  {
+    "id": "Das2015managing",
+    "type": "book",
+    "title": "Managing Multipartner Strategic Alliances",
+    "author": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Information Age Publishing",
+    "page": "290",
+    "ISBN": "9781681230788 (pbk); 9781681230795 (hbk); 9781681230801 (ebook)",
+    "URL": "https://bookstore.emerald.com/managing-multipartner-strategic-alliances-hb-9781681230795.html"
+  },
+  {
+    "id": "Das2017managing",
+    "type": "book",
+    "title": "Managing Alliance Portfolios and Networks",
+    "author": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Das",
+        "given": "T. K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "Information Age Publishing",
+    "page": "292",
+    "ISBN": "9781681239040 (pbk); 9781681239057 (hbk)",
+    "URL": "http://www.infoagepub.com/products/Managing-Alliance-Portfolios-and-Networks"
+  },
+  {
+    "id": "Davis2016group",
+    "type": "article-journal",
+    "title": "The Group Dynamics of Interorganizational Relationships: Collaborating with Multiple Partners in Innovation Ecosystems",
+    "author": [
+      {
+        "family": "Davis",
+        "given": "Jason P."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Administrative Science Quarterly",
+    "volume": "61",
+    "issue": "4",
+    "page": "621-661",
+    "DOI": "10.1177/0001839216649350",
+    "URL": "https://doi.org/10.1177/0001839216649350"
+  },
+  {
+    "id": "Dempsey2017airline",
+    "type": "manuscript",
+    "title": "Airline Alliances (lecture manuscript, Institute of Air and Space Law)",
+    "author": [
+      {
+        "family": "Dempsey",
+        "given": "Paul Stephen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "McGill University",
+    "URL": "https://www.mcgill.ca/iasl/files/iasl/alliances2017.pdf"
+  },
+  {
+    "id": "Devarakonda2018knowledge",
+    "type": "article-journal",
+    "title": "Knowledge Sharing and Safeguarding in R&D Collaborations: The Role of Steering Committees in Biotechnology Alliances",
+    "author": [
+      {
+        "family": "Devarakonda",
+        "given": "Shivaram V."
+      },
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "39",
+    "issue": "7",
+    "page": "1912-1934",
+    "DOI": "10.1002/smj.2898",
+    "URL": "https://doi.org/10.1002/smj.2898"
+  },
+  {
+    "id": "Oslo2023dice",
+    "type": "webpage",
+    "title": "DiCE - Differentiation: Clustering Excellence (hub for EU3D, InDivEU and EU IDEA)",
+    "author": [
+      {
+        "family": "DiCE consortium (ARENA University of Oslo",
+        "given": "EUI, IAI, TEPSA)"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "dice.uio.no",
+    "URL": "https://www.dice.uio.no/about/projects/"
+  },
+  {
+    "id": "Downs1998managing",
+    "type": "article-journal",
+    "title": "Managing the Evolution of Multilateralism",
+    "author": [
+      {
+        "family": "Downs",
+        "given": "George W."
+      },
+      {
+        "family": "Rocke",
+        "given": "David M."
+      },
+      {
+        "family": "Barsoom",
+        "given": "Peter N."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "container-title": "International Organization",
+    "volume": "52",
+    "issue": "2",
+    "page": "397-419",
+    "DOI": "10.1162/002081898753162820",
+    "URL": "https://doi.org/10.1162/002081898753162820"
+  },
+  {
+    "id": "Doz1996evolution",
+    "type": "article-journal",
+    "title": "The Evolution of Cooperation in Strategic Alliances: Initial Conditions or Learning Processes?",
+    "author": [
+      {
+        "family": "Doz",
+        "given": "Yves L."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "17",
+    "issue": "S1",
+    "page": "55-83",
+    "DOI": "10.1002/smj.4250171006",
+    "URL": "https://doi.org/10.1002/smj.4250171006"
+  },
+  {
+    "id": "Doz1998alliance",
+    "type": "book",
+    "title": "Alliance Advantage: The Art of Creating Value through Partnering",
+    "author": [
+      {
+        "family": "Doz",
+        "given": "Yves L."
+      },
+      {
+        "family": "Hamel",
+        "given": "Gary"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "publisher": "Harvard Business School Press",
+    "page": "316",
+    "ISBN": "0875846165",
+    "URL": "https://books.google.com/books?vid=ISBN0875846165"
+  },
+  {
+    "id": "Dyson2010which",
+    "type": "book",
+    "title": "Which Europe? The Politics of Differentiated Integration",
+    "author": [
+      {
+        "family": "Dyson",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Sepos",
+        "given": "Angelos"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Dyson",
+        "given": "Kenneth"
+      },
+      {
+        "family": "Sepos",
+        "given": "Angelos"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "Palgrave Macmillan",
+    "ISBN": "9780230553774",
+    "DOI": "10.1057/9780230289529",
+    "URL": "https://link.springer.com/book/10.1057/9780230289529"
+  },
+  {
+    "id": "Dr2025desta",
+    "type": "dataset",
+    "title": "DESTA: Design of Trade Agreements database (version 2.3, September 2025)",
+    "author": [
+      {
+        "family": "Dür",
+        "given": "Andreas"
+      },
+      {
+        "family": "Baccini",
+        "given": "Leonardo"
+      },
+      {
+        "family": "Elsig",
+        "given": "Manfred"
+      },
+      {
+        "family": "Milewicz",
+        "given": "Karolina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "designoftradeagreements.org",
+    "publisher": "University of Salzburg / McGill / World Trade Institute Bern",
+    "URL": "https://www.designoftradeagreements.org/downloads/"
+  },
+  {
+    "id": "Economics2012economic",
+    "type": "report",
+    "title": "The Economic Benefits Generated by Alliances and Joint Ventures (IATA Economics Briefing)",
+    "author": [
+      {
+        "family": "Economics",
+        "given": "IATA"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher": "IATA",
+    "URL": "https://www.iata.org/en/iata-repository/publications/economic-reports/benefits-of-alliances-and-jointventures/"
+  },
+  {
+    "id": "ersap2003determinants",
+    "type": "paper-conference",
+    "title": "On the Determinants of Cross Border Co-operation of Austrian Firms with Central and Eastern European Partners",
+    "author": [
+      {
+        "family": "ersa03p238",
+        "given": "ERSA 2003 Congress paper"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "container-title": "ERSA 2003 Congress paper (European Regional Science Association), ersa03p238",
+    "number": "ersa03p238",
+    "URL": "https://ideas.repec.org/p/wiw/wiwrsa/ersa03p238.html"
+  },
+  {
+    "id": "Commission2010transatlantic",
+    "type": "report",
+    "title": "Transatlantic Airline Alliances: Competitive Issues and Regulatory Approaches",
+    "author": [
+      {
+        "family": "European Commission",
+        "given": "Directorate-General for Competition"
+      },
+      {
+        "family": "Transportation",
+        "given": "United States Department of"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "publisher": "European Commission / US DOT",
+    "URL": "http://europa.eu/rapid/press-release_IP-10-1511_en.htm"
+  },
+  {
+    "id": "Commission2017white",
+    "type": "report",
+    "title": "White Paper on the Future of Europe: Reflections and Scenarios for the EU27 by 2025",
+    "author": [
+      {
+        "literal": "European Commission"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "publisher": "European Commission",
+    "number": "COM(2017) 2025",
+    "URL": "https://eda.europa.eu/docs/default-source/Defence-Procurement-Gateway/white-paper-on-the-future-of-europe.pdf"
+  },
+  {
+    "id": "Parliament2018implementation",
+    "type": "report",
+    "title": "The Implementation of Enhanced Cooperation in the European Union",
+    "author": [
+      {
+        "family": "European Parliament",
+        "given": "Policy Department for Citizens' Rights and Constitutional Affairs"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "European Parliament",
+    "number": "PE 604.987",
+    "URL": "https://www.europarl.europa.eu/RegData/etudes/STUD/2018/604987/IPOL_STU(2018)604987_EN.pdf"
+  },
+  {
+    "id": "Fiss2011building",
+    "type": "article-journal",
+    "title": "Building Better Causal Theories: A Fuzzy Set Approach to Typologies in Organization Research",
+    "author": [
+      {
+        "family": "Fiss",
+        "given": "Peer C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "54",
+    "issue": "2",
+    "page": "393-420",
+    "DOI": "10.5465/amj.2011.60263120",
+    "URL": "https://doi.org/10.5465/amj.2011.60263120"
+  },
+  {
+    "id": "Flying2024airlines",
+    "type": "post-weblog",
+    "title": "Why Do Airlines Establish Transatlantic Joint Ventures?",
+    "author": [
+      {
+        "family": "Flying",
+        "given": "Simple"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "Simple Flying",
+    "URL": "https://simpleflying.com/transatlantic-airline-joint-ventures-guide/"
+  },
+  {
+    "id": "Flynn2010impact",
+    "type": "article-journal",
+    "title": "The Impact of Supply Chain Integration on Performance: A Contingency and Configuration Approach",
+    "author": [
+      {
+        "family": "Flynn",
+        "given": "Barbara B."
+      },
+      {
+        "family": "Huo",
+        "given": "Baofeng"
+      },
+      {
+        "family": "Zhao",
+        "given": "Xiande"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "Journal of Operations Management",
+    "volume": "28",
+    "issue": "1",
+    "page": "58-71",
+    "DOI": "10.1016/j.jom.2009.06.001",
+    "URL": "https://doi.org/10.1016/j.jom.2009.06.001"
+  },
+  {
+    "id": "Fonti2017free",
+    "type": "article-journal",
+    "title": "Free-Riding in Multi-Party Alliances: The Role of Perceived Alliance Effectiveness and Peers' Collaboration in a Research Consortium",
+    "author": [
+      {
+        "family": "Fonti",
+        "given": "Fabio"
+      },
+      {
+        "family": "Maoret",
+        "given": "Massimo"
+      },
+      {
+        "family": "Whitbred",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "38",
+    "issue": "2",
+    "page": "363-383",
+    "DOI": "10.1002/smj.2470",
+    "URL": "https://doi.org/10.1002/smj.2470"
+  },
+  {
+    "id": "Frohlich2001arcs",
+    "type": "article-journal",
+    "title": "Arcs of Integration: An International Study of Supply Chain Strategies",
+    "author": [
+      {
+        "family": "Frohlich",
+        "given": "Markham T."
+      },
+      {
+        "family": "Westbrook",
+        "given": "Roy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Journal of Operations Management",
+    "volume": "19",
+    "issue": "2",
+    "page": "185-200",
+    "DOI": "10.1016/S0272-6963(00",
+    "URL": "https://doi.org/10.1016/S0272-6963(00)00055-3"
+  },
+  {
+    "id": "Geringer1989control",
+    "type": "article-journal",
+    "title": "Control and Performance of International Joint Ventures",
+    "author": [
+      {
+        "family": "Geringer",
+        "given": "J. Michael"
+      },
+      {
+        "family": "Hebert",
+        "given": "Louis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "20",
+    "issue": "2",
+    "page": "235-254",
+    "DOI": "10.1057/palgrave.jibs.8490359",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8490359"
+  },
+  {
+    "id": "Ghemawat2003semiglobalization",
+    "type": "article-journal",
+    "title": "Semiglobalization and International Business Strategy",
+    "author": [
+      {
+        "family": "Ghemawat",
+        "given": "Pankaj"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "34",
+    "issue": "2",
+    "page": "138-152",
+    "DOI": "10.1057/palgrave.jibs.8400013",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8400013"
+  },
+  {
+    "id": "Ghoshal1989internal",
+    "type": "article-journal",
+    "title": "Internal Differentiation within Multinational Corporations",
+    "author": [
+      {
+        "family": "Ghoshal",
+        "given": "Sumantra"
+      },
+      {
+        "family": "Nohria",
+        "given": "Nitin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "10",
+    "issue": "4",
+    "page": "323-337",
+    "DOI": "10.1002/smj.4250100403",
+    "URL": "https://doi.org/10.1002/smj.4250100403"
+  },
+  {
+    "id": "Gillespie2011antitrust",
+    "type": "article",
+    "title": "Antitrust Immunity and International Airline Alliances",
+    "author": [
+      {
+        "family": "Gillespie",
+        "given": "William"
+      },
+      {
+        "family": "Richard",
+        "given": "Oliver M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "U.S. Department of Justice, Antitrust Division, Economic Analysis Group Discussion Paper EAG 11-1",
+    "number": "EAG 11-1",
+    "URL": "https://www.econstor.eu/bitstream/10419/202391/1/eag-dp201101.pdf",
+    "genre": "Preprint"
+  },
+  {
+    "id": "House2020globe",
+    "type": "dataset",
+    "title": "GLOBE Project results: societal culture practices and values scores (2004 study, 62 societies; GLOBE 2020 programme)",
+    "author": [
+      {
+        "family": "GLOBE Project (House",
+        "given": "Robert J. et al.; Dorfman, Peter; Javidan, Mansour)"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "globeproject.com",
+    "publisher": "GLOBE Foundation",
+    "URL": "https://globeproject.com/results.html"
+  },
+  {
+    "id": "Gomes2016year",
+    "type": "article-journal",
+    "title": "A 22 Year Review of Strategic Alliance Research in the Leading Management Journals",
+    "author": [
+      {
+        "family": "Gomes",
+        "given": "Emanuel"
+      },
+      {
+        "family": "Barnes",
+        "given": "Bradley R."
+      },
+      {
+        "family": "Mahmood",
+        "given": "Tehmina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "International Business Review",
+    "volume": "25",
+    "issue": "1",
+    "page": "15-27",
+    "DOI": "10.1016/j.ibusrev.2014.03.005",
+    "URL": "https://doi.org/10.1016/j.ibusrev.2014.03.005"
+  },
+  {
+    "id": "GomesCasseres1996alliance",
+    "type": "book",
+    "title": "The Alliance Revolution: The New Shape of Business Rivalry",
+    "author": [
+      {
+        "family": "Gomes-Casseres",
+        "given": "Benjamin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "publisher": "Harvard University Press",
+    "page": "305",
+    "ISBN": "0674016475 (hbk); 9780674016484 (pbk 1998)",
+    "URL": "https://www.hup.harvard.edu/catalog.php?isbn=9780674016484"
+  },
+  {
+    "id": "GomesCasseres2026alliance",
+    "type": "post-weblog",
+    "title": "Alliance Strategy (alliancestrategy.com): Ben Gomes-Casseres' managerial articles and blog on alliances, constellations and Star Alliance",
+    "author": [
+      {
+        "family": "Gomes-Casseres",
+        "given": "Benjamin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "alliancestrategy.com",
+    "URL": "https://alliancestrategy.com/managerial-articles/"
+  },
+  {
+    "id": "group2017zurich",
+    "type": "dataset",
+    "title": "ETH Zurich European Politics group: dataset page (EUDIFF2 secondary-law differentiation 1958-2012, Duttle et al. 2017, and related EU datasets)",
+    "author": [
+      {
+        "family": "group)",
+        "given": "ETH Zurich European Politics (Schimmelfennig"
+      },
+      {
+        "family": "Duttle",
+        "given": "Thomas"
+      },
+      {
+        "family": "Holzinger",
+        "given": "Katharina"
+      },
+      {
+        "family": "Malang",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schäubli",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      },
+      {
+        "family": "Winzen",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "ETH Zurich European Politics",
+    "publisher": "ETH Zurich",
+    "URL": "https://eup.ethz.ch/research/dataset.html"
+  },
+  {
+    "id": "Gudmundsson2006multilateral",
+    "type": "article-journal",
+    "title": "Multilateral Airline Alliances: Balancing Strategic Constraints and Opportunities",
+    "author": [
+      {
+        "family": "Gudmundsson",
+        "given": "Sveinn Vidar"
+      },
+      {
+        "family": "Lechner",
+        "given": "Christian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "container-title": "Journal of Air Transport Management",
+    "volume": "12",
+    "issue": "3",
+    "page": "153-158",
+    "DOI": "10.1016/j.jairtraman.2005.11.009",
+    "URL": "https://doi.org/10.1016/j.jairtraman.2005.11.009"
+  },
+  {
+    "id": "Gulati1998alliances",
+    "type": "article-journal",
+    "title": "Alliances and Networks",
+    "author": [
+      {
+        "family": "Gulati",
+        "given": "Ranjay"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "19",
+    "issue": "4",
+    "page": "293-317",
+    "DOI": "10.1002/(SICI",
+    "URL": "https://doi.org/10.1002/(SICI)1097-0266(199804)19:4<293::AID-SMJ982>3.0.CO;2-M"
+  },
+  {
+    "id": "Gulati2009nature",
+    "type": "article-journal",
+    "title": "The Nature of Partnering Experience and the Gains from Alliances",
+    "author": [
+      {
+        "family": "Gulati",
+        "given": "Ranjay"
+      },
+      {
+        "family": "Lavie",
+        "given": "Dovev"
+      },
+      {
+        "family": "Singh",
+        "given": "Harbir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "30",
+    "issue": "11",
+    "page": "1213-1233",
+    "DOI": "10.1002/smj.786",
+    "URL": "https://doi.org/10.1002/smj.786"
+  },
+  {
+    "id": "Gulati2012facets",
+    "type": "article-journal",
+    "title": "The Two Facets of Collaboration: Cooperation and Coordination in Strategic Alliances",
+    "author": [
+      {
+        "family": "Gulati",
+        "given": "Ranjay"
+      },
+      {
+        "family": "Wohlgezogen",
+        "given": "Franz"
+      },
+      {
+        "family": "Zhelyazkov",
+        "given": "Pavel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Annals",
+    "volume": "6",
+    "issue": "1",
+    "page": "531-583",
+    "DOI": "10.5465/19416520.2012.691646",
+    "URL": "https://doi.org/10.5465/19416520.2012.691646"
+  },
+  {
+    "id": "Gnzle2020differentiated",
+    "type": "book",
+    "title": "Differentiated Integration and Disintegration in a Post-Brexit Era",
+    "author": [
+      {
+        "family": "Gänzle",
+        "given": "Stefan"
+      },
+      {
+        "family": "Leruth",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Trondal",
+        "given": "Jarle"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Gänzle",
+        "given": "Stefan"
+      },
+      {
+        "family": "Leruth",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Trondal",
+        "given": "Jarle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Routledge",
+    "page": "258",
+    "ISBN": "9780367135300",
+    "DOI": "10.4324/9780429026959",
+    "URL": "https://www.routledge.com/Differentiated-Integration-and-Disintegration-in-a-Post-Brexit-Era/Ganzle-Leruth-Trondal/p/book/9781032083698"
+  },
+  {
+    "id": "Hamilton2003correcting",
+    "type": "article-journal",
+    "title": "Correcting for Endogeneity in Strategic Management Research",
+    "author": [
+      {
+        "family": "Hamilton",
+        "given": "Barton H."
+      },
+      {
+        "family": "Nickerson",
+        "given": "Jack A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "container-title": "Strategic Organization",
+    "volume": "1",
+    "issue": "1",
+    "page": "51-78",
+    "DOI": "10.1177/1476127003001001218",
+    "URL": "https://doi.org/10.1177/1476127003001001218"
+  },
+  {
+    "id": "Heidl2014divisive",
+    "type": "article-journal",
+    "title": "Divisive Faultlines and the Unplanned Dissolutions of Multipartner Alliances",
+    "author": [
+      {
+        "family": "Heidl",
+        "given": "Ralph A."
+      },
+      {
+        "family": "Steensma",
+        "given": "H. Kevin"
+      },
+      {
+        "family": "Phelps",
+        "given": "Corey"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": "Organization Science",
+    "volume": "25",
+    "issue": "5",
+    "page": "1351-1371",
+    "DOI": "10.1287/orsc.2014.0898",
+    "URL": "https://doi.org/10.1287/orsc.2014.0898"
+  },
+  {
+    "id": "Hennart1988transaction",
+    "type": "article-journal",
+    "title": "A Transaction Costs Theory of Equity Joint Ventures",
+    "author": [
+      {
+        "family": "Hennart",
+        "given": "Jean-François"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "9",
+    "issue": "4",
+    "page": "361-374",
+    "DOI": "10.1002/smj.4250090406",
+    "URL": "https://doi.org/10.1002/smj.4250090406"
+  },
+  {
+    "id": "Hitt2007building",
+    "type": "article-journal",
+    "title": "Building Theoretical and Empirical Bridges Across Levels: Multilevel Research in Management",
+    "author": [
+      {
+        "family": "Hitt",
+        "given": "Michael A."
+      },
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      },
+      {
+        "family": "Jackson",
+        "given": "Susan E."
+      },
+      {
+        "family": "Mathieu",
+        "given": "John E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "50",
+    "issue": "6",
+    "page": "1385-1399",
+    "DOI": "10.5465/amj.2007.28166219",
+    "URL": "https://doi.org/10.5465/amj.2007.28166219"
+  },
+  {
+    "id": "Hoetker2009choice",
+    "type": "article-journal",
+    "title": "Choice and Performance of Governance Mechanisms: Matching Alliance Governance to Asset Type",
+    "author": [
+      {
+        "family": "Hoetker",
+        "given": "Glenn"
+      },
+      {
+        "family": "Mellewigt",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "30",
+    "issue": "10",
+    "page": "1025-1044",
+    "DOI": "10.1002/smj.775",
+    "URL": "https://doi.org/10.1002/smj.775"
+  },
+  {
+    "id": "Hoffmann2007strategies",
+    "type": "article-journal",
+    "title": "Strategies for Managing a Portfolio of Alliances",
+    "author": [
+      {
+        "family": "Hoffmann",
+        "given": "Werner H."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "28",
+    "issue": "8",
+    "page": "827-856",
+    "DOI": "10.1002/smj.607",
+    "URL": "https://doi.org/10.1002/smj.607"
+  },
+  {
+    "id": "Hofstede2015hofstede",
+    "type": "dataset",
+    "title": "Hofstede dimension data matrix (six national culture dimensions, version 2015-12-08)",
+    "author": [
+      {
+        "family": "Hofstede",
+        "given": "Geert"
+      },
+      {
+        "family": "Hofstede",
+        "given": "Gert Jan"
+      },
+      {
+        "family": "Minkov",
+        "given": "Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "geerthofstede.com",
+    "publisher": "Geert Hofstede BV",
+    "URL": "https://geerthofstede.com/research-and-vsm/dimension-data-matrix/"
+  },
+  {
+    "id": "Holzinger2012differentiated",
+    "type": "article-journal",
+    "title": "Differentiated Integration in the European Union: Many Concepts, Sparse Theory, Few Data",
+    "author": [
+      {
+        "family": "Holzinger",
+        "given": "Katharina"
+      },
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Journal of European Public Policy",
+    "volume": "19",
+    "issue": "2",
+    "page": "292-305",
+    "DOI": "10.1080/13501763.2012.641747",
+    "URL": "https://doi.org/10.1080/13501763.2012.641747"
+  },
+  {
+    "id": "Inkpen1997knowledge",
+    "type": "article-journal",
+    "title": "Knowledge, Bargaining Power, and the Instability of International Joint Ventures",
+    "author": [
+      {
+        "family": "Inkpen",
+        "given": "Andrew C."
+      },
+      {
+        "family": "Beamish",
+        "given": "Paul W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Review",
+    "volume": "22",
+    "issue": "1",
+    "page": "177-202",
+    "DOI": "10.5465/amr.1997.9707180263",
+    "URL": "https://doi.org/10.5465/amr.1997.9707180263"
+  },
+  {
+    "id": "Inkpen2005global",
+    "type": "book",
+    "title": "Global Strategy: Creating and Sustaining Advantage across Borders",
+    "author": [
+      {
+        "family": "Inkpen",
+        "given": "Andrew"
+      },
+      {
+        "family": "Ramaswamy",
+        "given": "Kannan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "page": "247",
+    "ISBN": "9780195167207",
+    "URL": "https://academic.oup.com/book/2499"
+  },
+  {
+    "id": "Inkpen2009strategic",
+    "type": "chapter",
+    "title": "Strategic Alliances",
+    "author": [
+      {
+        "family": "Inkpen",
+        "given": "Andrew C."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Rugman",
+        "given": "Alan M."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "The Oxford Handbook of International Business (2nd edition)",
+    "publisher": "Oxford University Press",
+    "page": "389-416",
+    "ISBN": "9780199234257",
+    "URL": "https://books.google.com/books/about/The_Oxford_Handbook_of_International_Bus.html?id=gZNX61GjyhAC"
+  },
+  {
+    "id": "OECD2014service",
+    "type": "report",
+    "title": "Air Service Agreement Liberalisation and Airline Alliances (Country-Specific Policy Analysis)",
+    "author": [
+      {
+        "literal": "International Transport Forum / OECD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "publisher": "OECD/ITF",
+    "URL": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/12/air-service-agreement-liberalisation-and-airline-alliances_g17a2800/5jlwvzf1vg41-en.pdf"
+  },
+  {
+    "id": "Internazionali2022idea",
+    "type": "webpage",
+    "title": "EU IDEA - EU Integration and Differentiation for Effectiveness and Accountability",
+    "author": [
+      {
+        "family": "Internazionali)",
+        "given": "EU IDEA consortium (Istituto Affari"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "container-title": "euidea.eu",
+    "URL": "https://euidea.eu/"
+  },
+  {
+    "id": "Jacobides2018towards",
+    "type": "article-journal",
+    "title": "Towards a Theory of Ecosystems",
+    "author": [
+      {
+        "family": "Jacobides",
+        "given": "Michael G."
+      },
+      {
+        "family": "Cennamo",
+        "given": "Carmelo"
+      },
+      {
+        "family": "Gawer",
+        "given": "Annabelle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "39",
+    "issue": "8",
+    "page": "2255-2276",
+    "DOI": "10.1002/smj.2904",
+    "URL": "https://doi.org/10.1002/smj.2904"
+  },
+  {
+    "id": "Jiang2010alliance",
+    "type": "article",
+    "title": "Alliance Portfolio Diversity and Firm Performance",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Ruihua Joy"
+      },
+      {
+        "family": "Tao",
+        "given": "Qingjiu Tom"
+      },
+      {
+        "family": "Santoro",
+        "given": "Michael D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "SSRN Working Paper, abstract 1626349",
+    "number": "SSRN 1626349",
+    "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1626349",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Jiang2018bedeutung",
+    "type": "thesis",
+    "title": "Die Bedeutung der weichen Erfolgsfaktoren im Management der chinesisch-deutschen Joint Ventures",
+    "author": [
+      {
+        "family": "Jiang",
+        "given": "Hong"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "publisher": "Universität Osnabrück",
+    "URL": "https://osnadocs.ub.uni-osnabrueck.de/bitstream/urn:nbn:de:gbv:700-2018032816746/4/thesis_jiang.pdf",
+    "genre": "Doctoral dissertation"
+  },
+  {
+    "id": "Kabst2000steuerung",
+    "type": "thesis",
+    "title": "Steuerung und Kontrolle Internationaler Joint Venture: Eine transaktionskostentheoretisch fundierte empirische Analyse",
+    "author": [
+      {
+        "family": "Kabst",
+        "given": "Rüdiger"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher": "Rainer Hampp Verlag",
+    "URL": "https://www.econbiz.de/Record/steuerung-und-kontrolle-internationaler-joint-venture-eine-transaktionskostentheoretisch-fundierte-empirische-analyse-kabst-r%C3%BCdiger/10004821832",
+    "genre": "Doctoral dissertation"
+  },
+  {
+    "id": "Kapoor2013coordinating",
+    "type": "article-journal",
+    "title": "Coordinating and Competing in Ecosystems: How Organizational Forms Shape New Technology Investments",
+    "author": [
+      {
+        "family": "Kapoor",
+        "given": "Rahul"
+      },
+      {
+        "family": "Lee",
+        "given": "Joon Mahn"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "34",
+    "issue": "3",
+    "page": "274-296",
+    "DOI": "10.1002/smj.2010",
+    "URL": "https://doi.org/10.1002/smj.2010"
+  },
+  {
+    "id": "Killing1983strategies",
+    "type": "book",
+    "title": "Strategies for Joint Venture Success",
+    "author": [
+      {
+        "family": "Killing",
+        "given": "J. Peter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "publisher": "Praeger",
+    "page": "144",
+    "ISBN": "0030639719 (Praeger); 9780415643320 (Routledge reissue)",
+    "URL": "https://archive.org/details/strategiesforjoi0000kill_t8v6"
+  },
+  {
+    "id": "Kleymann2001levels",
+    "type": "article-journal",
+    "title": "Levels of Airline Alliance Membership: Balancing Risks and Benefits",
+    "author": [
+      {
+        "family": "Kleymann",
+        "given": "Birgit"
+      },
+      {
+        "family": "Seristö",
+        "given": "Hannu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Journal of Air Transport Management",
+    "volume": "7",
+    "issue": "5",
+    "page": "303-310",
+    "DOI": "10.1016/S0969-6997(01",
+    "URL": "https://doi.org/10.1016/S0969-6997(01)00025-4"
+  },
+  {
+    "id": "Kleymann2004managing",
+    "type": "book",
+    "title": "Managing Strategic Airline Alliances",
+    "author": [
+      {
+        "family": "Kleymann",
+        "given": "Birgit"
+      },
+      {
+        "family": "Seristö",
+        "given": "Hannu"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Ashgate",
+    "page": "216",
+    "ISBN": "9780754613275",
+    "URL": "https://www.routledge.com/Managing-Strategic-Airline-Alliances/Kleymann-Seristo/p/book/9781138263758"
+  },
+  {
+    "id": "Klijn2013performance",
+    "type": "article-journal",
+    "title": "Performance Implications of IJV Boards: A Contingency Perspective",
+    "author": [
+      {
+        "family": "Klijn",
+        "given": "Elko"
+      },
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      },
+      {
+        "family": "Van den Bosch",
+        "given": "Frans A. J."
+      },
+      {
+        "family": "Volberda",
+        "given": "Henk W."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "container-title": "Journal of Management Studies",
+    "volume": "50",
+    "issue": "7",
+    "page": "1245-1266",
+    "DOI": "10.1111/joms.12044",
+    "URL": "https://doi.org/10.1111/joms.12044"
+  },
+  {
+    "id": "Koenig2015differentiated",
+    "type": "report",
+    "title": "A differentiated view of differentiated integration",
+    "author": [
+      {
+        "family": "Koenig",
+        "given": "Nicole"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "publisher": "Jacques Delors Institut",
+    "page": "13",
+    "number": "Policy Paper 140",
+    "URL": "https://institutdelors.eu/content/uploads/2025/04/differenciatedintegrationjdibjuli2015-3.pdf"
+  },
+  {
+    "id": "Koremenos2001rational",
+    "type": "article-journal",
+    "title": "The Rational Design of International Institutions",
+    "author": [
+      {
+        "family": "Koremenos",
+        "given": "Barbara"
+      },
+      {
+        "family": "Lipson",
+        "given": "Charles"
+      },
+      {
+        "family": "Snidal",
+        "given": "Duncan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "International Organization",
+    "volume": "55",
+    "issue": "4",
+    "page": "761-799",
+    "DOI": "10.1162/002081801317193592",
+    "URL": "https://doi.org/10.1162/002081801317193592"
+  },
+  {
+    "id": "Klliker2001bringing",
+    "type": "article-journal",
+    "title": "Bringing Together or Driving Apart the Union? Towards a Theory of Differentiated Integration",
+    "author": [
+      {
+        "family": "Kölliker",
+        "given": "Alkuin"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Preprints of the Max Planck Institute for Research on Collective Goods, Bonn, 2001/5",
+    "volume": "24",
+    "issue": "4",
+    "page": "125-151",
+    "DOI": "10.1080/01402380108425468",
+    "URL": "https://doi.org/10.1080/01402380108425468"
+  },
+  {
+    "id": "Lavenex2015external",
+    "type": "article-journal",
+    "title": "The External Face of Differentiated Integration: Third Country Participation in EU Sectoral Bodies",
+    "author": [
+      {
+        "family": "Lavenex",
+        "given": "Sandra"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Journal of European Public Policy",
+    "volume": "22",
+    "issue": "6",
+    "page": "836-853",
+    "DOI": "10.1080/13501763.2015.1020836",
+    "URL": "https://doi.org/10.1080/13501763.2015.1020836"
+  },
+  {
+    "id": "Lavie2007alliance",
+    "type": "article-journal",
+    "title": "Alliance Portfolios and Firm Performance: A Study of Value Creation and Appropriation in the U.S. Software Industry",
+    "author": [
+      {
+        "family": "Lavie",
+        "given": "Dovev"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "28",
+    "issue": "12",
+    "page": "1187-1212",
+    "abstract": "This study reveals the multifaceted contribution of alliance portfolios to firms' market performance. Extending prior research that has stressed the value-creation effect of network resources, it uncovers how prominent partners may undermine a firm's capacity to appropriate value from its alliance portfolio. Analysis of a comprehensive panel dataset of 367 software firms and their 20,779 alliances suggests that the contribution of network resources to value creation varies with the complementarity of those resources. Furthermore, the relative bargaining power of partners in the alliance portfolio constrains the firm's appropriation capacity, especially when many of these partners compete in the focal firm's industry. In turn, the firm's market performance improves with the intensity of competition among partners in its alliance portfolio.",
+    "DOI": "10.1002/smj.637",
+    "URL": "https://doi.org/10.1002/smj.637"
+  },
+  {
+    "id": "Lavie2007performance",
+    "type": "article-journal",
+    "title": "The Performance Implications of Timing of Entry and Involvement in Multipartner Alliances",
+    "author": [
+      {
+        "family": "Lavie",
+        "given": "Dovev"
+      },
+      {
+        "family": "Lechner",
+        "given": "Christoph"
+      },
+      {
+        "family": "Singh",
+        "given": "Harbir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "50",
+    "issue": "3",
+    "page": "578-604",
+    "DOI": "10.5465/amj.2007.25525906",
+    "URL": "https://doi.org/10.5465/amj.2007.25525906"
+  },
+  {
+    "id": "Lavie2008alliance",
+    "type": "article-journal",
+    "title": "Alliance Portfolio Internationalization and Firm Performance",
+    "author": [
+      {
+        "family": "Lavie",
+        "given": "Dovev"
+      },
+      {
+        "family": "Miller",
+        "given": "Stewart R."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "Organization Science",
+    "volume": "19",
+    "issue": "4",
+    "page": "623-646",
+    "DOI": "10.1287/orsc.1070.0341",
+    "URL": "https://doi.org/10.1287/orsc.1070.0341"
+  },
+  {
+    "id": "Lazzarini2007impact",
+    "type": "article-journal",
+    "title": "The Impact of Membership in Competing Alliance Constellations: Evidence on the Operational Performance of Global Airlines",
+    "author": [
+      {
+        "family": "Lazzarini",
+        "given": "Sergio G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "28",
+    "issue": "4",
+    "page": "345-367",
+    "DOI": "10.1002/smj.587",
+    "URL": "https://doi.org/10.1002/smj.587"
+  },
+  {
+    "id": "Leruth2019differentiated",
+    "type": "article-journal",
+    "title": "Differentiated Integration and Disintegration in the EU after Brexit: Risks versus Opportunities",
+    "author": [
+      {
+        "family": "Leruth",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Gänzle",
+        "given": "Stefan"
+      },
+      {
+        "family": "Trondal",
+        "given": "Jarle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "JCMS: Journal of Common Market Studies",
+    "volume": "57",
+    "issue": "6",
+    "page": "1383-1394",
+    "DOI": "10.1111/jcms.12957",
+    "URL": "https://doi.org/10.1111/jcms.12957"
+  },
+  {
+    "id": "Leruth2022routledge",
+    "type": "book",
+    "title": "The Routledge Handbook of Differentiation in the European Union",
+    "author": [
+      {
+        "family": "Leruth",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Gänzle",
+        "given": "Stefan"
+      },
+      {
+        "family": "Trondal",
+        "given": "Jarle"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Leruth",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Gänzle",
+        "given": "Stefan"
+      },
+      {
+        "family": "Trondal",
+        "given": "Jarle"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "Routledge",
+    "page": "770",
+    "ISBN": "978-0-367-14965-9 (hbk); 978-1-032-18382-4 (pbk); 978-0-429-05413-6 (ebk)",
+    "DOI": "10.4324/9780429054136",
+    "URL": "https://www.routledge.com/The-Routledge-Handbook-of-Differentiation-in-the-European-Union/Leruth-Ganzle-Trondal/p/book/9781032183824"
+  },
+  {
+    "id": "Leuffen2022integration",
+    "type": "book",
+    "title": "Integration and Differentiation in the European Union: Theory and Policies",
+    "author": [
+      {
+        "family": "Leuffen",
+        "given": "Dirk"
+      },
+      {
+        "family": "Rittberger",
+        "given": "Berthold"
+      },
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "publisher": "Palgrave Macmillan",
+    "page": "465",
+    "ISBN": "978-3-030-76676-4",
+    "DOI": "10.1007/978-3-030-76677-1",
+    "URL": "https://link.springer.com/book/10.1007/978-3-030-76677-1"
+  },
+  {
+    "id": "Li2008friends",
+    "type": "article-journal",
+    "title": "Friends, Acquaintances, or Strangers? Partner Selection in R&D Alliances",
+    "author": [
+      {
+        "family": "Li",
+        "given": "Dan"
+      },
+      {
+        "family": "Eden",
+        "given": "Lorraine"
+      },
+      {
+        "family": "Hitt",
+        "given": "Michael A."
+      },
+      {
+        "family": "Ireland",
+        "given": "R. Duane"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "51",
+    "issue": "2",
+    "page": "315-334",
+    "DOI": "10.5465/amj.2008.31767271",
+    "URL": "https://doi.org/10.5465/amj.2008.31767271"
+  },
+  {
+    "id": "LLC2020oneworld",
+    "type": "webpage",
+    "title": "oneworld: '20 facts' page and oneworld Connect partner tier",
+    "author": [
+      {
+        "family": "LLC",
+        "given": "oneworld Alliance"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "oneworld.com",
+    "URL": "https://www.oneworld.com/news/2020-05-04-oneworld-20-facts"
+  },
+  {
+    "id": "Lorange1992strategic",
+    "type": "book",
+    "title": "Strategic Alliances: Formation, Implementation, and Evolution",
+    "author": [
+      {
+        "family": "Lorange",
+        "given": "Peter"
+      },
+      {
+        "family": "Roos",
+        "given": "Johan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "publisher": "Blackwell",
+    "page": "296",
+    "ISBN": "9781557861023",
+    "URL": "https://www.goodreads.com/book/show/8739436"
+  },
+  {
+    "id": "Luo2001dual",
+    "type": "article-journal",
+    "title": "A Dual Parent Perspective on Control and Performance in International Joint Ventures: Lessons from a Developing Economy",
+    "author": [
+      {
+        "family": "Luo",
+        "given": "Yadong"
+      },
+      {
+        "family": "Shenkar",
+        "given": "Oded"
+      },
+      {
+        "family": "Nyaw",
+        "given": "Mee-Kau"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "32",
+    "issue": "1",
+    "page": "41-58",
+    "DOI": "10.1057/palgrave.jibs.8490937",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8490937"
+  },
+  {
+    "id": "Mattoo2020handbook",
+    "type": "report",
+    "title": "Handbook of Deep Trade Agreements",
+    "author": [
+      {
+        "family": "Mattoo",
+        "given": "Aaditya"
+      },
+      {
+        "family": "Rocha",
+        "given": "Nadia"
+      },
+      {
+        "family": "Ruta",
+        "given": "Michele"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Mattoo",
+        "given": "Aaditya"
+      },
+      {
+        "family": "Rocha",
+        "given": "Nadia"
+      },
+      {
+        "family": "Ruta",
+        "given": "Michele"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "World Bank",
+    "page": "632",
+    "URL": "https://openknowledge.worldbank.org/handle/10986/34055"
+  },
+  {
+    "id": "Airn.d.introduction",
+    "type": "thesis",
+    "title": "Introduction of Metal Neutrality on the Transatlantic Air Market",
+    "author": [
+      {
+        "literal": "McGill University (Institute of Air"
+      },
+      {
+        "family": "thesis",
+        "given": "Space Law)"
+      },
+      {
+        "literal": "author"
+      },
+      {
+        "family": "confirmed",
+        "given": "year to be"
+      },
+      {
+        "literal": "thesis"
+      }
+    ],
+    "publisher": "McGill University",
+    "URL": "https://escholarship.mcgill.ca/downloads/sj139495b?locale=en",
+    "genre": "Doctoral dissertation"
+  },
+  {
+    "id": "Mjoen1997control",
+    "type": "article-journal",
+    "title": "Control and Performance in International Joint Ventures",
+    "author": [
+      {
+        "family": "Mjoen",
+        "given": "Hans"
+      },
+      {
+        "family": "Tallman",
+        "given": "Stephen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "container-title": "Organization Science",
+    "volume": "8",
+    "issue": "3",
+    "page": "257-274",
+    "DOI": "10.1287/orsc.8.3.257",
+    "URL": "https://doi.org/10.1287/orsc.8.3.257"
+  },
+  {
+    "id": "Nippa2019future",
+    "type": "article-journal",
+    "title": "On the Future of International Joint Venture Research",
+    "author": [
+      {
+        "family": "Nippa",
+        "given": "Michael"
+      },
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "50",
+    "issue": "4",
+    "page": "555-597",
+    "DOI": "10.1057/s41267-019-00212-0",
+    "URL": "https://doi.org/10.1057/s41267-019-00212-0"
+  },
+  {
+    "id": "Nohria1994differentiated",
+    "type": "article-journal",
+    "title": "Differentiated Fit and Shared Values: Alternatives for Managing Headquarters-Subsidiary Relations",
+    "author": [
+      {
+        "family": "Nohria",
+        "given": "Nitin"
+      },
+      {
+        "family": "Ghoshal",
+        "given": "Sumantra"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "15",
+    "issue": "6",
+    "page": "491-502",
+    "DOI": "10.1002/smj.4250150606",
+    "URL": "https://doi.org/10.1002/smj.4250150606"
+  },
+  {
+    "id": "OAG2026historical",
+    "type": "dataset",
+    "title": "OAG Historical Flight Data and Cirium Diio schedules (codeshare and partner flags, 2004-present)",
+    "author": [
+      {
+        "literal": "OAG"
+      },
+      {
+        "literal": "Cirium"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "oag.com / cirium.com",
+    "publisher": "OAG Aviation Worldwide; Cirium",
+    "URL": "https://www.oag.com/historical-flight-data"
+  },
+  {
+    "id": "OECD2001patterns",
+    "type": "report",
+    "title": "New Patterns of Industrial Globalisation: Cross-border Mergers and Acquisitions and Strategic Alliances",
+    "author": [
+      {
+        "literal": "OECD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "publisher": "OECD",
+    "ISBN": "9789264192911",
+    "DOI": "10.1787/9789264192911-en",
+    "URL": "https://www.oecd.org/en/publications/2001/07/new-patterns-of-industrial-globalisation_g1gh1e3d.html"
+  },
+  {
+    "id": "OECD2025oecd",
+    "type": "dataset",
+    "title": "OECD FDI Regulatory Restrictiveness Index (FDI RRI)",
+    "author": [
+      {
+        "literal": "OECD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "OECD Data Explorer",
+    "publisher": "OECD",
+    "URL": "https://www.oecd.org/en/data/indicators/fdi-restrictiveness.html"
+  },
+  {
+    "id": "Oxley1997appropriability",
+    "type": "article-journal",
+    "title": "Appropriability Hazards and Governance in Strategic Alliances: A Transaction Cost Approach",
+    "author": [
+      {
+        "family": "Oxley",
+        "given": "Joanne E."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "container-title": "Journal of Law, Economics, and Organization",
+    "volume": "13",
+    "issue": "2",
+    "page": "387-409",
+    "DOI": "10.1093/oxfordjournals.jleo.a023391",
+    "URL": "https://doi.org/10.1093/oxfordjournals.jleo.a023391"
+  },
+  {
+    "id": "Oxley2004scope",
+    "type": "article-journal",
+    "title": "The Scope and Governance of International R&D Alliances",
+    "author": [
+      {
+        "family": "Oxley",
+        "given": "Joanne E."
+      },
+      {
+        "family": "Sampson",
+        "given": "Rachelle C."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "25",
+    "issue": "8-9",
+    "page": "723-749",
+    "DOI": "10.1002/smj.391",
+    "URL": "https://doi.org/10.1002/smj.391"
+  },
+  {
+    "id": "page2025pioneers",
+    "type": "post-weblog",
+    "title": "Pioneers Wanted: On the Differentiated Integration Pathways Towards a Genuine European Defence Union",
+    "author": [
+      {
+        "family": "page)",
+        "given": "Verfassungsblog (author to check on"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Verfassungsblog",
+    "URL": "https://verfassungsblog.de/european-defence-union-intergovernmental/"
+  },
+  {
+    "id": "Park1996when",
+    "type": "article-journal",
+    "title": "When Competition Eclipses Cooperation: An Event History Analysis of Joint Venture Failure",
+    "author": [
+      {
+        "family": "Park",
+        "given": "Seung Ho"
+      },
+      {
+        "family": "Russo",
+        "given": "Michael V."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "container-title": "Management Science",
+    "volume": "42",
+    "issue": "6",
+    "page": "875-890",
+    "DOI": "10.1287/mnsc.42.6.875",
+    "URL": "https://doi.org/10.1287/mnsc.42.6.875"
+  },
+  {
+    "id": "Poppo2002formal",
+    "type": "article-journal",
+    "title": "Do Formal Contracts and Relational Governance Function as Substitutes or Complements?",
+    "author": [
+      {
+        "family": "Poppo",
+        "given": "Laura"
+      },
+      {
+        "family": "Zenger",
+        "given": "Todd"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "23",
+    "issue": "8",
+    "page": "707-725",
+    "DOI": "10.1002/smj.249",
+    "URL": "https://doi.org/10.1002/smj.249"
+  },
+  {
+    "id": "Professionals2026asap",
+    "type": "webpage",
+    "title": "ASAP - Association of Strategic Alliance Professionals: Handbook, State of Alliance Management studies, Strategic Alliance Quarterly",
+    "author": [
+      {
+        "family": "Professionals",
+        "given": "Association of Strategic Alliance"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "strategic-alliances.org",
+    "URL": "https://www.strategic-alliances.org/"
+  },
+  {
+    "id": "Puck2009beyond",
+    "type": "article-journal",
+    "title": "Beyond Entry Mode Choice: Explaining the Conversion of Joint Ventures into Wholly Owned Subsidiaries in the PRC",
+    "author": [
+      {
+        "family": "Puck",
+        "given": "Jonas F."
+      },
+      {
+        "family": "Holtbrügge",
+        "given": "Dirk"
+      },
+      {
+        "family": "Mohr",
+        "given": "Alexander T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "40",
+    "issue": "3",
+    "page": "388-404",
+    "DOI": "10.1057/jibs.2008.56",
+    "URL": "https://doi.org/10.1057/jibs.2008.56"
+  },
+  {
+    "id": "Research2026ecpr",
+    "type": "webpage",
+    "title": "ECPR Research Network on Differentiated Integration in the EU (RNDI)",
+    "author": [
+      {
+        "family": "Research",
+        "given": "European Consortium for Political"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "standinggroups.ecpr.eu",
+    "URL": "https://standinggroups.ecpr.eu/rndi/"
+  },
+  {
+    "id": "Reuer2002post",
+    "type": "article-journal",
+    "title": "Post-Formation Dynamics in Strategic Alliances",
+    "author": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      },
+      {
+        "family": "Zollo",
+        "given": "Maurizio"
+      },
+      {
+        "family": "Singh",
+        "given": "Harbir"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "23",
+    "issue": "2",
+    "page": "135-151",
+    "DOI": "10.1002/smj.214",
+    "URL": "https://doi.org/10.1002/smj.214"
+  },
+  {
+    "id": "Reuer2004strategic",
+    "type": "book",
+    "title": "Strategic Alliances: Theory and Evidence",
+    "author": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "ISBN": "9780199256549 (hbk); 9780199256556 (pbk)",
+    "URL": "https://academic.oup.com/book/52368"
+  },
+  {
+    "id": "Reuer2007strategic",
+    "type": "article-journal",
+    "title": "Strategic Alliance Contracts: Dimensions and Determinants of Contractual Complexity",
+    "author": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      },
+      {
+        "family": "Ariño",
+        "given": "Africa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "28",
+    "issue": "3",
+    "page": "313-330",
+    "DOI": "10.1002/smj.581",
+    "URL": "https://doi.org/10.1002/smj.581"
+  },
+  {
+    "id": "Reuer2014board",
+    "type": "article-journal",
+    "title": "Board Involvement in International Joint Ventures",
+    "author": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      },
+      {
+        "family": "Klijn",
+        "given": "Elko"
+      },
+      {
+        "family": "Lioukas",
+        "given": "Constantinos S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "35",
+    "issue": "11",
+    "page": "1626-1644",
+    "DOI": "10.1002/smj.2173",
+    "URL": "https://doi.org/10.1002/smj.2173"
+  },
+  {
+    "id": "Reuer2016mechanisms",
+    "type": "article-journal",
+    "title": "Mechanisms of Hybrid Governance: Administrative Committees in Non-Equity Alliances",
+    "author": [
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      },
+      {
+        "family": "Devarakonda",
+        "given": "Shivaram V."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "59",
+    "issue": "2",
+    "page": "510-533",
+    "DOI": "10.5465/amj.2012.0098",
+    "URL": "https://doi.org/10.5465/amj.2012.0098"
+  },
+  {
+    "id": "Reus2009meta",
+    "type": "article-journal",
+    "title": "Meta-analyses of International Joint Venture Performance Determinants: Evidence for Theory, Methodological Artifacts and the Unique Context of China",
+    "author": [
+      {
+        "family": "Reus",
+        "given": "Taco H."
+      },
+      {
+        "family": "Rottig",
+        "given": "Daniel"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Management International Review",
+    "volume": "49",
+    "issue": "5",
+    "page": "607-640",
+    "DOI": "10.1007/s11575-009-0009-9",
+    "URL": "https://doi.org/10.1007/s11575-009-0009-9"
+  },
+  {
+    "id": "Review2025better",
+    "type": "post-weblog",
+    "title": "How Better Contracts Can Strengthen Strategic Partnerships (HBR IdeaCast with Oliver Hart, Kate Vitasek and David Frydlinger)",
+    "author": [
+      {
+        "family": "Review",
+        "given": "Harvard Business"
+      },
+      {
+        "family": "Hart",
+        "given": "Oliver"
+      },
+      {
+        "family": "Vitasek",
+        "given": "Kate"
+      },
+      {
+        "family": "Frydlinger",
+        "given": "David"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "HBR IdeaCast (podcast)",
+    "URL": "https://hbr.org/podcast/2025/10/how-better-contracts-can-strengthen-strategic-partnerships"
+  },
+  {
+    "id": "Rindfleisch2001acquisition",
+    "type": "article-journal",
+    "title": "The Acquisition and Utilization of Information in New Product Alliances: A Strength-of-Ties Perspective",
+    "author": [
+      {
+        "family": "Rindfleisch",
+        "given": "Aric"
+      },
+      {
+        "family": "Moorman",
+        "given": "Christine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "Journal of Marketing",
+    "volume": "65",
+    "issue": "2",
+    "page": "1-18",
+    "DOI": "10.1509/jmkg.65.2.1.18253",
+    "URL": "https://doi.org/10.1509/jmkg.65.2.1.18253"
+  },
+  {
+    "id": "Rosendorff2001optimal",
+    "type": "article-journal",
+    "title": "The Optimal Design of International Trade Institutions: Uncertainty and Escape",
+    "author": [
+      {
+        "family": "Rosendorff",
+        "given": "B. Peter"
+      },
+      {
+        "family": "Milner",
+        "given": "Helen V."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "container-title": "International Organization",
+    "volume": "55",
+    "issue": "4",
+    "page": "829-857",
+    "DOI": "10.1162/002081801317193619",
+    "URL": "https://doi.org/10.1162/002081801317193619"
+  },
+  {
+    "id": "Rugman2004perspective",
+    "type": "article-journal",
+    "title": "A Perspective on Regional and Global Strategies of Multinational Enterprises",
+    "author": [
+      {
+        "family": "Rugman",
+        "given": "Alan M."
+      },
+      {
+        "family": "Verbeke",
+        "given": "Alain"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "container-title": "Journal of International Business Studies",
+    "volume": "35",
+    "issue": "1",
+    "page": "3-18",
+    "DOI": "10.1057/palgrave.jibs.8400073",
+    "URL": "https://doi.org/10.1057/palgrave.jibs.8400073"
+  },
+  {
+    "id": "Saebi2011successfully",
+    "type": "thesis",
+    "title": "Successfully Managing Alliance Portfolios: An Alliance Capability View",
+    "author": [
+      {
+        "family": "Saebi",
+        "given": "Tina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "Maastricht University",
+    "URL": "https://cris.maastrichtuniversity.nl/ws/files/1117895/guid-0ae89415-5b21-48fa-978a-c5647cd5a9c7-ASSET1.0",
+    "genre": "Doctoral dissertation"
+  },
+  {
+    "id": "Schaan1983parent",
+    "type": "thesis",
+    "title": "Parent Control and Joint Venture Success: The Case of Mexico",
+    "author": [
+      {
+        "family": "Schaan",
+        "given": "Jean-Louis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1983
+        ]
+      ]
+    },
+    "publisher": "University of Western Ontario",
+    "URL": "https://ir.lib.uwo.ca/digitizedtheses/",
+    "genre": "Doctoral dissertation"
+  },
+  {
+    "id": "Schilke2018double",
+    "type": "article-journal",
+    "title": "The Double-Edged Effect of Contracts on Alliance Performance",
+    "author": [
+      {
+        "family": "Schilke",
+        "given": "Oliver"
+      },
+      {
+        "family": "Lumineau",
+        "given": "Fabrice"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "container-title": "Journal of Management",
+    "volume": "44",
+    "issue": "7",
+    "page": "2827-2858",
+    "DOI": "10.1177/0149206316655872",
+    "URL": "https://doi.org/10.1177/0149206316655872"
+  },
+  {
+    "id": "Schimmelfennig2014instrumental",
+    "type": "article-journal",
+    "title": "Instrumental and Constitutional Differentiation in the European Union",
+    "author": [
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      },
+      {
+        "family": "Winzen",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "container-title": "JCMS: Journal of Common Market Studies",
+    "volume": "52",
+    "issue": "2",
+    "page": "354-370",
+    "DOI": "10.1111/jcms.12103",
+    "URL": "https://doi.org/10.1111/jcms.12103"
+  },
+  {
+    "id": "Schimmelfennig2015european",
+    "type": "article-journal",
+    "title": "The European Union as a System of Differentiated Integration: Interdependence, Politicization and Differentiation",
+    "author": [
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      },
+      {
+        "family": "Leuffen",
+        "given": "Dirk"
+      },
+      {
+        "family": "Rittberger",
+        "given": "Berthold"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "container-title": "Journal of European Public Policy",
+    "volume": "22",
+    "issue": "6",
+    "page": "764-782",
+    "DOI": "10.1080/13501763.2015.1020835",
+    "URL": "https://doi.org/10.1080/13501763.2015.1020835"
+  },
+  {
+    "id": "Schimmelfennig2016good",
+    "type": "article-journal",
+    "title": "Good Governance and Differentiated Integration: Graded Membership in the European Union",
+    "author": [
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "European Journal of Political Research",
+    "volume": "55",
+    "issue": "4",
+    "page": "789-810",
+    "DOI": "10.1111/1475-6765.12152",
+    "URL": "https://doi.org/10.1111/1475-6765.12152"
+  },
+  {
+    "id": "Schimmelfennig2020eudiff",
+    "type": "dataset",
+    "title": "EUDIFF1 and EUDIFF2: Differentiated European Integration datasets (treaty law 1952-2020; secondary law 1958-2018)",
+    "author": [
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      },
+      {
+        "family": "Winzen",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "thomaswinzen.com / ETH Zurich European Politics",
+    "publisher": "ETH Zurich",
+    "URL": "https://thomaswinzen.com/datasets/didata/"
+  },
+  {
+    "id": "Schimmelfennig2020ever",
+    "type": "book",
+    "title": "Ever Looser Union? Differentiated European Integration",
+    "author": [
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      },
+      {
+        "family": "Winzen",
+        "given": "Thomas"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Oxford University Press",
+    "ISBN": "9780198854333",
+    "URL": "https://academic.oup.com/book/36955"
+  },
+  {
+    "id": "Service2016differentiated",
+    "type": "report",
+    "title": "Differentiated integration in the European Union (EPRS At a Glance)",
+    "author": [
+      {
+        "family": "Service",
+        "given": "European Parliamentary Research"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "publisher": "European Parliament",
+    "number": "EPRS_ATA(2016)573961",
+    "URL": "https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2016)573961"
+  },
+  {
+    "id": "Shaver1998accounting",
+    "type": "article-journal",
+    "title": "Accounting for Endogeneity When Assessing Strategy Performance: Does Entry Mode Choice Affect FDI Survival?",
+    "author": [
+      {
+        "family": "Shaver",
+        "given": "J. Myles"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "container-title": "Management Science",
+    "volume": "44",
+    "issue": "4",
+    "page": "571-585",
+    "DOI": "10.1287/mnsc.44.4.571",
+    "URL": "https://doi.org/10.1287/mnsc.44.4.571"
+  },
+  {
+    "id": "Shenkar2006handbook",
+    "type": "book",
+    "title": "Handbook of Strategic Alliances",
+    "author": [
+      {
+        "family": "Shenkar",
+        "given": "Oded"
+      },
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "editor": [
+      {
+        "family": "Shenkar",
+        "given": "Oded"
+      },
+      {
+        "family": "Reuer",
+        "given": "Jeffrey J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher": "Sage",
+    "page": "488",
+    "ISBN": "9780761988632",
+    "URL": "https://sk.sagepub.com/reference/handbook-of-strategic-alliances"
+  },
+  {
+    "id": "Skift2023star",
+    "type": "post-weblog",
+    "title": "Star Alliance's 26 Brands, Explained",
+    "author": [
+      {
+        "literal": "Skift"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "Skift",
+    "URL": "https://skift.com/2023/04/13/star-alliance-26-brands-explained/"
+  },
+  {
+    "id": "Society2026strategic",
+    "type": "webpage",
+    "title": "Strategic Management Society: Cooperative Strategies Interest Group",
+    "author": [
+      {
+        "family": "Society",
+        "given": "Strategic Management"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "strategicmanagement.net",
+    "URL": "https://www.strategicmanagement.net/group/cooperative-strategies-interest-group/"
+  },
+  {
+    "id": "GmbH2026star",
+    "type": "webpage",
+    "title": "Star Alliance official site: member airlines and Connecting Partner model",
+    "author": [
+      {
+        "literal": "Star Alliance Services GmbH"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "staralliance.com",
+    "URL": "https://www.staralliance.com/en/about"
+  },
+  {
+    "id": "Statistics2026international",
+    "type": "dataset",
+    "title": "BTS T-100 International Segment data (US and foreign carriers, traffic and capacity by nonstop segment)",
+    "author": [
+      {
+        "family": "Statistics",
+        "given": "US Bureau of Transportation"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "TranStats",
+    "publisher": "US DOT Bureau of Transportation Statistics",
+    "URL": "https://www.transtats.bts.gov/Tables.asp?QO_VQ=EEE&QO_anzr=Nv4%EF%BF%BDPn44vr4%EF%BF%BDf6n6v56vp5%EF%BF%BD%25FLS14z%EF%BF%BDHE%EF%BF%BDg4nssvp%25FM-%EF%BF%BDNyy%EF%BF%BDPn44vr45&QO_fu146_anzr=Nv4%EF%BF%BDPn44vr45"
+  },
+  {
+    "id": "Stubb1996categorization",
+    "type": "article-journal",
+    "title": "A Categorization of Differentiated Integration",
+    "author": [
+      {
+        "family": "Stubb",
+        "given": "Alexander C-G."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "container-title": "JCMS: Journal of Common Market Studies",
+    "volume": "34",
+    "issue": "2",
+    "page": "283-295",
+    "DOI": "10.1111/j.1468-5965.1996.tb00573.x",
+    "URL": "https://doi.org/10.1111/j.1468-5965.1996.tb00573.x"
+  },
+  {
+    "id": "Studies2023differentiation",
+    "type": "webpage",
+    "title": "EU3D - EU Differentiation, Dominance and Democracy (ARENA, University of Oslo)",
+    "author": [
+      {
+        "family": "Studies)",
+        "given": "EU3D consortium (ARENA Centre for European"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "container-title": "eu3d.uio.no",
+    "URL": "https://www.eu3d.uio.no/"
+  },
+  {
+    "id": "Swaminathan2009marketing",
+    "type": "article-journal",
+    "title": "Marketing Alliances, Firm Networks, and Firm Value Creation",
+    "author": [
+      {
+        "family": "Swaminathan",
+        "given": "Vanitha"
+      },
+      {
+        "family": "Moorman",
+        "given": "Christine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "Journal of Marketing",
+    "volume": "73",
+    "issue": "5",
+    "page": "52-69",
+    "DOI": "10.1509/jmkg.73.5.52",
+    "URL": "https://doi.org/10.1509/jmkg.73.5.52"
+  },
+  {
+    "id": "Tjemkes2023strategic",
+    "type": "book",
+    "title": "Strategic Alliance Management",
+    "author": [
+      {
+        "family": "Tjemkes",
+        "given": "Brian"
+      },
+      {
+        "family": "Vos",
+        "given": "Pepijn"
+      },
+      {
+        "family": "Burgers",
+        "given": "Koen"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "publisher": "Routledge",
+    "page": "454",
+    "ISBN": "9781032119281 (hbk); 9781032119250 (pbk); 9781003222187 (ebk)",
+    "URL": "https://research.vu.nl/en/publications/strategic-alliance-management-4/"
+  },
+  {
+    "id": "Todeva2009strategic",
+    "type": "article",
+    "title": "Strategic Alliances and Models of Collaboration",
+    "author": [
+      {
+        "family": "Todeva",
+        "given": "Emanuela"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "container-title": "SSRN Working Paper, abstract 1467701",
+    "number": "SSRN 1467701",
+    "URL": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1467701",
+    "genre": "Preprint"
+  },
+  {
+    "id": "Transportation2025office",
+    "type": "webpage",
+    "title": "US DOT Office of Aviation Analysis: Alliances and Codeshares (cooperative agreements review)",
+    "author": [
+      {
+        "family": "Transportation",
+        "given": "US Department of"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "transportation.gov",
+    "URL": "https://www.transportation.gov/policy/aviation-policy/competition-data-analysis/alliance-codeshares"
+  },
+  {
+    "id": "UA2026skyteam",
+    "type": "webpage",
+    "title": "SkyTeam: History of the airline alliance",
+    "author": [
+      {
+        "family": "U.A.",
+        "given": "SkyTeam Airline Alliance Management Coöperatie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "skyteam.com",
+    "URL": "https://www.skyteam.com/en/about/history"
+  },
+  {
+    "id": "UNCTAD2011world",
+    "type": "report",
+    "title": "World Investment Report 2011: Non-Equity Modes of International Production and Development",
+    "author": [
+      {
+        "literal": "UNCTAD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "publisher": "United Nations",
+    "ISBN": "9789211128284 (print); 9789210550840 (PDF)",
+    "number": "UNCTAD/WIR/2011",
+    "URL": "https://unctad.org/system/files/official-document/wir2011ch1_en.pdf"
+  },
+  {
+    "id": "UNCTAD2025unctad",
+    "type": "dataset",
+    "title": "UNCTAD FDI statistics (UNCTADstat and World Investment Report annex tables, 1990-2024)",
+    "author": [
+      {
+        "literal": "UNCTAD"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "UNCTAD Investment Statistics and Trends",
+    "publisher": "United Nations Trade and Development",
+    "URL": "https://unctad.org/topic/investment/investment-statistics-and-trends"
+  },
+  {
+    "id": "Union2025glossary",
+    "type": "webpage",
+    "title": "EUR-Lex glossary: Enhanced cooperation (Art. 20 TEU, Arts. 326-334 TFEU)",
+    "author": [
+      {
+        "family": "Union",
+        "given": "Publications Office of the European"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "EUR-Lex",
+    "URL": "https://eur-lex.europa.eu/summary/glossary/enhanced_cooperation.html"
+  },
+  {
+    "id": "Universittsbibliothek2026wrds",
+    "type": "dataset",
+    "title": "WRDS at WU Wien: Compustat Global, Orbis (via WRDS), SDC and other modules",
+    "author": [
+      {
+        "family": "Universitätsbibliothek",
+        "given": "WU"
+      },
+      {
+        "family": "Services",
+        "given": "Wharton Research Data"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "WU Bibliothek Datenbanken-Info",
+    "publisher": "WU Wien",
+    "URL": "https://www.wu.ac.at/bibliothek/recherche/datenbanken/info/wrds"
+  },
+  {
+    "id": "Transportation2024list",
+    "type": "dataset",
+    "title": "US DOT list of active antitrust-immunized airline alliances and ATI case dockets",
+    "author": [
+      {
+        "family": "US Department of Transportation",
+        "given": "Office of Aviation Analysis"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "transportation.gov",
+    "publisher": "US Department of Transportation",
+    "URL": "https://www.transportation.gov/office-policy/aviation-policy/dot-aviation-antitrust-immunity-cases"
+  },
+  {
+    "id": "USA2024state",
+    "type": "post-weblog",
+    "title": "The State of Alliance Management in 2024 and Beyond",
+    "author": [
+      {
+        "family": "USA",
+        "given": "BDO"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "container-title": "BDO Insights",
+    "URL": "https://www.bdo.com/insights/advisory/the-state-of-alliance-management"
+  },
+  {
+    "id": "Wassmer2010alliance",
+    "type": "article-journal",
+    "title": "Alliance Portfolios: A Review and Research Agenda",
+    "author": [
+      {
+        "family": "Wassmer",
+        "given": "Ulrich"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "container-title": "Journal of Management",
+    "volume": "36",
+    "issue": "1",
+    "page": "141-171",
+    "DOI": "10.1177/0149206308328484",
+    "URL": "https://doi.org/10.1177/0149206308328484"
+  },
+  {
+    "id": "Wassmer2012network",
+    "type": "article-journal",
+    "title": "Network Resource Stocks and Flows: How Do Alliance Portfolios Affect the Value of New Alliance Formations?",
+    "author": [
+      {
+        "family": "Wassmer",
+        "given": "Ulrich"
+      },
+      {
+        "family": "Dussauge",
+        "given": "Pierre"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "container-title": "Strategic Management Journal",
+    "volume": "33",
+    "issue": "7",
+    "page": "871-883",
+    "DOI": "10.1002/smj.973",
+    "URL": "https://doi.org/10.1002/smj.973"
+  },
+  {
+    "id": "Winzen2016explaining",
+    "type": "article-journal",
+    "title": "Explaining Differentiation in European Union Treaties",
+    "author": [
+      {
+        "family": "Winzen",
+        "given": "Thomas"
+      },
+      {
+        "family": "Schimmelfennig",
+        "given": "Frank"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "container-title": "European Union Politics",
+    "volume": "17",
+    "issue": "4",
+    "page": "616-637",
+    "DOI": "10.1177/1465116516640386",
+    "URL": "https://doi.org/10.1177/1465116516640386"
+  },
+  {
+    "id": "Kaufmann2026worldwide",
+    "type": "dataset",
+    "title": "Worldwide Governance Indicators (WGI 2.0, estimates 1996-2025)",
+    "author": [
+      {
+        "family": "World Bank (Kaufmann",
+        "given": "Daniel; Kraay, Aart)"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "container-title": "govindicators.org / World Bank Data Catalog",
+    "publisher": "World Bank",
+    "URL": "https://www.worldbank.org/en/publication/worldwide-governance-indicators"
+  },
+  {
+    "id": "Yan1994bargaining",
+    "type": "article-journal",
+    "title": "Bargaining Power, Management Control, and Performance in United States-China Joint Ventures: A Comparative Case Study",
+    "author": [
+      {
+        "family": "Yan",
+        "given": "Aimin"
+      },
+      {
+        "family": "Gray",
+        "given": "Barbara"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "container-title": "Academy of Management Journal",
+    "volume": "37",
+    "issue": "6",
+    "page": "1478-1517",
+    "DOI": "10.5465/256796",
+    "URL": "https://doi.org/10.5465/256796"
+  },
+  {
+    "id": "Yoshino1995strategic",
+    "type": "book",
+    "title": "Strategic Alliances: An Entrepreneurial Approach to Globalization",
+    "author": [
+      {
+        "family": "Yoshino",
+        "given": "Michael Y."
+      },
+      {
+        "family": "Rangan",
+        "given": "U. Srinivasa"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher": "Harvard Business School Press",
+    "page": "272",
+    "ISBN": "9780875845845",
+    "URL": "https://books.google.com/books/about/Strategic_Alliances.html?id=QPm5OnFvrE4C"
+  },
+  {
+    "id": "Zou2017effect",
+    "type": "article-journal",
+    "title": "The Effect of Code-Sharing Alliances on Airline Profitability",
+    "author": [
+      {
+        "family": "Zou",
+        "given": "Li"
+      },
+      {
+        "family": "Chen",
+        "given": "Xueqian"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "container-title": "Journal of Air Transport Management",
+    "volume": "58",
+    "page": "50-57",
+    "URL": "https://scholar.google.com/scholar?q=Zou+Chen+2017+code-sharing+alliances+airline+profitability+Journal+of+Air+Transport+Management"
+  }
+]

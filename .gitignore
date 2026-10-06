@@ -1,0 +1,6 @@
+.claude/skills/academic-literature-search/.env
+__pycache__/
+*.pyc
+.DS_Store
+topics/*/files/*.zip
+topics/*/notion_part*.md
