@@ -20,8 +20,13 @@ Credentials, read from the environment or from .env in the skill folder:
 Without a group ID or name the personal library is used.
 Older variables ZOTERO_LIBRARY_TYPE=group + ZOTERO_LIBRARY_ID still work.
 
+--group overrides ZOTERO_GROUP for one run, so each search can go to its own group while
+the environment holds only the key (give the key read/write access to "all groups").
+
 Usage:
     python zotero_sync.py --check                       # key, permissions, groups, target
+    python zotero_sync.py --check --group "Coauthor project X"
+    python zotero_sync.py topics/<topic>/rows.json --topic "<topic>" --group 1234567
     python zotero_sync.py topics/<topic>/rows.json --topic "<topic>" --dry-run
     python zotero_sync.py topics/<topic>/rows.json --topic "<topic>"
 """
@@ -48,19 +53,31 @@ USER_ROOT_COLLECTION = "Academic Literature Search"
 BATCH = 50
 
 
-def apply_aliases() -> None:
+def set_group(value: str) -> None:
+    """Point the sync at one group: a numeric ID, a group URL or a group name."""
+    for name in ("ZOTERO_GROUP_ID", "ZOTERO_GROUP_NAME", "ZOTERO_LIBRARY_ID"):
+        os.environ.pop(name, None)
+    value = value.strip()
+    m = re.fullmatch(r"\d+", value) or re.search(r"/groups/(\d+)", value)
+    if m:
+        os.environ["ZOTERO_GROUP_ID"] = m.group(1) if m.lastindex else m.group(0)
+    else:
+        os.environ["ZOTERO_GROUP_NAME"] = value
+
+
+def apply_aliases(group_override: str | None = None) -> None:
     """Map the short variable names onto the ones the code reads:
     ZOTERO_KEY -> ZOTERO_API_KEY; ZOTERO_GROUP -> ZOTERO_GROUP_ID when it is a number or a
-    group URL, else ZOTERO_GROUP_NAME. Explicitly set long names win."""
+    group URL, else ZOTERO_GROUP_NAME. Explicitly set long names win over ZOTERO_GROUP;
+    a --group value wins over everything."""
     if env("ZOTERO_KEY") and not env("ZOTERO_API_KEY"):
         os.environ["ZOTERO_API_KEY"] = env("ZOTERO_KEY")
+    if group_override:
+        set_group(group_override)
+        return
     group = env("ZOTERO_GROUP")
     if group and not (env("ZOTERO_GROUP_ID") or env("ZOTERO_GROUP_NAME")):
-        m = re.fullmatch(r"\d+", group) or re.search(r"/groups/(\d+)", group)
-        if m:
-            os.environ["ZOTERO_GROUP_ID"] = m.group(1) if m.lastindex else m.group(0)
-        else:
-            os.environ["ZOTERO_GROUP_NAME"] = group
+        set_group(group)
 
 
 def api_root() -> str:
@@ -312,16 +329,18 @@ def check() -> int:
 
 def main(argv: list[str] | None = None) -> int:
     load_env()
-    apply_aliases()
     p = argparse.ArgumentParser(description=__doc__,
                                 formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("rows", nargs="?")
     p.add_argument("--topic", help="collection name (the topic as typed)")
     p.add_argument("--root", help="parent collection for all topics; '' for none "
                                   "(default: none in a group library)")
+    p.add_argument("--group", help="target group for this run: ID, group URL or name "
+                                   "(overrides ZOTERO_GROUP)")
     p.add_argument("--check", action="store_true", help="verify key, permissions and target")
     p.add_argument("--dry-run", action="store_true", help="print the items, write nothing")
     args = p.parse_args(argv)
+    apply_aliases(args.group)
 
     try:
         if args.check:

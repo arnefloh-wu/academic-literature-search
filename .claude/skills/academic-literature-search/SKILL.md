@@ -34,7 +34,10 @@ alliances?" becomes "Differentiated Integration in International Alliances") and
 full question in the intro.
 
 If the user adds context (theory lens, method, target journal, time window, region), keep
-it for the "Relevance for the research question" column and the synthesis. Ask nothing
+it for the "Relevance for the research question" column and the synthesis. If the user
+names a Zotero group for this search (e.g. "Zotero group: Coauthor project X"), pass it as
+`--group` to the Zotero sync in Step 5; otherwise the default group from `ZOTERO_GROUP`
+is used. Ask nothing
 else; run fully autonomously to the end and report once with the links.
 
 ## Step 1: Set up
@@ -154,6 +157,7 @@ create the page with the intro, synthesis, search strings and the first tables, 
 if it is not already in context.
 
 **Zotero.** `python scripts/zotero_sync.py topics/<topic>/rows.json --topic "<topic>"`
+(add `--group "<group name, ID or URL>"` when the user named a group for this search)
 writes into the private group "Academic Literature Search": one top-level collection per
 topic, one item per reference row (DOI, abstract, tags; key content, relevance and journal
 rank in the Extra field), skipping items already there, and writes `zotero_key` back into
@@ -199,9 +203,9 @@ groups or keys, and keys must never be pasted into the chat.
    *Private Membership*. The group ID is the number in the group's URL
    (`https://www.zotero.org/groups/<ID>/academic_literature_search`).
 2. **API key.** https://www.zotero.org/settings/keys/new: name it e.g. "Claude literature
-   search"; under *Default Group Permissions* or *Per Group Permissions* give the group
-   **Read/Write**; personal-library access is optional. Copy the key once; Zotero does not
-   show it again.
+   search"; under *Default Group Permissions* choose **All Groups: Read/Write**, so groups
+   created later work without a new key; personal-library access is optional. Copy the key
+   once; Zotero does not show it again.
 3. **Where the key lives.**
    - Local runs (Claude Code on a PC): `.env` in this skill folder (git-ignored), with
      `ZOTERO_KEY=` and `ZOTERO_GROUP=`.
@@ -214,7 +218,13 @@ groups or keys, and keys must never be pasted into the chat.
    - The long names `ZOTERO_API_KEY`, `ZOTERO_GROUP_ID` and `ZOTERO_GROUP_NAME` work too.
 
 Then `python scripts/zotero_sync.py --check` prints the key owner, the groups with write
-permission and the target. Earlier topics are pushed with the normal sync command; re-runs
+permission and the target.
+
+**A separate group per search** (e.g. to share one search with co-authors): Zotero has no
+API for creating groups, so the researcher creates the group on zotero.org (about a
+minute) and names it with the topic. The sync then targets it with `--group "<name>"`;
+`--check --group "<name>"` tests it first. The environment keeps only the key, and
+`ZOTERO_GROUP` stays the default. Earlier topics are pushed with the normal sync command; re-runs
 only add new items.
 
 ## Quality bar (why it matters)
