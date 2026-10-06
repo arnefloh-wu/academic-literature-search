@@ -41,7 +41,7 @@ BIB_TYPE = {"journalArticle": "article", "book": "book", "bookSection": "incolle
 RIS_TYPE = {"journalArticle": "JOUR", "book": "BOOK", "bookSection": "CHAP", "report": "RPRT",
             "preprint": "UNPB", "conferencePaper": "CPAPER", "thesis": "THES", "dataset": "DATA",
             "webpage": "ELEC", "blogPost": "BLOG", "manuscript": "UNPB"}
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\])]+", re.I)
+DOI_RE = re.compile(r"10\.\d{4,9}/\S+", re.I)
 YEAR_RE = re.compile(r"\b(1[89]|20)\d{2}[a-z]?\b")
 
 
@@ -121,11 +121,28 @@ def year_of(row: dict) -> str:
     return m.group(0) if m else "n.d."
 
 
+def trim_balanced(text: str) -> str:
+    """Strip trailing punctuation and closing brackets that are not part of the URL/DOI.
+    DOIs such as 10.1016/S0969-6997(01)00025-4 or SICI DOIs contain balanced brackets."""
+    text = text.rstrip(".,;:'\"")
+    changed = True
+    while changed:
+        changed = False
+        for opening, closing in ("()", "[]", "<>"):
+            if text.endswith(closing) and text.count(closing) > text.count(opening):
+                text = text[:-1].rstrip(".,;:'\"")
+                changed = True
+    return text
+
+
 def doi_of(row: dict) -> str | None:
     for field in ("doi", "link"):
         m = DOI_RE.search(row.get(field) or "")
         if m:
-            return m.group(0).rstrip(".,;")
+            doi = trim_balanced(m.group(0))
+            for enc, dec in (("%28", "("), ("%29", ")"), ("%3C", "<"), ("%3E", ">")):
+                doi = doi.replace(enc, dec).replace(enc.lower(), dec)
+            return doi
     return None
 
 

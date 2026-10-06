@@ -1433,19 +1433,18 @@
     "volume": "7",
     "issue": "2",
     "pages": "335-380",
-    "doi": "10.1093/joclec/nhr003",
-    "link": "https://doi.org/10.1093/joclec/nhr003",
+    "doi": "10.1093/joclec/nhq029",
+    "link": "https://doi.org/10.1093/joclec/nhq029",
     "item_type": "journalArticle",
     "author_source": "Bilotkach and Hüschelrath, Journal of Competition Law & Economics 7(2), 335-380, 2011, article",
     "note": "Reviews the economics and policy of antitrust-immunised airline alliances and metal-neutral joint ventures, the deepest integration tier within global alliances.",
-    "relevance": "Context: defines the immunised-JV tier inside Star/oneworld/SkyTeam; DOI from memory, check; WU licence.",
+    "relevance": "Context: defines the immunised-JV tier inside Star/oneworld/SkyTeam; DOI corrected after link check; WU licence.",
     "abstract": "",
     "status": "new; link unverified",
     "access": "wu_licence",
     "files": [],
     "cite_key": "Bilotkach2011antitrust",
-    "zotero_key": "ZT7K38NB",
-    "link_check": "404 https://doi.org/10.1093/joclec/nhr003"
+    "zotero_key": "ZT7K38NB"
   },
   {
     "category": "articles",
@@ -1596,8 +1595,8 @@
     "volume": "49",
     "issue": "5",
     "pages": "607-640",
-    "doi": "10.1007/s11575-009-0009-9",
-    "link": "https://doi.org/10.1007/s11575-009-0009-9",
+    "doi": "10.1007/s11575-009-0009-4",
+    "link": "https://doi.org/10.1007/s11575-009-0009-4",
     "item_type": "journalArticle",
     "author_source": "Reus and Rottig, Management International Review 49(5), 607-640, 2009, article",
     "note": "Meta-analysis of IJV performance determinants including control, equity share, trust, cultural distance; effects of control and trust are positive but heterogeneous across contexts and measurement artefacts.",
@@ -1607,8 +1606,7 @@
     "access": "wu_licence",
     "files": [],
     "cite_key": "Reus2009meta",
-    "zotero_key": "JVF6M8V3",
-    "link_check": "404 https://doi.org/10.1007/s11575-009-0009-9"
+    "zotero_key": "JVF6M8V3"
   },
   {
     "category": "articles",
@@ -2232,8 +2230,7 @@
     "access": "wu_licence",
     "files": [],
     "cite_key": "Kleymann2001levels",
-    "zotero_key": "QCQ8W7WU",
-    "link_check": "404 https://doi.org/10.1016/S0969-6997(01"
+    "zotero_key": "QCQ8W7WU"
   },
   {
     "category": "articles",
@@ -2364,12 +2361,11 @@
     "note": "International survey of 322 manufacturers: identifies five 'arcs of integration' (inward-facing, periphery-facing, supplier-facing, customer-facing, outward-facing) that describe how far and in which direction firms integrate with suppliers and customers; the widest arcs show the strongest performance improvements.",
     "relevance": "Theory and measurement: the arc metaphor is itself a measure of differentiated integration (direction and breadth of integration with different partner types) and the cluster-analytic approach is directly reusable for classifying alliance integration profiles. Paywalled; WU licence.",
     "abstract": "",
-    "status": "new; link unverified",
+    "status": "new; confirmed in search results",
     "access": "wu_licence",
     "files": [],
     "cite_key": "Frohlich2001arcs",
-    "zotero_key": "D7R7SK68",
-    "link_check": "404 https://doi.org/10.1016/S0272-6963(00"
+    "zotero_key": "D7R7SK68"
   },
   {
     "category": "articles",
@@ -2471,12 +2467,11 @@
     "note": "Tests strong vs. weak ties (relational embeddedness) and dense vs. sparse networks (structural embeddedness) as alternative governance mechanisms in the steel and semiconductor industries; strong ties pay off in exploitation-oriented (steel) and weak ties in exploration-oriented (semiconductor) environments, and dense networks with strong ties are redundant.",
     "relevance": "Theory: the one allowed network classic; frames alliance governance and evolution as functions of position in a network of heterogeneous ties, which supports the view that a firm integrates differently with different partners according to embeddedness. Paywalled; WU licence.",
     "abstract": "",
-    "status": "new; link unverified",
+    "status": "new; confirmed in search results",
     "access": "wu_licence",
     "files": [],
     "cite_key": "Gulati1998alliances",
-    "zotero_key": "EW2XDMZT",
-    "link_check": "404 https://doi.org/10.1002/(SICI"
+    "zotero_key": "EW2XDMZT"
   },
   {
     "category": "articles",
@@ -4158,17 +4153,16 @@
     "year": 2026,
     "outlet": "standinggroups.ecpr.eu",
     "publisher": "ECPR",
-    "link": "https://standinggroups.ecpr.eu/rndi/",
+    "link": "https://ecpr.eu/Group/differentiated-integration-eu",
     "item_type": "webpage",
     "author_source": "ECPR RNDI, research network page, 2026",
-    "note": "Network of about 166 scholars (steering committee chaired by Sandra Kröger, Exeter; with Cristina Fasone, Dirk Leuffen, Christopher Lord) covering empirical, legal and historical mapping of DI, public and party support, normative trade-offs and effects on states, citizens and the constitutional order; runs a seminar series and panels at ECPR General Conferences; methodologically plural and open beyond political science.",
+    "note": "Network of about 166 scholars (steering committee chaired by Sandra Kröger, Exeter; with Cristina Fasone, Dirk Leuffen, Christopher Lord) covering empirical, legal and historical mapping of DI, public and party support, normative trade-offs and effects on states, citizens and the constitutional order; runs a seminar series and panels at ECPR General Conferences; methodologically plural and open beyond political science. The former network site (standinggroups.ecpr.eu/rndi) returned 404 in October 2026; link now points to the ECPR standing group page.",
     "relevance": "Where the DI concept community meets; a management scholar presenting an alliance application would find discussants and the ECPR 2027 Barcelona panels. Access: free.",
-    "status": "new; confirmed in search results",
+    "status": "new; link unverified",
     "access": "free",
     "files": [],
     "cite_key": "Research2026ecpr",
-    "zotero_key": "E8XPD8RF",
-    "link_check": "404 https://standinggroups.ecpr.eu/rndi/"
+    "zotero_key": "E8XPD8RF"
   },
   {
     "category": "websites",

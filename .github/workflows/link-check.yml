@@ -4,7 +4,8 @@ name: Link check
 # internet access that Claude Code cloud sessions lack. Updates the status labels and the
 # link_check field in rows.json and commits the result to the branch it ran on.
 # Start it from the Actions tab ("Run workflow") with an optional topic folder name;
-# it also runs once when this file changes.
+# it also runs when this file, verify_links.py or a rows.json changes (its own result
+# commit does not trigger a new run).
 
 on:
   workflow_dispatch:
@@ -16,6 +17,8 @@ on:
   push:
     paths:
       - ".github/workflows/link-check.yml"
+      - ".claude/skills/academic-literature-search/scripts/verify_links.py"
+      - "topics/**/rows.json"
 
 permissions:
   contents: write

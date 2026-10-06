@@ -59,8 +59,22 @@ HEADER_FIELDS = {
     "verwendung im kurs": "relevance", "use": "relevance",
     "status": "status", "year": "year", "jahr": "year", "access": "access",
 }
-LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
-URL_RE = re.compile(r"https?://[^\s)\]>]+")
+LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)\s]+)\)")
+URL_RE = re.compile(r"https?://\S+")
+
+
+def trim_balanced(text: str) -> str:
+    """Strip trailing punctuation and closing brackets that are not part of the URL/DOI.
+    DOIs such as 10.1016/S0969-6997(01)00025-4 or SICI DOIs contain balanced brackets."""
+    text = text.rstrip(".,;:'\"")
+    changed = True
+    while changed:
+        changed = False
+        for opening, closing in ("()", "[]", "<>"):
+            if text.endswith(closing) and text.count(closing) > text.count(opening):
+                text = text[:-1].rstrip(".,;:'\"")
+                changed = True
+    return text
 
 
 def clean(cell: str) -> str:
@@ -101,7 +115,11 @@ def parse_table(table: str, fallback: str | None) -> list[dict]:
         if not data.get("title"):
             continue
         link = data.get("link") or ""
-        link = (URL_RE.search(link) or [link])[0] if link else ""
+        m = URL_RE.search(link)
+        if m:
+            link = trim_balanced(m.group(0))
+            for enc, dec in (("%28", "("), ("%29", ")"), ("%3C", "<"), ("%3E", ">"), ("%20", " ")):
+                link = link.replace(enc, dec)
         author = data.get("author_source") or ""
         if data.get("year") and data["year"] not in author:
             author = ", ".join(filter(None, [author, data["year"]]))
