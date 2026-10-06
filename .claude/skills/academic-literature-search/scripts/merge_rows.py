@@ -25,10 +25,18 @@ def norm_title(text: str | None) -> str:
     return re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).strip()[:120]
 
 
+TRACKING = re.compile(r"(^|&)(utm_[a-z]+|si|ref|source|fbclid|gclid)=[^&]*")
+
+
 def norm_link(text: str | None) -> str:
+    """Lower-case, strip scheme/www, trailing slash and tracking parameters. The query string
+    itself is kept: SSRN (abstract_id=), Google Scholar (user=) and many repositories only
+    differ in their query parameters."""
     link = (text or "").strip().lower()
     link = re.sub(r"^https?://(www\.)?", "", link)
-    return link.rstrip("/").split("?")[0]
+    path, _, query = link.partition("?")
+    query = TRACKING.sub("", query).strip("&")
+    return path.rstrip("/") + (f"?{query}" if query else "")
 
 
 def keys(row: dict) -> list[str]:
