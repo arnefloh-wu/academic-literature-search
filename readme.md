@@ -8,7 +8,7 @@ four outputs out:
 |---|---|
 | Synthesis, reproducible search strings (EBSCO, Web of Science, Scopus, Primo, Scholar) and source tables (9 categories, journal grades, links, key content, relevance, status) | Notion: subpage of [Academic Literature Search](https://app.notion.com/p/3f164d53209a81b38950cb5f64506bad) |
 | Files that may be stored (open-access PDFs, data, replication code), README, rows, bibliography | Dropbox: `Academic Literature Search/<topic>/` |
-| References with full metadata | Zotero: collection "Academic Literature Search", subcollection per topic; plus `bibliography.{json,bib,ris,md}` (CSL-JSON, BibTeX, RIS, APA 7) |
+| References with full metadata | Zotero: private group "Academic Literature Search", one collection per topic; plus `bibliography.{json,bib,ris,md}` (CSL-JSON, BibTeX, RIS, APA 7) |
 | README, `rows.json`, `notion.md`, `concepts.json`, `search_strings.json`, `synthesis.md`, bibliography, files | this repo: `topics/<topic>/` |
 
 Categories: Books & Book Chapters, Journal Articles (flagged with AJG 2024 / VHB-JOURQUAL 3 /
@@ -39,7 +39,12 @@ carried-over rows are marked `existing`, additions `new`.
    the Zotero key (for the automatic library sync) and a WU Primo key add the most.
 2. Connect the Notion and Dropbox connectors in Claude Code (page creation and text uploads).
    Binary uploads to Dropbox need a Dropbox app token in `.env`.
-3. Python 3.10+; the scripts use only the standard library.
+3. Zotero: create a private group "Academic Literature Search" and an API key with
+   read/write access to it, then set `ZOTERO_API_KEY` and `ZOTERO_GROUP_ID` (steps in the
+   skill's SKILL.md, section "Zotero group setup"). In cloud sessions add both as environment
+   variables and allow `api.zotero.org` under Network access. Test with
+   `python .claude/skills/academic-literature-search/scripts/zotero_sync.py --check`.
+4. Python 3.10+; the scripts use only the standard library.
 
 ### Scripts
 
@@ -53,7 +58,7 @@ carried-over rows are marked `existing`, additions `new`.
 | `parse_notion_rows.py` | existing Notion page to rows JSON |
 | `build_output.py` | rows JSON to Notion markdown + GitHub README |
 | `build_bibliography.py` | rows JSON to CSL-JSON, BibTeX, RIS, APA 7 |
-| `zotero_sync.py` | create collection, subcollection and items in Zotero |
+| `zotero_sync.py` | topic collections and items in the Zotero group; `--check` tests key and access |
 | `dropbox_upload.py` | upload a folder tree to Dropbox |
 
 ## Topics

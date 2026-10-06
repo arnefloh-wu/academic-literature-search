@@ -10,14 +10,14 @@ description: >-
   across nine categories (books and chapters, journal articles with AJG/VHB/FT50 grades,
   working papers and unpublished materials, reports, data, websites, blogs, events, people),
   writes a synthesis and reproducible EBSCO / Web of Science / Scopus search strings, and
-  stores the result as a Notion subpage, a Dropbox subfolder, a Zotero subcollection with
+  stores the result as a Notion subpage, a Dropbox subfolder, a Zotero group collection with
   bibliography files, and a GitHub topic folder.
 ---
 
 # Academic Literature Search
 
 Build a complete, link-checked literature guide for one research topic or research question
-and store it in four places: a Notion subpage, a Dropbox subfolder, a Zotero subcollection
+and store it in four places: a Notion subpage, a Dropbox subfolder, a Zotero group collection
 (plus bibliography files) and a folder in the GitHub repo
 `arnefloh-wu/academic-literature-search`. The reference result is the Notion page
 "Differentiated International Integration in International Alliances": aim for that depth
@@ -26,7 +26,7 @@ and tone. Everything is in English.
 ## Step 0: Get the topic
 
 The user pastes a short text: a research topic or a research question. Take it **as typed**
-for the Notion page title, the Dropbox subfolder, the Zotero subcollection and the GitHub
+for the Notion page title, the Dropbox subfolder, the Zotero group collection and the GitHub
 folder `topics/<topic>/`. Folder and collection names cannot contain `/`: replace each `/`
 with ` & `; the Notion title keeps the original. If the text is a full question, use its
 noun phrase as the title (e.g. "How do partners differentiate integration in international
@@ -46,6 +46,9 @@ else; run fully autonomously to the end and report once with the links.
    scholarly API hosts are usually blocked by the network policy (see the note in
    `references/sources.md`); then skip the scripts' network connectors entirely and tell the
    agents to use Consensus, web search and WebFetch.
+   Also run `python scripts/zotero_sync.py --check`: it shows whether the Zotero key is set,
+   which group it writes to and whether `api.zotero.org` is reachable. If it fails, carry on
+   and report it at the end (see "Zotero group setup").
 2. Check for a previous run: search Notion for a subpage with the topic title under
    "Academic Literature Search" (page `3f164d53209a81b38950cb5f64506bad`) and look for
    `topics/<topic>/rows.json` in the repo. If either exists, this is an **update run**:
@@ -151,10 +154,11 @@ create the page with the intro, synthesis, search strings and the first tables, 
 if it is not already in context.
 
 **Zotero.** `python scripts/zotero_sync.py topics/<topic>/rows.json --topic "<topic>"`
-creates the collection "Academic Literature Search" (once), the subcollection `<topic>` and
-one item per reference row, skipping items already there; it writes `zotero_key` back into
-the rows. Needs `ZOTERO_API_KEY` and `ZOTERO_USER_ID` in `.env` and a reachable
-`api.zotero.org`. If either is missing, say so in the report and point to
+writes into the private group "Academic Literature Search": one top-level collection per
+topic, one item per reference row (DOI, abstract, tags; key content, relevance and journal
+rank in the Extra field), skipping items already there, and writes `zotero_key` back into
+the rows (commit the updated `rows.json`). If `--check` failed in Step 1, say so in the
+report, name the missing piece (key, group ID, network) and point to
 `bibliography.ris` / `bibliography.json` for a manual import (File > Import in Zotero).
 
 **Dropbox.** Parent folder: `/Academic Literature Search` (shared link
@@ -182,6 +186,31 @@ file if the sync could not run), GitHub folder link, row counts per category, ho
 verified, which connectors were skipped for lack of keys or blocked by the network, and what
 the researcher should check by hand (unverified grades, paywalled items, licence questions).
 
+## Zotero group setup (once, by the researcher)
+
+The sync needs three things. Claude cannot create them: Zotero offers no API for creating
+groups or keys, and keys must never be pasted into the chat.
+
+1. **Group.** https://www.zotero.org/groups/new: name "Academic Literature Search", type
+   *Private Membership*. The group ID is the number in the group's URL
+   (`https://www.zotero.org/groups/<ID>/academic_literature_search`).
+2. **API key.** https://www.zotero.org/settings/keys/new: name it e.g. "Claude literature
+   search"; under *Default Group Permissions* or *Per Group Permissions* give the group
+   **Read/Write**; personal-library access is optional. Copy the key once; Zotero does not
+   show it again.
+3. **Where the key lives.**
+   - Local runs (Claude Code on a PC): `.env` in this skill folder (git-ignored), with
+     `ZOTERO_API_KEY=` and `ZOTERO_GROUP_ID=`.
+   - Cloud sessions (claude.ai/code): environment settings (cloud environment menu in the
+     session title bar, then Edit): add the environment variables `ZOTERO_API_KEY` and
+     `ZOTERO_GROUP_ID`, and under *Network access* choose Custom and add `api.zotero.org`
+     to the allowed domains (keep the default package-manager list). New sessions pick
+     both up.
+
+Then `python scripts/zotero_sync.py --check` prints the key owner, the groups with write
+permission and the target. Earlier topics are pushed with the normal sync command; re-runs
+only add new items.
+
 ## Quality bar (why it matters)
 
 The page replaces days of database work before a paper is designed. A row that only repeats
@@ -200,7 +229,7 @@ Prefer fewer, better-annotated rows over padding, but do not stop early when a b
 - `scripts/parse_notion_rows.py`: Notion page markdown to rows JSON
 - `scripts/build_output.py`: rows JSON to Notion markdown and GitHub README
 - `scripts/build_bibliography.py`: rows JSON to CSL-JSON, BibTeX, RIS and APA 7
-- `scripts/zotero_sync.py`: collection and items in Zotero via the Web API
+- `scripts/zotero_sync.py`: topic collections and items in the Zotero group (`--check` tests the setup)
 - `scripts/dropbox_upload.py`: upload a folder tree to Dropbox via API token
 - `references/sources.md`: source catalogue, WU licences, data sources, how to get each key
 - `references/output-format.md`: row schema, categories, status labels, table layout
