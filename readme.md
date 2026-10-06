@@ -58,7 +58,7 @@ carried-over rows are marked `existing`, additions `new`.
 | `parse_notion_rows.py` | existing Notion page to rows JSON |
 | `build_output.py` | rows JSON to Notion markdown + GitHub README |
 | `build_bibliography.py` | rows JSON to CSL-JSON, BibTeX, RIS, APA 7 |
-| `zotero_sync.py` | topic collections and items in the Zotero group; `--check` tests key and access |
+| `zotero_sync.py` | topic collections and items in the Zotero group; `--group` picks another group per search; `--check` tests key and access |
 | `dropbox_upload.py` | upload a folder tree to Dropbox |
 
 ## Topics
