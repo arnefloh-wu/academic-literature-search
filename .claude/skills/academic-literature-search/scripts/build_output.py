@@ -88,16 +88,31 @@ def href(url: str) -> str:
                .replace("<", "%3C").replace(">", "%3E").replace(" ", "%20"))
 
 
+FILE_RE = re.compile(r"(?<![\w/.-])((?:[\w-]+/)*[\w-]+\.(?:py|json|md|bib|ris|yml|yaml|csv))\b")
+
+
+def plain_segment(text: str) -> str:
+    """Escape Notion specials; set file names in code so Notion does not auto-link
+    'links.py' or 'rows.json' as web domains."""
+    out, pos = [], 0
+    for m in FILE_RE.finditer(text):
+        out.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:m.start()]))
+        out.append(f"`{m.group(1)}`")
+        pos = m.end()
+    out.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:]))
+    return "".join(out)
+
+
 def notion_text(text: str | None) -> str:
     """Escape Notion specials and turn bare URLs into links."""
     text = " ".join(str(text or "").split())
     parts, pos = [], 0
     for m in URL_RE.finditer(text):
         url = trim_balanced(m.group(0))
-        parts.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:m.start()]))
+        parts.append(plain_segment(text[pos:m.start()]))
         parts.append(f"[{NOTION_SPECIAL.sub(r'\\\1', url)}]({href(url)})")
         pos = m.start() + len(url)
-    parts.append(NOTION_SPECIAL.sub(r"\\\1", text[pos:]))
+    parts.append(plain_segment(text[pos:]))
     return "".join(parts)
 
 
